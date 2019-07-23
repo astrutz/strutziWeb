@@ -1,0 +1,47 @@
+[
+  {
+    "id": 421825890,
+    "name": "Freundschaftsspiel",
+    "level": 0
+  },
+  {
+    "id": 553808848,
+    "name": "Normalstaffel",
+    "level": 1
+  },
+  {
+    "id": 423288836,
+    "name": "Regionalliga",
+    "level": 6
+  },
+  {
+    "id": 323650800,
+    "name": "Leistungsstaffel",
+    "level": 2
+  },
+  {
+    "id": 932748675,
+    "name": "Bezirksliga",
+    "level": 5
+  },
+  {
+    "id": 991823047,
+    "name": "Mittelrheinliga",
+    "level": 5
+  },
+  {
+    "id": 466308191,
+    "name": "Sonderstaffel",
+    "level": 3
+  },
+  {
+    "id": 287786261,
+    "name": "Kreisliga A",
+    "level": 2
+  },
+  {
+    "id": 489251338,
+    "name": "Kreispokal Vorrunde",
+    "level": -1
+  }
+]

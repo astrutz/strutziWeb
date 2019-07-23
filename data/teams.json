@@ -1,0 +1,153 @@
+[
+  {
+    "id": 306589103,
+    "name": "TuS Reichshof",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000027VV0AG08LVUPGND5I",
+    "street": "Hahnbucher Str. 21",
+    "town": "51580 Reichshof",
+    "colors": [
+      "red", "blue", "white"
+    ]
+  },
+  {
+    "id": 220647676,
+    "name": "SV Morsbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001UVV0AG08LVUPGND5I",
+    "street": "In der Au 34",
+    "town": "51597 Morsbach",
+    "colors": [
+      "red", "white", "white"
+    ]
+  },
+  {
+    "id": 28963480,
+    "name": "BSV Viktoria Bielstein",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000DVV0AG08LVUPGND5I",
+    "street": "Jahnstr. 15",
+    "town": "51674 Wiehl",
+    "colors": [
+      "blue", "yellow", "blue"
+    ]
+  },
+  {
+    "id": 212385279,
+    "name": "1. FC Gummersbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000VVV0AG08LVUPGND5I",
+    "street": "Am Wiedenhof 23",
+    "town": "51643 Gummersbach",
+    "colors": [
+      "blue", "white", "white"
+    ]
+  },
+  {
+    "id": 60565914,
+    "name": "SV Menden",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400009JVV0AG08LVUPGND5I",
+    "street": "Fritz-Schröder-Str. 37",
+    "town": "53757 Sankt Augustin",
+    "colors": [
+      "blue", "white", "white"
+    ]
+  },
+  {
+    "id": 16218811,
+    "name": "Borussia Mönchengladbach II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8UK00002NVV0AG08LVUPGND5I",
+    "street": "Am Haus Lütz 57",
+    "town": "41066 Mönchengladbach",
+    "colors": [
+      "black", "white", "black"
+    ]
+  },
+  {
+    "id": 827471326,
+    "name": "SSV Bergneustadt",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000CVV0AG08LVUPGND5I",
+    "street": "Rudolf-Harbig-Str. 18",
+    "town": "51702 Bergneustadt",
+    "colors": [
+      "green", "white", "white"
+    ]
+  },
+  {
+    "id": 597529749,
+    "name": "SSV Jan Wellem II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001IVV0AG08LVUPGND5I",
+    "street": "Am Rübezahlwald 1",
+    "town": "51469 Bergisch Gladbach",
+    "colors": [
+      "white", "black", "black"
+    ]
+  },
+  {
+    "id": 328799393,
+    "name": "Spvg. Porz",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400004BVV0AG08LVUPGND5I",
+    "street": "Zündorfer Str. 1",
+    "town": "51145 Köln",
+    "colors": [
+      "red", "red", "red"
+    ]
+  },
+  {
+    "id": 427767080,
+    "name": "TuS Marialinden",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001QVV0AG08LVUPGND5I",
+    "street": "Oberscheiderfeld 20",
+    "town": "51491 Overath",
+    "colors": [
+      "yellow", "black", "black"
+    ]
+  },
+  {
+    "id": 775799520,
+    "name": "FV Wiehl",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002PVV0AG08LVUPGND5I",
+    "street": "Friedhofstr. 13",
+    "town": "51674 Wiehl",
+    "colors": [
+      "white", "black", "white"
+    ]
+  },
+  {
+    "id": 110403903,
+    "name": "DJK Viktoria Frechen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00008GVV0AG08LVUPGND5I",
+    "street": "Burgstr. 1",
+    "town": "50226 Frechen",
+    "colors": [
+      "yellow", "black", "yellow"
+    ]
+  },
+  {
+    "id": 248736095,
+    "name": "FC Wiedenest-Othetal",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002OVV0AG08LVUPGND5I",
+    "street": "Pernze 1",
+    "town": "51702 Bergneustadt",
+    "colors": [
+      "blue", "white", "white"
+    ]
+  },
+  {
+    "id": 569062500,
+    "name": "FV Wiehl II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002PVV0AG08LVUPGND5I",
+    "street": "Friedhofstr. 13",
+    "town": "51674 Wiehl",
+    "colors": [
+      "black", "white", "white"
+    ]
+  },
+  {
+    "id": 867782360,
+    "name": "SSV Hochwald",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000019VV0AG08LVUPGND5I",
+    "street": "Hochwald 1",
+    "town": "51545 Waldbröl",
+    "colors": [
+      "grün", "gelb", "grün"
+    ]
+  }
+]
+

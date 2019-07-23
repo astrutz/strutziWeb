@@ -1,0 +1,32 @@
+.accordionContent{
+    display: none;
+    border: none;
+    background-color: #f5f5f5;
+}
+
+.accordionIcon{
+    width: 24px;
+    height: 24px;
+    float: right;
+}
+
+.icon{
+    width: 30px;
+    height: auto;
+}
+
+.homeIcon{
+    margin-right: 20px;
+}
+
+.awayIcon{
+    margin-left: 20px;
+}
+
+.homeName{
+    text-align: right;
+}
+
+.awayName{
+    text-align: left;
+}
