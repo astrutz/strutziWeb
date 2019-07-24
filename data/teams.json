@@ -6,7 +6,9 @@
     "street": "Hahnbucher Str. 21",
     "town": "51580 Reichshof",
     "colors": [
-      "red", "blue", "white"
+      "red",
+      "blue",
+      "white"
     ]
   },
   {
@@ -16,7 +18,9 @@
     "street": "In der Au 34",
     "town": "51597 Morsbach",
     "colors": [
-      "red", "white", "white"
+      "red",
+      "white",
+      "white"
     ]
   },
   {
@@ -26,7 +30,9 @@
     "street": "Jahnstr. 15",
     "town": "51674 Wiehl",
     "colors": [
-      "blue", "yellow", "blue"
+      "blue",
+      "yellow",
+      "blue"
     ]
   },
   {
@@ -36,7 +42,9 @@
     "street": "Am Wiedenhof 23",
     "town": "51643 Gummersbach",
     "colors": [
-      "blue", "white", "white"
+      "blue",
+      "white",
+      "white"
     ]
   },
   {
@@ -46,7 +54,9 @@
     "street": "Fritz-Schröder-Str. 37",
     "town": "53757 Sankt Augustin",
     "colors": [
-      "blue", "white", "white"
+      "blue",
+      "white",
+      "white"
     ]
   },
   {
@@ -56,7 +66,9 @@
     "street": "Am Haus Lütz 57",
     "town": "41066 Mönchengladbach",
     "colors": [
-      "black", "white", "black"
+      "black",
+      "white",
+      "black"
     ]
   },
   {
@@ -66,7 +78,9 @@
     "street": "Rudolf-Harbig-Str. 18",
     "town": "51702 Bergneustadt",
     "colors": [
-      "green", "white", "white"
+      "green",
+      "white",
+      "white"
     ]
   },
   {
@@ -76,7 +90,9 @@
     "street": "Am Rübezahlwald 1",
     "town": "51469 Bergisch Gladbach",
     "colors": [
-      "white", "black", "black"
+      "white",
+      "black",
+      "black"
     ]
   },
   {
@@ -86,7 +102,9 @@
     "street": "Zündorfer Str. 1",
     "town": "51145 Köln",
     "colors": [
-      "red", "red", "red"
+      "red",
+      "red",
+      "red"
     ]
   },
   {
@@ -96,7 +114,9 @@
     "street": "Oberscheiderfeld 20",
     "town": "51491 Overath",
     "colors": [
-      "yellow", "black", "black"
+      "yellow",
+      "black",
+      "black"
     ]
   },
   {
@@ -106,7 +126,9 @@
     "street": "Friedhofstr. 13",
     "town": "51674 Wiehl",
     "colors": [
-      "white", "black", "white"
+      "white",
+      "black",
+      "white"
     ]
   },
   {
@@ -116,7 +138,9 @@
     "street": "Burgstr. 1",
     "town": "50226 Frechen",
     "colors": [
-      "yellow", "black", "yellow"
+      "yellow",
+      "black",
+      "yellow"
     ]
   },
   {
@@ -126,7 +150,9 @@
     "street": "Pernze 1",
     "town": "51702 Bergneustadt",
     "colors": [
-      "blue", "white", "white"
+      "blue",
+      "white",
+      "white"
     ]
   },
   {
@@ -136,7 +162,9 @@
     "street": "Friedhofstr. 13",
     "town": "51674 Wiehl",
     "colors": [
-      "black", "white", "white"
+      "black",
+      "white",
+      "white"
     ]
   },
   {
@@ -146,7 +174,1317 @@
     "street": "Hochwald 1",
     "town": "51545 Waldbröl",
     "colors": [
-      "grün", "gelb", "grün"
+      "green",
+      "yellow",
+      "green"
+    ]
+  },
+  {
+    "id": 732205436,
+    "name": "SV Frielingsdorf",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000SVV0AG08LVUPGND5I",
+    "street": "Scheeler Mühle 5",
+    "town": "51789 Lindlar",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 265126090,
+    "name": "TV Herkenrath",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000016VV0AG08LVUPGND5I",
+    "street": "Braunsberg 8",
+    "town": "51429 Bergisch Gladbach",
+    "colors": [
+      "black",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 224514577,
+    "name": "SSV Homburg-Nümbrecht",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001EVV0AG08LVUPGND5I",
+    "street": "Mateh-Yehuda-Str. 9",
+    "town": "51588 Nümbrecht",
+    "colors": [
+      "yellow",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 688845276,
+    "name": "SV Schönenbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002DVV0AG08LVUPGND5I",
+    "street": "Lademacher-Waldarena-Weg 15",
+    "town": "51545 Waldbröl",
+    "colors": [
+      "yellow",
+      "black",
+      "yellow"
+    ]
+  },
+  {
+    "id": 338031917,
+    "name": "SV Schnellenbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002CVV0AG08LVUPGND5I",
+    "street": "Sportplatzweg 1",
+    "town": "51766 Engelskirchen",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 688845276,
+    "name": "SV Lohmar",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400009EVV0AG08LVUPGND5I",
+    "street": "Donrather Dreieck 18",
+    "town": "53797 Lohmar",
+    "colors": [
+      "red",
+      "black",
+      "red"
+    ]
+  },
+  {
+    "id": 338031917,
+    "name": "SV Rott",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9A000001CVV0AG08LVUPGND5I",
+    "street": "Tiergarten 1",
+    "town": "52159 Roetgen",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 328927962,
+    "name": "FC Hennef 05",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000092VV0AG08LVUPGND5I",
+    "street": "Fritz-Jakobi-Str. 24",
+    "town": "53773 Hennef",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 703696927,
+    "name": "Siegburger SV 04",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9140000A9VV0AG08LVUPGND5I",
+    "street": "Am Stadion 1",
+    "town": "53721 Siegburg",
+    "colors": [
+      "blue",
+      "blue",
+      "white"
+    ]
+  },
+  {
+    "id": 441988107,
+    "name": "FC Germania Dürwiß",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9A000000FVV0AG08LVUPGND5I",
+    "street": "Jülicher Str. 270",
+    "town": "52249 Eschweiler",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 439915091,
+    "name": "RS 19 Waldbröl",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002KVV0AG08LVUPGND5I",
+    "street": "Turnerstr. 44",
+    "town": "51545 Waldbröl",
+    "colors": [
+      "yellow",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 72009513,
+    "name": "SG Agathaberg",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000005VV0AG08LVUPGND5I",
+    "street": "Agathaberg 1",
+    "town": "51688 Wipperfürth",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 109933687,
+    "name": "FV Wiehl III",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002PVV0AG08LVUPGND5I",
+    "street": "Friedhofstr. 13",
+    "town": "51674 Wiehl",
+    "colors": [
+      "black",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 463021764,
+    "name": "SF Asbachtal",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000HVV0AG08LVUPGND5I",
+    "street": "Olper Str. 40",
+    "town": "51580 Reichshof",
+    "colors": [
+      "green",
+      "green",
+      "white"
+    ]
+  },
+  {
+    "id": 803064831,
+    "name": "Borussia Derschlag",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000IVV0AG08LVUPGND5I",
+    "street": "Epelstr. 23",
+    "town": "51645 Gummersbach",
+    "colors": [
+      "white",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 399869818,
+    "name": "FC Düren-Niederau",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9A0000058VV0AG08LVUPGND5I",
+    "street": "Kreuzauer Str. 1",
+    "town": "52355 Düren",
+    "colors": [
+      "blue",
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": 399314707,
+    "name": "BV Drabenderhöhe",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000KVV0AG08LVUPGND5I",
+    "street": "In der Landwehr 1",
+    "town": "51674 Wiehl",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 117593373,
+    "name": "SV Refrath/Frankenforst",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000026VV0AG08LVUPGND5I",
+    "street": "An der Steinbreche 1",
+    "town": "51427 Bergisch Gladbach",
+    "colors": [
+      "blue",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 759639218,
+    "name": "FC BW Friesdorf",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/01HD4T1694000000VV0AG811VVIODKH9",
+    "street": "Margarethenstr. 1",
+    "town": "53175 Bonn",
+    "colors": [
+      "blue",
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": 565698157,
+    "name": "DJK Gummersbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000010VV0AG08LVUPGND5I",
+    "street": "Westsr. 57A",
+    "town": "51643 Gummersbach",
+    "colors": [
+      "white",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 547878249,
+    "name": "FV Wiehl IV",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002PVV0AG08LVUPGND5I",
+    "street": "Friedhofstr. 13",
+    "town": "51674 Wiehl",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 632914005,
+    "name": "SSV Marienheide III",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001SVV0AG08LVUPGND5I",
+    "street": "Jahnstr. 1",
+    "town": "51709 Marienheide",
+    "colors": [
+      "white",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 541601024,
+    "name": "Spvg. Dümmlinghausen-Bernberg",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000LVV0AG08LVUPGND5I",
+    "street": "Dümmlinghausener Str. 1",
+    "town": "51647 Gummersbach",
+    "colors": [
+      "blue",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 979428063,
+    "name": "SV Bergisch Gladbach 09",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002EVV0AG08LVUPGND5I",
+    "street": "Paffrather Str. 135",
+    "town": "51465 Bergisch Gladbach",
+    "colors": [
+      "white",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 381383303,
+    "name": "SF Asbachtal II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000HVV0AG08LVUPGND5I",
+    "street": "Olper Str. 40",
+    "town": "51580 Reichshof",
+    "colors": [
+      "green",
+      "green",
+      "white"
+    ]
+  },
+  {
+    "id": 476566683,
+    "name": "SpVgg. Holpe-Steimelhagen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001CVV0AG08LVUPGND5I",
+    "street": "Auf der Au 1",
+    "town": "51597 Morsbach",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 786831563,
+    "name": "Heiligenhauser SV II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000015VV0AG08LVUPGND5I",
+    "street": "Heideweg 17",
+    "town": "51491 Overath",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 572008315,
+    "name": "Bonner SC",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000061VV0AG08LVUPGND5I",
+    "street": "Kölnstr. 250",
+    "town": "53117 Bonn",
+    "colors": [
+      "blue",
+      "black",
+      "blue"
+    ]
+  },
+  {
+    "id": 110033385,
+    "name": "SSV Wildbergerhütte-Odenspiel",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/01AE507ICC000000VV0AG80NVTSK6B05",
+    "street": "In der Heide 1",
+    "town": "51580 Reichshof",
+    "colors": [
+      "black",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 14457434,
+    "name": "Heiligenhauser SV",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000015VV0AG08LVUPGND5I",
+    "street": "Heideweg 17",
+    "town": "51491 Overath",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 665950045,
+    "name": "TuS Elsenroth",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000OVV0AG08LVUPGND5I",
+    "street": "Kreuzheide 3",
+    "town": "51588 Nümbrecht",
+    "colors": [
+      "white",
+      "blue",
+      "white"
+    ]
+  },
+  {
+    "id": 132702074,
+    "name": "SV Frömmersbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000TVV0AG08LVUPGND5I",
+    "street": "Am Sonnenberg 25",
+    "town": "51647 Gummersbach",
+    "colors": [
+      "yellow",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 762254914,
+    "name": "VfR Marienhagen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001RVV0AG08LVUPGND5I",
+    "street": "Enselskamp 1",
+    "town": "51674 Wiehl",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 476685147,
+    "name": "SV Bergisch Gladbach 09 II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002EVV0AG08LVUPGND5I",
+    "street": "Paffrather Str. 135",
+    "town": "51465 Bergisch Gladbach",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 774909364,
+    "name": "SSV Marienheide",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001SVV0AG08LVUPGND5I",
+    "street": "Jahnstr. 1",
+    "town": "51709 Marienheide",
+    "colors": [
+      "white",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 284798752,
+    "name": "FC Wiedenest-Othetal II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002OVV0AG08LVUPGND5I",
+    "street": "Pernze 1",
+    "town": "51702 Bergneustadt",
+    "colors": [
+      "blue",
+      "blue",
+      "white"
+    ]
+  },
+  {
+    "id": 397717528,
+    "name": "TuS Reichshof II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000027VV0AG08LVUPGND5I",
+    "street": "Hahnbucher Str. 21",
+    "town": "51580 Reichshof",
+    "colors": [
+      "blue",
+      "blue",
+      "white"
+    ]
+  },
+  {
+    "id": 200955058,
+    "name": "SSV Homburg-Nümbrecht II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001EVV0AG08LVUPGND5I",
+    "street": "Mateh-Yehuda-Str. 9",
+    "town": "51588 Nümbrecht",
+    "colors": [
+      "blue",
+      "yellow",
+      "blue"
+    ]
+  },
+  {
+    "id": 541956891,
+    "name": "RS 19 Waldbröl II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002KVV0AG08LVUPGND5I",
+    "street": "Turnerstr. 44",
+    "town": "51545 Waldbröl",
+    "colors": [
+      "blue",
+      "yellow",
+      "blue"
+    ]
+  },
+  {
+    "id": 972501128,
+    "name": "SV Refrath/Frankenforst II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000026VV0AG08LVUPGND5I",
+    "street": "An der Steinbreche 1",
+    "town": "51427 Bergisch Gladbach",
+    "colors": [
+      "white",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 526369082,
+    "name": "SSV Bergneustadt II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000CVV0AG08LVUPGND5I",
+    "street": "Rudolf-Harbig-Str. 18",
+    "town": "51702 Bergneustadt",
+    "colors": [
+      "white",
+      "green",
+      "white"
+    ]
+  },
+  {
+    "id": 683827320,
+    "name": "SV Refrath/Frankenforst III",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000026VV0AG08LVUPGND5I",
+    "street": "An der Steinbreche 1",
+    "town": "51427 Bergisch Gladbach",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 444874298,
+    "name": "TuS Homburg-Bröltal",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001DVV0AG08LVUPGND5I",
+    "street": "Sportplatzweg 1",
+    "town": "51588 Nümbrecht",
+    "colors": [
+      "green",
+      "green",
+      "white"
+    ]
+  },
+  {
+    "id": 960908470,
+    "name": "TuS Lindlar",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001OVV0AG08LVUPGND5I",
+    "street": "Johannesweg 2",
+    "town": "51789 Lindlar",
+    "colors": [
+      "green",
+      "green",
+      "white"
+    ]
+  },
+  {
+    "id": 838803343,
+    "name": "Spvg. Rossenbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000029VV0AG08LVUPGND5I",
+    "street": "Niederhausener Weg 1",
+    "town": "51545 Waldbröl",
+    "colors": [
+      "white",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 974498182,
+    "name": "Euskirchener TSC II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00003TVV0AG08LVUPGND5I",
+    "street": "Am Schwalbenberg 10",
+    "town": "53879 Euskirchen",
+    "colors": [
+      "yellow",
+      "red",
+      "yellow"
+    ]
+  },
+  {
+    "id": 941762364,
+    "name": "Spvg. Wallerhausen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002MVV0AG08LVUPGND5I",
+    "street": "Hochstr. 1",
+    "town": "51597 Morsbach",
+    "colors": [
+      "red",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 846207258,
+    "name": "Euskirchener TSC",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00003TVV0AG08LVUPGND5I",
+    "street": "Am Schwalbenberg 10",
+    "town": "53879 Euskirchen",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 866101804,
+    "name": "Wahlscheider SV",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000003VV0AG08LVUPGND5I",
+    "street": "Krebsaueler Str. 1",
+    "town": "53797 Lohmar",
+    "colors": [
+      "yellow",
+      "yellow",
+      "black"
+    ]
+  },
+  {
+    "id": 616307371,
+    "name": "Oberkasseler FV",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400007BVV0AG08LVUPGND5I",
+    "street": "Am Stingenberg 1",
+    "town": "53227 Bonn",
+    "colors": [
+      "black",
+      "black",
+      "green"
+    ]
+  },
+  {
+    "id": 407251279,
+    "name": "SG Wiehl/Marienhagen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001RVV0AG08LVUPGND5I",
+    "street": "Enselskamp 1",
+    "town": "51674 Wiehl",
+    "colors": [
+      "black",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 291747998,
+    "name": "VfR Wipperfürth",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002TVV0AG08LVUPGND5I",
+    "street": "Wupperstr. 11",
+    "town": "51688 Wipperfürth",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 158028414,
+    "name": "VfR Wipperfürth II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002TVV0AG08LVUPGND5I",
+    "street": "Wupperstr. 11",
+    "town": "51688 Wipperfürth",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 819176713,
+    "name": "SC Fortuna Köln",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400002FVV0AG08LVUPGND5I",
+    "street": "Vorgebirgsstr. 76",
+    "town": "50969 Köln",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 368332722,
+    "name": "SV Germania Salchendorf",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8QS00007GVV0AG08LVUPGND5I",
+    "street": "Deuzer Weg 2",
+    "town": "57250 Netphen",
+    "colors": [
+      "blue",
+      "white",
+      "blue"
+    ]
+  },
+  {
+    "id": 410151377,
+    "name": "SV Bergheim",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400008HVV0AG08LVUPGND5I",
+    "street": "Am Krausacker 1",
+    "town": "53844 Troisdorf",
+    "colors": [
+      "white",
+      "white",
+      "blue"
+    ]
+  },
+  {
+    "id": 602962618,
+    "name": "SV Schlebusch",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400004PVV0AG08LVUPGND5I",
+    "street": "Im Bühl 1",
+    "town": "51375 Leverkusen",
+    "colors": [
+      "yellow",
+      "black",
+      "yellow"
+    ]
+  },
+  {
+    "id": 574214280,
+    "name": "TSV Ründeroth",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002AVV0AG08LVUPGND5I",
+    "street": "Gartenstr. 46",
+    "town": "51766 Engelskirchen",
+    "colors": [
+      "green",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "id": 417165243,
+    "name": "SC Vilkerath",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002IVV0AG08LVUPGND5I",
+    "street": "An den Tannen 12",
+    "town": "51491 Overath",
+    "colors": [
+      "red",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 550198580,
+    "name": "SV Schwanenberg",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9A0000086VV0AG08LVUPGND5I",
+    "street": "In der Schlei 1",
+    "town": "41812 Erkelenz",
+    "colors": [
+      "black",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 574086576,
+    "name": "DJK Wipperfeld",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002SVV0AG08LVUPGND5I",
+    "street": "Weierweg 1",
+    "town": "51688 Wipperfürth",
+    "colors": [
+      "yellow",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 347255683,
+    "name": "TuS Immekeppel",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001GVV0AG08LVUPGND5I",
+    "street": "Wilhelm-Heidkamp-Str. 10",
+    "town": "51491 Overath",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 328628926,
+    "name": "TV Hoffnungsthal",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001AVV0AG08LVUPGND5I",
+    "street": "Bergsegen 11",
+    "town": "51503 Rösrath",
+    "colors": [
+      "blue",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 135388436,
+    "name": "SV Frielingsdorf II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000SVV0AG08LVUPGND5I",
+    "street": "Scheeler Mühle 5",
+    "town": "51789 Lindlar",
+    "colors": [
+      "white",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 961720713,
+    "name": "SC West Köln",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000053VV0AG08LVUPGND5I",
+    "street": "Apenrader Str. 42",
+    "town": "50825 Köln",
+    "colors": [
+      "blue",
+      "yellow",
+      "yellow"
+    ]
+  },
+  {
+    "id": 411094161,
+    "name": "SG Refrath-Frankenforst/Bensberg",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000026VV0AG08LVUPGND5I",
+    "street": "An der Steinbreche 1",
+    "town": "51427 Bergisch Gladbach",
+    "colors": [
+      "white",
+      "white",
+      "blue"
+    ]
+  },
+  {
+    "id": 769141705,
+    "name": "SG Dürscheid/Moitzfeld",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000MVV0AG08LVUPGND5I",
+    "street": "Zum Sportplatz 1",
+    "town": "51427 Bergisch Gladbach",
+    "colors": [
+      "green",
+      "black",
+      "green"
+    ]
+  },
+  {
+    "id": 641116032,
+    "name": "SG Gummersbach/Derschlag",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000010VV0AG08LVUPGND5I",
+    "street": "Epelstr. 23",
+    "town": "51645 Gummersbach",
+    "colors": [
+      "grey",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 224646254,
+    "name": "SG Weiershagen/Bielstein",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002NVV0AG08LVUPGND5I",
+    "street": "Bergerhofer Str. 6",
+    "town": "51674 Wiehl",
+    "colors": [
+      "blue",
+      "blue",
+      "white"
+    ]
+  },
+  {
+    "id": 769168438,
+    "name": "SG Wipperfeld/Thier",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002SVV0AG08LVUPGND5I",
+    "street": "Weierweg 1",
+    "town": "51688 Wipperfürth",
+    "colors": [
+      "yellow",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 785701656,
+    "name": "TSV Dieringhausen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000JVV0AG08LVUPGND5I",
+    "street": "Zum Sportplatz 72D",
+    "town": "51645 Gummersbach",
+    "colors": [
+      "red",
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": 291705993,
+    "name": "SF Troisdorf 05",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9140000AHVV0AG08LVUPGND5I",
+    "street": "Taubengasse 201",
+    "town": "53840 Troisdorf",
+    "colors": [
+      "red",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 70554192,
+    "name": "1. FC Niederkassel",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/016DKOJ71G000000VV0AG811VSFBKH2G",
+    "street": "Spicher Str. 98",
+    "town": "53859 Niederkassel",
+    "colors": [
+      "red",
+      "black",
+      "red"
+    ]
+  },
+  {
+    "id": 10687159,
+    "name": "TSV Hertha Walheim",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C0000B3VV0AG08LVUPGND5I",
+    "street": "Schleidener Str. 73",
+    "town": "52076 Aachen",
+    "colors": [
+      "yellow",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 24965765,
+    "name": "ESV Olympia Köln",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000041VV0AG08LVUPGND5I",
+    "street": "Lämmerstr. 11",
+    "town": "50739 Köln",
+    "colors": [
+      "black",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 69919301,
+    "name": "Sportfreunde Ippendorf",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400006TVV0AG08LVUPGND5I",
+    "street": "Netzestr. 1",
+    "town": "53127 Bonn",
+    "colors": [
+      "yellow",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 647210255,
+    "name": "RW Hütte",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400008TVV0AG08LVUPGND5I",
+    "street": "Kurt-Schumacher-Str. 9",
+    "town": "53840 Troisdorf",
+    "colors": [
+      "red",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 799108761,
+    "name": "SV Westhoven-Ensen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400005KVV0AG08LVUPGND5I",
+    "street": "Oberstr. 119A",
+    "town": "51149 Köln",
+    "colors": [
+      "black",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 345515500,
+    "name": "Spvg. Köln-Flittard",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400002DVV0AG08LVUPGND5I",
+    "street": "Roggendorfstr. 1",
+    "town": "51061 Köln",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 429237033,
+    "name": "Viktoria Köln",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/0176O1EUMK000000VV0AG80NVU9EQM09",
+    "street": "Günter-Kuxdorf-Weg 1",
+    "town": "51103 Köln",
+    "colors": [
+      "white",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 926177777,
+    "name": "Borussia Mönchengladbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8UK00002NVV0AG08LVUPGND5I",
+    "street": "Am Haus Lütz 57",
+    "town": "41066 Mönchengladbach",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 497209336,
+    "name": "Bayer 04 Leverkusen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000035VV0AG08LVUPGND5I",
+    "street": "Otto-Bayer-Str. 2",
+    "town": "51061 Köln",
+    "colors": [
+      "red",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 612277114,
+    "name": "FC Wegberg-Beeck",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9A000008MVV0AG08LVUPGND5I",
+    "street": "Kiefernweg 1",
+    "town": "41844 Wegberg",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 661732197,
+    "name": "FC Rheinsüd Köln",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00009VVV0AG08LVUPGND5I",
+    "street": "Sürther Str. 191",
+    "town": "50999 Köln",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 516160068,
+    "name": "LTV Lüdenscheid",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8LS00006MVV0AG08LVUPGND5I",
+    "street": "Honseler Bruch 2",
+    "town": "58511 Lüdenscheid",
+    "colors": [
+      "white",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 346607620,
+    "name": "1. FFC Bergisch Gladbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/012QDJCADC000000VV0AG811VS18D454",
+    "street": "Paffrather Str. 135",
+    "town": "51465 Bergisch Gladbach",
+    "colors": [
+      "yellow",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 145625092,
+    "name": "VfL Berghausen-Gimborn",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000BVV0AG08LVUPGND5I",
+    "street": "Hauptstr. 1",
+    "town": "51647 Gummersbach",
+    "colors": [
+      "black",
+      "black",
+      "yellow"
+    ]
+  },
+  {
+    "id": 617601606,
+    "name": "TSV Wolsdorf",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN9140000ADVV0AG08LVUPGND5I",
+    "street": "Jakobstr. 88A",
+    "town": "53721 Siegburg",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 399070110,
+    "name": "SV Union Rösrath",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000028VV0AG08LVUPGND5I",
+    "street": "Freiherr-vom-Stein-Str. 14",
+    "town": "51503 Rösrath",
+    "colors": [
+      "green",
+      "white",
+      "green"
+    ]
+  },
+  {
+    "id": 107021789,
+    "name": "JSG Drolshagen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8PK0000AIVV0AG08LVUPGND5I",
+    "street": "Am Buscheid 57",
+    "town": "57489 Drolshagen",
+    "colors": [
+      "purple",
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": 587773599,
+    "name": "SV 09 Eitorf",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400008QVV0AG08LVUPGND5I",
+    "street": "Brückenstr. 60A",
+    "town": "53783 Eitorf",
+    "colors": [
+      "blue",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 302031324,
+    "name": "FSV Neunkirchen-Seelscheid",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400009OVV0AG08LVUPGND5I",
+    "street": "Buscher Str. 1",
+    "town": "53819 Neunkirchen-Seelscheid",
+    "colors": [
+      "green",
+      "green",
+      "black"
+    ]
+  },
+  {
+    "id": 728077718,
+    "name": "TSV Germania Windeck",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400008MVV0AG08LVUPGND5I",
+    "street": "Am Freibad 1",
+    "town": "51570 Windeck",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 386229716,
+    "name": "SV Wachtberg",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000085VV0AG08LVUPGND5I",
+    "street": "Fraunhoferstr. 15",
+    "town": "53343 Wachtberg",
+    "colors": [
+      "red",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 107584807,
+    "name": "Rot-Weiß Merl",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000075VV0AG08LVUPGND5I",
+    "street": "Gerhard-Boeden-Str. 1",
+    "town": "53340 Meckenheim",
+    "colors": [
+      "red",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 148095144,
+    "name": "Rot-Weiß Hünsborn",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8QS00000BVV0AG08LVUPGND5I",
+    "street": "Rheinauer Str. 1",
+    "town": "57482 Wenden",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
+  },
+  {
+    "id": 259545356,
+    "name": "SG Köln-Worringen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400005LVV0AG08LVUPGND5I",
+    "street": "Erdweg 1A",
+    "town": "50769 Köln",
+    "colors": [
+      "blue",
+      "yellow",
+      "blue"
+    ]
+  },
+  {
+    "id": 183050831,
+    "name": "FC Hürth II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00007RVV0AG08LVUPGND5I",
+    "street": "Sudetenstr. 35",
+    "town": "50354 Hürth",
+    "colors": [
+      "white",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 92950862,
+    "name": "FC Leverkusen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400004GVV0AG08LVUPGND5I",
+    "street": "Am Birkenweg 1",
+    "town": "51379 Leverkusen",
+    "colors": [
+      "blue",
+      "blue",
+      "white"
+    ]
+  },
+  {
+    "id": 868645862,
+    "name": "TuS Untereschbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002HVV0AG08LVUPGND5I",
+    "street": "Am Lüderich 2",
+    "town": "51491 Overath",
+    "colors": [
+      "white",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 260124579,
+    "name": "VfL Leverkusen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400003AVV0AG08LVUPGND5I",
+    "street": "Tannenbergstr. 54",
+    "town": "51373 Leverkusen",
+    "colors": [
+      "red",
+      "white",
+      "green"
+    ]
+  },
+  {
+    "id": 311737842,
+    "name": "FC Pesch",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000047VV0AG08LVUPGND5I",
+    "street": "Pescher Str. 1",
+    "town": "50767 Köln",
+    "colors": [
+      "blue",
+      "blue",
+      "blue"
+    ]
+  },
+  {
+    "id": 419622576,
+    "name": "DJK Montania Kürten",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001MVV0AG08LVUPGND5I",
+    "street": "Olpener Str. 2",
+    "town": "51515 Kürten",
+    "colors": [
+      "black",
+      "yellow",
+      "black"
+    ]
+  },
+  {
+    "id": 946890932,
+    "name": "Hertha Rheidt",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400009VVV0AG08LVUPGND5I",
+    "street": "Südstr. 99",
+    "town": "53859 Niederkassel",
+    "colors": [
+      "blue",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 336262836,
+    "name": "DJK Ommerborn Sand",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000022VV0AG08LVUPGND5I",
+    "street": "St. Rochus Weg 1",
+    "town": "51465 Bergisch Gladbach",
+    "colors": [
+      "blue",
+      "white",
+      "blue"
+    ]
+  },
+  {
+    "id": 126475811,
+    "name": "FC Bensberg",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00000AVV0AG08LVUPGND5I",
+    "street": "Hardtweg 42",
+    "town": "51429 Bergisch Gladbach",
+    "colors": [
+      "red",
+      "black",
+      "black"
+    ]
+  },
+  {
+    "id": 57871237,
+    "name": "Borussia Lindenthal-Hohenlind",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400003BVV0AG08LVUPGND5I",
+    "street": "Jahnwiesenweg 1",
+    "town": "50933 Köln",
+    "colors": [
+      "white",
+      "white",
+      "green"
+    ]
+  },
+  {
+    "id": 370700469,
+    "name": "RSV Urbach",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000059VV0AG08LVUPGND5I",
+    "street": "Zündorfer Str. 1",
+    "town": "51145 Köln",
+    "colors": [
+      "white",
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": 761548718,
+    "name": "VSV Wenden",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8PK0000A8VV0AG08LVUPGND5I",
+    "street": "In der Wiemicke 1",
+    "town": "57482 Wenden",
+    "colors": [
+      "white",
+      "white",
+      "white"
     ]
   }
 ]
