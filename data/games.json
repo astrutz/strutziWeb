@@ -1,5 +1,149 @@
 [
   {
+    "timestamp": 1351418400,
+    "home": 569062500,
+    "away": 974498182,
+    "halftimeHome": 2,
+    "halftimeAway": 1,
+    "resultHome": 2,
+    "resultAway": 1,
+    "league": 421825890,
+    "class": "C-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 2,
+        "number": 0,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 15,
+        "number": 0,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 0,
+        "number": 17,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 0,
+        "number": 18,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 0,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 0,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 0,
+        "number": 17,
+        "event": "red",
+        "type": "special"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 17,
+        "number": 0,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 0,
+        "number": 17,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 0,
+        "number": 12,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 0,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+      {
+        "minute": 0,
+        "type": "redReason",
+        "value": "Nachtreten"
+      }
+    ]
+  },
+  {
+    "timestamp": 1379156400,
+    "home": 775799520,
+    "away": 979428063,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 0,
+    "resultAway": 3,
+    "league": 932748675,
+    "class": "C-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 51,
+        "number": 12,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 21,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 47,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 57,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 50,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 59,
+        "number": 4,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
     "timestamp": 1379773800,
     "home": 827471326,
     "away": 569062500,
@@ -108,6 +252,53 @@
     "specialEvents": []
   },
   {
+    "timestamp": 1392566400,
+    "home": 306589103,
+    "away": 775799520,
+    "halftimeHome": 0,
+    "halftimeAway": 2,
+    "resultHome": 0,
+    "resultAway": 5,
+    "league": 421825890,
+    "class": "Damen",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [],
+    "gameEventsAway": [
+      {
+        "minute": 12,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 20,
+        "number": 12,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 53,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 61,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 77,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
     "timestamp": 1393083000,
     "home": 775799520,
     "away": 110403903,
@@ -202,6 +393,401 @@
         "value": "In der 80. Minute beklagt sich der Torwart über ein vermeintliches Foulspiel unsportlich und wird für 5 Minuten vom Feld verwiesen. Daraufhin kommt es während des Torwartwechsels (Trikot- und Handschuhtausch) zu einer Beleidigung des Gästespielers mit der Nummer 4, der mich als kleinen Bauern beleidigt. Deshalb kommt der Trainer der Gästemannschaft auf den Platz gelaufen, wird ebenfalls von mir aus dem Innenraum verwiesen und beleidigt mich während des Verlassen des Platzes mit den Worten Halt deine Fresse. Im weiteren Spielverlauf betritt er den Innenraum erneut. Erst mit Androhung eines Spielabbruchs akzeptierte er den Innenraumverweis."
       }
     ]
+  },
+  {
+    "timestamp": 1394897400,
+    "home": 827471326,
+    "away": 411094161,
+    "halftimeHome": 1,
+    "halftimeAway": 1,
+    "resultHome": 2,
+    "resultAway": 1,
+    "league": 466308191,
+    "class": "A-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 30,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 80,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 4,
+        "number": 71,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 77,
+        "number": 9,
+        "event": "time",
+        "type": "foul"
+      },
+      {
+        "minute": 37,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 10,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 79,
+        "number": 4,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
+    "timestamp": 1440244800,
+    "home": 306589103,
+    "away": 248736095,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 1,
+    "resultAway": 2,
+    "league": 421825890,
+    "class": "C-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 50,
+        "number": 4,
+        "event": "goal",
+        "type": "penalty"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 4,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 69,
+        "number": 6,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
+    "timestamp": 1441123200,
+    "home": 306589103,
+    "away": 248736095,
+    "halftimeHome": 0,
+    "halftimeAway": 0,
+    "resultHome": 0,
+    "resultAway": 2,
+    "league": 489251338,
+    "class": "D-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [],
+    "gameEventsAway": [
+      {
+        "minute": 50,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 55,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
+    "timestamp": 1455555600,
+    "home": 220647676,
+    "away": 775799520,
+    "halftimeHome": 3,
+    "halftimeAway": 1,
+    "resultHome": 4,
+    "resultAway": 1,
+    "league": 421825890,
+    "class": "C-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 4,
+        "number": 16,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 11,
+        "number": 15,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 33,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 65,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 20,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
+    "timestamp": 1472913000,
+    "home": 827471326,
+    "away": 291747998,
+    "halftimeHome": 0,
+    "halftimeAway": 2,
+    "resultHome": 2,
+    "resultAway": 3,
+    "league": 466308191,
+    "class": "A-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 64,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 69,
+        "number": 15,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 68,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 79,
+        "number": 7,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 33,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 42,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 90,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 27,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
+    "timestamp": 1477234800,
+    "home": 867782360,
+    "away": 306589103,
+    "halftimeHome": 1,
+    "halftimeAway": 2,
+    "resultHome": 3,
+    "resultAway": 2,
+    "league": 287786261,
+    "class": "Damen",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 33,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 54,
+        "number": 5,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 86,
+        "number": 5,
+        "event": "goal",
+        "type": "penalty"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 34,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 45,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 65,
+        "number": 13,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
+    "timestamp": 1489753800,
+    "home": 565698157,
+    "away": 960908470,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 6,
+    "resultAway": 1,
+    "league": 323650800,
+    "class": "D-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 36,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 37,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 41,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 48,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 50,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 53,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 10,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
+    "timestamp": 1490450400,
+    "home": 212385279,
+    "away": 960908470,
+    "halftimeHome": 1,
+    "halftimeAway": 0,
+    "resultHome": 2,
+    "resultAway": 2,
+    "league": 466308191,
+    "class": "B-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 24,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 45,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 46,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 82,
+        "number": 6,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": []
   },
   {
     "timestamp": 1502636400,
@@ -485,6 +1071,66 @@
     ]
   },
   {
+    "timestamp": 1535274000,
+    "home": 224514577,
+    "away": 148095144,
+    "halftimeHome": 0,
+    "halftimeAway": 2,
+    "resultHome": 1,
+    "resultAway": 2,
+    "league": 421825890,
+    "class": "A-Jugend",
+    "role": "Schiedsrichter",
+    "team": [],
+    "gameEventsHome": [
+      {
+        "minute": 75,
+        "number": 6,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 79,
+        "number": 7,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 17,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 25,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 44,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 12,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 85,
+        "number": 11,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": []
+  },
+  {
     "timestamp": 1538827200,
     "home": 827471326,
     "away": 597529749,
@@ -520,220 +1166,6 @@
       {
         "minute": 78,
         "number": 5,
-        "event": "goal",
-        "type": "normal"
-      }
-    ],
-    "specialEvents": []
-  },
-  {
-    "timestamp": 1477234800,
-    "home": 867782360,
-    "away": 306589103,
-    "halftimeHome": 1,
-    "halftimeAway": 2,
-    "resultHome": 3,
-    "resultAway": 2,
-    "league": 287786261,
-    "class": "Damen",
-    "role": "Schiedsrichter",
-    "team": [],
-    "gameEventsHome": [
-      {
-        "minute": 33,
-        "number": 11,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 54,
-        "number": 5,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 86,
-        "number": 5,
-        "event": "goal",
-        "type": "penalty"
-      }
-    ],
-    "gameEventsAway": [
-      {
-        "minute": 34,
-        "number": 7,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 45,
-        "number": 7,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 65,
-        "number": 13,
-        "event": "yellow",
-        "type": "foul"
-      }
-    ],
-    "specialEvents": []
-  },
-  {
-    "timestamp": 1392566400,
-    "home": 306589103,
-    "away": 775799520,
-    "halftimeHome": 0,
-    "halftimeAway": 2,
-    "resultHome": 0,
-    "resultAway": 5,
-    "league": 421825890,
-    "class": "Damen",
-    "role": "Schiedsrichter",
-    "team": [],
-    "gameEventsHome": [],
-    "gameEventsAway": [
-      {
-        "minute": 12,
-        "number": 7,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 20,
-        "number": 12,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 53,
-        "number": 11,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 61,
-        "number": 7,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 77,
-        "number": 8,
-        "event": "goal",
-        "type": "normal"
-      }
-    ],
-    "specialEvents": []
-  },
-  {
-    "timestamp": 1441123200,
-    "home": 306589103,
-    "away": 248736095,
-    "halftimeHome": 0,
-    "halftimeAway": 0,
-    "resultHome": 0,
-    "resultAway": 2,
-    "league": 489251338,
-    "class": "D-Jugend",
-    "role": "Schiedsrichter",
-    "team": [],
-    "gameEventsHome": [],
-    "gameEventsAway": [
-      {
-        "minute": 50,
-        "number": 9,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 55,
-        "number": 8,
-        "event": "goal",
-        "type": "normal"
-      }
-    ],
-    "specialEvents": []
-  },
-  {
-    "timestamp": 1440244800,
-    "home": 306589103,
-    "away": 248736095,
-    "halftimeHome": 0,
-    "halftimeAway": 1,
-    "resultHome": 1,
-    "resultAway": 2,
-    "league": 421825890,
-    "class": "C-Jugend",
-    "role": "Schiedsrichter",
-    "team": [],
-    "gameEventsHome": [
-      {
-        "minute": 50,
-        "number": 4,
-        "event": "goal",
-        "type": "penalty"
-      }
-    ],
-    "gameEventsAway": [
-      {
-        "minute": 4,
-        "number": 10,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 69,
-        "number": 6,
-        "event": "goal",
-        "type": "normal"
-      }
-    ],
-    "specialEvents": []
-  },
-  {
-    "timestamp": 1455555600,
-    "home": 220647676,
-    "away": 775799520,
-    "halftimeHome": 3,
-    "halftimeAway": 1,
-    "resultHome": 4,
-    "resultAway": 1,
-    "league": 421825890,
-    "class": "C-Jugend",
-    "role": "Schiedsrichter",
-    "team": [],
-    "gameEventsHome": [
-      {
-        "minute": 4,
-        "number": 16,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 11,
-        "number": 15,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 33,
-        "number": 11,
-        "event": "goal",
-        "type": "normal"
-      },
-      {
-        "minute": 65,
-        "number": 11,
-        "event": "goal",
-        "type": "normal"
-      }
-    ],
-    "gameEventsAway": [
-      {
-        "minute": 20,
-        "number": 7,
         "event": "goal",
         "type": "normal"
       }
