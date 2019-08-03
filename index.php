@@ -2,8 +2,10 @@
 include 'partials/header.php';
 ?>
 
-<div class="jumbotron">
-    <p>dsfsfdsdf</p>
+<br><br>
+<br><br>
+<div class="alert alert-danger" role="alert">
+    Unter Konstruktion
 </div>
 
 <?php

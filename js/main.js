@@ -1,5 +1,5 @@
-function moveAccordion(element){
-    if($("#content" + element).is(":visible")){
+function moveAccordion(element) {
+    if ($("#content" + element).is(":visible")) {
         $("#game" + element).css("background-color", "#ffffff");
         $("#content" + element).css("display", "none");
         $("#accordionIcon" + element).attr("src", "../img/baseline-keyboard_arrow_down-24px.svg");

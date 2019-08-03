@@ -40,8 +40,18 @@
     "level": 2
   },
   {
+    "id": 284887001,
+    "name": "Kreisliga B",
+    "level": 3
+  },
+  {
     "id": 489251338,
     "name": "Kreispokal Vorrunde",
     "level": -1
+  },
+  {
+    "id": 810362238,
+    "name": "Verbandspokal Viertelfinale",
+    "level": -9
   }
 ]

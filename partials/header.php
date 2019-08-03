@@ -14,6 +14,9 @@
     <!-- jQuery library -->
     <script src="../lib/jquery-3.4.1.min.js"></script>
 
+    <!-- pure js -->
+    <script src="../lib/pure.js"></script>
+
     <!-- Popper JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
 

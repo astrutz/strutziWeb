@@ -1,0 +1,16 @@
+{
+        "minute": 0
+        "type": "trainerOutAway"
+        "value": "Meckern"
+}
+
+{
+        "minute": 0,
+        "type": "redReason",
+        "value": "Nachtreten"
+}
+{
+        "type": "specialReport",
+        "minute": 0,
+        "value": "In der 80. Minute beklagt sich der Torwart über ein vermeintliches Foulspiel unsportlich und wird für 5 Minuten vom Feld verwiesen. Daraufhin kommt es während des Torwartwechsels (Trikot- und Handschuhtausch) zu einer Beleidigung des Gästespielers mit der Nummer 4, der mich als kleinen Bauern beleidigt. Deshalb kommt der Trainer der Gästemannschaft auf den Platz gelaufen, wird ebenfalls von mir aus dem Innenraum verwiesen und beleidigt mich während des Verlassen des Platzes mit den Worten Halt deine Fresse. Im weiteren Spielverlauf betritt er den Innenraum erneut. Erst mit Androhung eines Spielabbruchs akzeptierte er den Innenraumverweis."
+}

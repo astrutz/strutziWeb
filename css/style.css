@@ -30,3 +30,8 @@
 .awayName{
     text-align: left;
 }
+
+.gameContent{
+    display: block;
+    width: 100%;
+}
