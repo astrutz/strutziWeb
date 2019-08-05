@@ -42,7 +42,7 @@ $json = json_decode(file_get_contents('../data/games.json'), true);
                         <div class="progress">
                         <?php echo renderGameHistory($game); ?>
                         </div>
-                        <div><?php echo date("d.m.Y", $game['timestamp']) ?></div>
+                        <div><?php echo date("d.m.Y H:i", $game['timestamp']) ?></div>
                         <div><?php echo $game['class'] . " " . findAttribute($game['league'], 'name', 'leagues') ?></div>
                     </td>
                 </tr>

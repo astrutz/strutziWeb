@@ -2416,5 +2416,211 @@
     ],
     "specialEvents": [
     ]
+  },
+  {
+    "timestamp": 1506243600,
+    "home": 429237033,
+    "away": 926177777,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 0,
+    "resultAway": 3,
+    "league": 423288836,
+    "class": "C-Junioren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth","Neresh Pathmalingam"],
+    "gameEventsHome": [
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 2,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 56,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 70,
+        "number": 16,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1524402900,
+    "home": 799108761,
+    "away": 345515500,
+    "halftimeHome": 1,
+    "halftimeAway": 1,
+    "resultHome": 1,
+    "resultAway": 2,
+    "league": 932748675,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth","Thanus Pathmalingam"],
+    "gameEventsHome": [
+      {
+        "minute": 26,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 55,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 65,
+        "number": 11,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 85,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 38,
+        "number": 14,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 86,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 34,
+        "number": 11,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 81,
+        "number": 18,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 85,
+        "number": 10,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1498921200,
+    "home": 212385279,
+    "away": 550198580,
+    "halftimeHome": 1,
+    "halftimeAway": 1,
+    "resultHome": 5,
+    "resultAway": 1,
+    "league": 350948998,
+    "class": "A-Junioren",
+    "role": "Assistent 2",
+    "team": ["Dirk Molitor","Keyan Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 45,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 56,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 64,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 70,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 83,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 35,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 87,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 16,
+        "number": 3,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 47,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 67,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 84,
+        "number": 3,
+        "event": "time",
+        "type": "unfairness"
+      },
+      {
+        "minute": 73,
+        "number": 5,
+        "event": "red",
+        "type": "special"
+      }
+    ],
+    "specialEvents": [
+      {
+        "minute": 73,
+        "type": "redReason",
+        "value": "Beleidigung: Missgeburt"
+      }
+    ]
   }
 ]
