@@ -2622,5 +2622,2149 @@
         "value": "Beleidigung: Missgeburt"
       }
     ]
+  },
+  {
+    "timestamp": 1371387600,
+    "home": 265126090,
+    "away": 306589103,
+    "halftimeHome": 1,
+    "halftimeAway": 1,
+    "resultHome": 3,
+    "resultAway": 1,
+    "league": 350948998,
+    "class": "Damen",
+    "role": "Assistent 2",
+    "team": [
+      "Werner Roth",
+      "Thomas Neumann"
+    ],
+    "gameEventsHome": [
+      {
+        "minute": 28,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 115,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 115,
+        "number": 9,
+        "event": "goal",
+        "type": "foul"
+      },
+      {
+        "minute": 61,
+        "number": 4,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 78,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 49,
+        "number": 11,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 17,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 77,
+        "number": 11,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+      {
+        "type": "gameLength",
+        "minute": 0,
+        "value": "extraTime"
+      }
+    ]
+  },
+  {
+    "timestamp": 1402153200,
+    "home": 224514577,
+    "away": 265126090,
+    "halftimeHome": 2,
+    "halftimeAway": 0,
+    "resultHome": 2,
+    "resultAway": 1,
+    "league": 844454251,
+    "class": "B-Junioren",
+    "role": "Assistent 2",
+    "team": ["Arne Kerstin", "Sherwin Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 16,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 34,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 60,
+        "number": 17,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 80,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1398877200,
+    "home": 775799520,
+    "away": 291705993,
+    "halftimeHome": 1,
+    "halftimeAway": 2,
+    "resultHome": 3,
+    "resultAway": 3,
+    "league": 991823047,
+    "class": "B-Junioren",
+    "role": "Assistent 1",
+    "team": ["Riza Tokmak", "Sherwin Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 25,
+        "number": 4,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 43,
+        "number": 14,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 45,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 33,
+        "number": 17,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 86,
+        "number": 15,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 2,
+        "number": 6,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 17,
+        "number": 18,
+        "event": "goal",
+        "type": "own"
+      },
+      {
+        "minute": 41,
+        "number": 20,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 45,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 40,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1460817000,
+    "home": 775799520,
+    "away": 602962618,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 2,
+    "resultAway": 1,
+    "league": 991823047,
+    "class": "B-Junioren",
+    "role": "Assistent 1",
+    "team": ["Dirk Molitor", "Max Johanns"],
+    "gameEventsHome": [
+      {
+        "minute": 46,
+        "number": 14,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 80,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 80,
+        "number": 5,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 35,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 17,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 62,
+        "number": 11,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1461772800,
+    "home": 212385279,
+    "away": 819176713,
+    "halftimeHome": 2,
+    "halftimeAway": 3,
+    "resultHome": 3,
+    "resultAway": 4,
+    "league": 810362238,
+    "class": "B-Junioren",
+    "role": "Assistent 1",
+    "team": ["Sherwin Moradi", "Max Johanns"],
+    "gameEventsHome": [
+      {
+        "minute": 10,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 28,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 49,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 55,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 79,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 16,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 34,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 38,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 66,
+        "number": 3,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 66,
+        "number": 24,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 70,
+        "number": 19,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 72,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 75,
+        "number": 21,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1401903900,
+    "home": 14457434,
+    "away": 775799520,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 0,
+    "resultAway": 2,
+    "league": 844454251,
+    "class": "A-Junioren",
+    "role": "Assistent 2",
+    "team": ["Dirk Molitor", "Sherwin Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 74,
+        "number": 4,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 76,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 27,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 87,
+        "number": 18,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1523104200,
+    "home": 775799520,
+    "away": 311737842,
+    "halftimeHome": 1,
+    "halftimeAway": 1,
+    "resultHome": 3,
+    "resultAway": 3,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 1",
+    "team": ["Sherwin Moradi","Paul Stoffel"],
+    "gameEventsHome": [
+      {
+        "minute": 29,
+        "number": 14,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 87,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 90,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 50,
+        "number": 13,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 61,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 73,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 11,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 90,
+        "number": 5,
+        "event": "time",
+        "type": "unfairness"
+      },
+      {
+        "minute": 90,
+        "number": 13,
+        "event": "time",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 36,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 55,
+        "number": 16,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 76,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 78,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 88,
+        "number": 13,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 1,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 90,
+        "number": 18,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 4,
+        "event": "time",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1396107000,
+    "home": 775799520,
+    "away": 441988107,
+    "halftimeHome": 1,
+    "halftimeAway": 0,
+    "resultHome": 3,
+    "resultAway": 1,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 1",
+    "team": ["Dirk Molitor", "Sherwin Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 9,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 63,
+        "number": 20,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 84,
+        "number": 4,
+        "event": "goal",
+        "type": "penalty"
+      },
+      {
+        "minute": 46,
+        "number": 9,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 19,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 52,
+        "number": 17,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 86,
+        "number": 1,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1478359800,
+    "home": 775799520,
+    "away": 399869818,
+    "halftimeHome": 1,
+    "halftimeAway": 0,
+    "resultHome": 1,
+    "resultAway": 1,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 2",
+    "team": ["Sherwin Moradi", "Keyan Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 40,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 59,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 73,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 83,
+        "number": 8,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 87,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 77,
+        "number": 19,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1480174200,
+    "home": 775799520,
+    "away": 819176713,
+    "halftimeHome": 1,
+    "halftimeAway": 3,
+    "resultHome": 1,
+    "resultAway": 4,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth", "Viktor Enns"],
+    "gameEventsHome": [
+      {
+        "minute": 2,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 85,
+        "number": 11,
+        "event": "goal",
+        "type": "penalty"
+      },
+      {
+        "minute": 64,
+        "number": 21,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 79,
+        "number": 9,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 80,
+        "number": 7,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 16,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 25,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 35,
+        "number": 22,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 74,
+        "number": 14,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 18,
+        "number": 10,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 45,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 84,
+        "number": 31,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1361095200,
+    "home": 703696927,
+    "away": 224514577,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 2,
+    "resultAway": 1,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 2",
+    "team": ["Arne Kerstin", "Simon Groß"],
+    "gameEventsHome": [
+      {
+        "minute": 47,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 76,
+        "number": 17,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 75,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 88,
+        "number": 12,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 90,
+        "number": 14,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 30,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 65,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1361634300,
+    "home": 328927962,
+    "away": 189076123,
+    "halftimeHome": 0,
+    "halftimeAway": 0,
+    "resultHome": 1,
+    "resultAway": 2,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 2",
+    "team": ["Arne Kerstin", "Simon Groß"],
+    "gameEventsHome": [
+      {
+        "minute": 32,
+        "number": 20,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 53,
+        "number": 9,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 83,
+        "number": 19,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 51,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 71,
+        "number": 6,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1367073000,
+    "home": 224514577,
+    "away": 759639218,
+    "halftimeHome": 2,
+    "halftimeAway": 2,
+    "resultHome": 3,
+    "resultAway": 4,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 2",
+    "team": ["Arne Kerstin", "Werner Roth"],
+    "gameEventsHome": [
+      {
+        "minute": 12,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 40,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 63,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 58,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 85,
+        "number": 3,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 90,
+        "number": 4,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 17,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 20,
+        "number": 15,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 76,
+        "number": 15,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 82,
+        "number": 20,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 88,
+        "number": 4,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 90,
+        "number": 18,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1365259500,
+    "home": 224514577,
+    "away": 572008315,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 0,
+    "resultAway": 1,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 1",
+    "team": ["Arne Kerstin", "Kevin Lüssmann"],
+    "gameEventsHome": [
+      {
+        "minute": 21,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 65,
+        "number": 8,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 71,
+        "number": 5,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 73,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 77,
+        "number": 2,
+        "event": "time",
+        "type": "foul"
+      },
+      {
+        "minute": 85,
+        "number": 6,
+        "event": "time",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 37,
+        "number": 4,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 63,
+        "number": 12,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 65,
+        "number": 2,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 71,
+        "number": 11,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 76,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1365863400,
+    "home": 224514577,
+    "away": 979428063,
+    "halftimeHome": 0,
+    "halftimeAway": 0,
+    "resultHome": 0,
+    "resultAway": 2,
+    "league": 991823047,
+    "class": "A-Junioren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth", "Simon Groß"],
+    "gameEventsHome": [
+      {
+        "minute": 45,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 46,
+        "number": 5,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 72,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 74,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 79,
+        "number": 16,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 73,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 82,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 43,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 46,
+        "number": 10,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 57,
+        "number": 7,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 68,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1393164000,
+    "home": 574214280,
+    "away": 417165243,
+    "halftimeHome": 0,
+    "halftimeAway": 3,
+    "resultHome": 6,
+    "resultAway": 5,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Christian Christ", "Nick Herbrig"],
+    "gameEventsHome": [
+      {
+        "minute": 52,
+        "number": 30,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 53,
+        "number": 61,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 61,
+        "number": 30,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 72,
+        "number": 31,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 83,
+        "number": 31,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 86,
+        "number": 2,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 30,
+        "number": 32,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 11,
+        "number": 7,
+        "event": "goal",
+        "type": "penalty"
+      },
+      {
+        "minute": 14,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 37,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 65,
+        "number": 61,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 80,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 32,
+        "number": 9,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 53,
+        "number": 4,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 53,
+        "number": 1,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1406988000,
+    "home": 224514577,
+    "away": 960908470,
+    "halftimeHome": 2,
+    "halftimeAway": 0,
+    "resultHome": 4,
+    "resultAway": 1,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 2",
+    "team": ["Arne Kerstin", "Sherwin Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 4,
+        "number": 15,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 15,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 56,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 90,
+        "number": 19,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 60,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 78,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 4,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 80,
+        "number": 20,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1489932000,
+    "home": 688845276,
+    "away": 569062500,
+    "halftimeHome": 0,
+    "halftimeAway": 0,
+    "resultHome": 1,
+    "resultAway": 0,
+    "league": 287786261,
+    "class": "Herren",
+    "role": "Assistent 2",
+    "team": ["Dirk Molitor", "Keyan Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 63,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 89,
+        "number": 11,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 90,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 40,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 80,
+        "number": 20,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 84,
+        "number": 3,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1425218400,
+    "home": 117593373,
+    "away": 200955058,
+    "halftimeHome": 1,
+    "halftimeAway": 0,
+    "resultHome": 3,
+    "resultAway": 0,
+    "league": 287786261,
+    "class": "Herren",
+    "role": "Assistent 2",
+    "team": ["Arne Kerstin", "Levi Köllner"],
+    "gameEventsHome": [
+      {
+        "minute": 23,
+        "number": 27,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 48,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 89,
+        "number": 26,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 43,
+        "number": 14,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 50,
+        "number": 1,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 70,
+        "number": 26,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 83,
+        "number": 25,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 85,
+        "number": 11,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 39,
+        "number": 10,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 62,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 73,
+        "number": 18,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1397386800,
+    "home": 200955058,
+    "away": 476566683,
+    "halftimeHome": 1,
+    "halftimeAway": 0,
+    "resultHome": 3,
+    "resultAway": 2,
+    "league": 287786261,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Arne Kerstin", "Jason Vor"],
+    "gameEventsHome": [
+      {
+        "minute": 39,
+        "number": 5,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 58,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 60,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 65,
+        "number": 5,
+        "event": "goal",
+        "type": "own"
+      },
+      {
+        "minute": 85,
+        "number": 3,
+        "event": "goal",
+        "type": "normal"
+      },
+
+      {
+        "minute": 60,
+        "number": 1,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 77,
+        "number": 4,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1365339600,
+    "home": 476566683,
+    "away": 786831563,
+    "halftimeHome": 0,
+    "halftimeAway": 0,
+    "resultHome": 1,
+    "resultAway": 0,
+    "league": 287786261,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Lucas Wegert", "Mehmet Simsek"],
+    "gameEventsHome": [
+      {
+        "minute": 84,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 69,
+        "number": 1,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 72,
+        "number": 13,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 43,
+        "number": 2,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 56,
+        "number": 8,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 86,
+        "number": 4,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1528635600,
+    "home": 866101804,
+    "away": 410151377,
+    "halftimeHome": 1,
+    "halftimeAway": 0,
+    "resultHome": 4,
+    "resultAway": 0,
+    "league": 932748675,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth", "Thanus Pathmalingam"],
+    "gameEventsHome": [
+      {
+        "minute": 59,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 76,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 88,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 57,
+        "number": 7,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 53,
+        "number": 16,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 36,
+        "number": 7,
+        "event": "goal",
+        "type": "own"
+      },
+      {
+        "minute": 41,
+        "number": 25,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 48,
+        "number": 7,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 67,
+        "number": 21,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1406988000,
+    "home": 69919301,
+    "away": 647210255,
+    "halftimeHome": 0,
+    "halftimeAway": 2,
+    "resultHome": 0,
+    "resultAway": 3,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth", "Thanus Pathmalingam"],
+    "gameEventsHome": [
+      {
+        "minute": 49,
+        "number": 16,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 46,
+        "number": 21,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 18,
+        "number": 16,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 29,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 89,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 31,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 52,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 73,
+        "number": 9,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 84,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 50,
+        "number": 8,
+        "event": "yellowred",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1525611600,
+    "home": 291705993,
+    "away": 70554192,
+    "halftimeHome": 0,
+    "halftimeAway": 1,
+    "resultHome": 1,
+    "resultAway": 4,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth", "Thanus Pathmalingam"],
+    "gameEventsHome": [
+      {
+        "minute": 90,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 52,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 43,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 72,
+        "number": 23,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 83,
+        "number": 24,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 87,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 62,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 79,
+        "number": 8,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1398863700,
+    "home": 224514577,
+    "away": 961720713,
+    "halftimeHome": 2,
+    "halftimeAway": 0,
+    "resultHome": 3,
+    "resultAway": 0,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 2",
+    "team": ["Baris Korkmaz", "Yannik Kremer Urrea"],
+    "gameEventsHome": [
+      {
+        "minute": 38,
+        "number": 18,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 45,
+        "number": 5,
+        "event": "goal",
+        "type": "penalty"
+      },
+      {
+        "minute": 86,
+        "number": 29,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 76,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 79,
+        "number": 4,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 54,
+        "number": 11,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 57,
+        "number": 13,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1527426000,
+    "home": 866101804,
+    "away": 616307371,
+    "halftimeHome": 2,
+    "halftimeAway": 0,
+    "resultHome": 3,
+    "resultAway": 3,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Sherwin Moradi", "Paul Stoffel"],
+    "gameEventsHome": [
+      {
+        "minute": 25,
+        "number": 16,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 31,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 61,
+        "number": 2,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 72,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 63,
+        "number": 14,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 76,
+        "number": 6,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 83,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 87,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 55,
+        "number": 3,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 80,
+        "number": 11,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 84,
+        "number": 20,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1512223200,
+    "home": 866101804,
+    "away": 946890932,
+    "halftimeHome": 1,
+    "halftimeAway": 1,
+    "resultHome": 1,
+    "resultAway": 1,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth", "Thanus Pathmalingam"],
+    "gameEventsHome": [
+      {
+        "minute": 25,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 56,
+        "number": 16,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 10,
+        "number": 17,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 75,
+        "number": 5,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+      {
+        "minute": 88,
+        "type": "trainerOutHome",
+        "value": "Meckern"
+      }
+    ]
+  },
+  {
+    "timestamp": 1521982800,
+    "home": 427767080,
+    "away": 732205436,
+    "halftimeHome": 2,
+    "halftimeAway": 0,
+    "resultHome": 4,
+    "resultAway": 0,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 1",
+    "team": ["Werner Roth", "Neresh Pathmalingam"],
+    "gameEventsHome": [
+      {
+        "minute": 20,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 27,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 83,
+        "number": 13,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 85,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 64,
+        "number": 13,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 88,
+        "number": 7,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 44,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 45,
+        "number": 8,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 80,
+        "number": 2,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1428327000,
+    "home": 57871237,
+    "away": 370700469,
+    "halftimeHome": 2,
+    "halftimeAway": 0,
+    "resultHome": 4,
+    "resultAway": 0,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 2",
+    "team": ["Arne Kerstin", "Sherwin Moradi"],
+    "gameEventsHome": [
+      {
+        "minute": 28,
+        "number": 11,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 31,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 54,
+        "number": 18,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 70,
+        "number": 7,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 42,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 13,
+        "number": 7,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 52,
+        "number": 12,
+        "event": "yellow",
+        "type": "foul"
+      },
+      {
+        "minute": 60,
+        "number": 6,
+        "event": "yellow",
+        "type": "foul"
+      }
+    ],
+    "specialEvents": [
+    ]
+  },
+  {
+    "timestamp": 1560172500,
+    "home": 259545356,
+    "away": 183050831,
+    "halftimeHome": 1,
+    "halftimeAway": 0,
+    "resultHome": 4,
+    "resultAway": 1,
+    "league": 421825890,
+    "class": "Herren",
+    "role": "Assistent 2",
+    "team": ["Levi Köllner", "Nick Herbrig"],
+    "gameEventsHome": [
+      {
+        "minute": 42,
+        "number": 10,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 53,
+        "number": 8,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 65,
+        "number": 18,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 68,
+        "number": 20,
+        "event": "goal",
+        "type": "normal"
+      },
+      {
+        "minute": 32,
+        "number": 24,
+        "event": "yellow",
+        "type": "unfairness"
+      },
+      {
+        "minute": 56,
+        "number": 23,
+        "event": "yellow",
+        "type": "unfairness"
+      }
+    ],
+    "gameEventsAway": [
+      {
+        "minute": 89,
+        "number": 9,
+        "event": "goal",
+        "type": "normal"
+      }
+    ],
+    "specialEvents": [
+    ]
   }
 ]
