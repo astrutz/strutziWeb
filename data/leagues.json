@@ -45,6 +45,11 @@
     "level": 2
   },
   {
+    "id": 958841654,
+    "name": "Qualifikation zur Kreisliga A",
+    "level": 2.5
+  },
+  {
     "id": 284887001,
     "name": "Kreisliga B",
     "level": 3
@@ -55,6 +60,11 @@
     "level": -1
   },
   {
+    "id": 532626845,
+    "name": "Kreispokal Hauptrunde 2",
+    "level": -3
+  },
+  {
     "id": 810362238,
     "name": "Verbandspokal Viertelfinale",
     "level": -9
@@ -63,5 +73,10 @@
     "id": 844454251,
     "name": "Kreispokal Finale",
     "level": -7
+  },
+  {
+    "id": 519854911,
+    "name": "Kreispokal Halbfinale",
+    "level": -6
   }
 ]

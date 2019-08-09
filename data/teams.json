@@ -1486,6 +1486,42 @@
       "white",
       "white"
     ]
+  },
+  {
+    "id": 844454251,
+    "name": "FSV Gerlingen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN8QS000003VV0AG08LVUPGND5I",
+    "street": "Biebergstraße 37",
+    "town": "57482 Wenden",
+    "colors": [
+      "black",
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": 34797564,
+    "name": "SSV Rot-Weiß Olpe",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000021VV0AG08LVUPGND5I",
+    "street": "Höhenstraße 15",
+    "town": "51515 Kürten",
+    "colors": [
+      "red",
+      "white",
+      "red"
+    ]
+  },
+  {
+    "id": 242204258,
+    "name": "SV Bergisch Gladbach 09",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002EVV0AG08LVUPGND5I",
+    "street": "Paffrather Str. 135",
+    "town": "51465 Bergisch Gladbach",
+    "colors": [
+      "white",
+      "white",
+      "red"
+    ]
   }
 ]
 
