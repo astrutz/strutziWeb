@@ -25,6 +25,11 @@
     "level": 5
   },
   {
+    "id": 889677165,
+    "name": "Landesliga",
+    "level": 6
+  },
+  {
     "id": 350948998,
     "name": "Bezirksliga Qualifikation",
     "level": 4
@@ -55,6 +60,11 @@
     "level": 3
   },
   {
+    "id": 226348382,
+    "name": "Kreisliga C",
+    "level": 2
+  },
+  {
     "id": 489251338,
     "name": "Kreispokal Vorrunde",
     "level": -1
@@ -63,6 +73,11 @@
     "id": 532626845,
     "name": "Kreispokal Hauptrunde 2",
     "level": -3
+  },
+  {
+    "id": 742860164,
+    "name": "Kreispokal Hauptrunde 1",
+    "level": -2
   },
   {
     "id": 810362238,
@@ -78,5 +93,15 @@
     "id": 519854911,
     "name": "Kreispokal Halbfinale",
     "level": -6
+  },
+  {
+    "id": 459182732,
+    "name": "Kreispokal Viertelfinale",
+    "level": -5
+  },
+  {
+    "id": 666885698,
+    "name": "Kreispokal Achtelfinale",
+    "level": -4
   }
 ]
