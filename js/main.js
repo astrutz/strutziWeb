@@ -9,3 +9,7 @@ function moveAccordion(element) {
         $("#accordionIcon" + element).attr("src", "../img/baseline-keyboard_arrow_up-24px.svg");
     }
 }
+
+function sortBy() {
+    window.open("http://localhost:63342/page/referee.php?sort=" + $('#sorter').val(),"_self");
+}
