@@ -11,5 +11,5 @@ function moveAccordion(element) {
 }
 
 function sortBy() {
-    window.open("http://localhost:63342/page/referee.php?sort=" + $('#sorter').val(),"_self");
+    window.open("http://dev.strutzi.de/page/referee.php?sort=" + $('#sorter').val(),"_self");
 }

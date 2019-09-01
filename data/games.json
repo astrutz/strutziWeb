@@ -9919,5 +9919,119 @@
             }
         ],
         "specialEvents": []
+    },
+	{
+        "timestamp": 1567342800,
+        "home": 306589103,
+        "away": 867782360,
+        "halftimeHome": 0,
+        "halftimeAway": 1,
+        "resultHome": 2,
+        "resultAway": 2,
+        "league": 226348382,
+        "class": "Herren",
+        "role": "Schiedsrichter",
+        "team": [],
+        "gameEventsHome": [
+			{
+                "minute": 54,
+                "number": 7,
+                "event": "goal",
+                "type": "normal"
+            },
+            {
+                "minute": 55,
+                "number": 11,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 71,
+                "number": 4,
+                "event": "yellow",
+                "type": "foul"
+            },
+			{
+                "minute": 79,
+                "number": 8,
+                "event": "yellow",
+                "type": "foul"
+            }
+		],
+        "gameEventsAway": [
+            {
+                "minute": 45,
+                "number": 6,
+                "event": "goal",
+                "type": "normal"
+            },
+            {
+                "minute": 57,
+                "number": 14,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 90,
+                "number": 5,
+                "event": "yellow",
+                "type": "foul"
+            }
+        ],
+        "specialEvents": []
+    },
+	{
+        "timestamp": 1558781100,
+        "home": 775799520,
+        "away": 739157222,
+        "halftimeHome": 1,
+        "halftimeAway": 2,
+        "resultHome": 1,
+        "resultAway": 5,
+        "league": 991823047,
+        "class": "C-Junioren",
+        "role": "Schiedsrichter",
+        "team": [],
+        "gameEventsHome": [
+			{
+                "minute": 25,
+                "number": 14,
+                "event": "goal",
+                "type": "normal"
+            }
+		],
+        "gameEventsAway": [
+            {
+                "minute": 5,
+                "number": 9,
+                "event": "goal",
+                "type": "normal"
+            },
+            {
+                "minute": 8,
+                "number": 11,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 42,
+                "number": 14,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 47,
+                "number": 13,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 52,
+                "number": 5,
+                "event": "goal",
+                "type": "own"
+            }
+        ],
+        "specialEvents": []
     }
 ]

@@ -1522,6 +1522,18 @@
       "white",
       "red"
     ]
+  },
+  {
+    "id": 739157222,
+    "name": "Alemannia Aachen",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C0000AMVV0AG08LVUPGND5I",
+    "street": "Krefelder Str. 205",
+    "town": "52070 Aachen",
+    "colors": [
+      "yellow",
+      "black",
+      "yellow"
+    ]
   }
 ]
 

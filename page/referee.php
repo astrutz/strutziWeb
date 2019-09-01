@@ -17,7 +17,7 @@ $json = json_decode(file_get_contents('../data/games.json'), true);
                     <option value="cardNum">Anzahl der Karten</option>
                     <option value="league">Liga</option>
                 </select>
-                <a href="#" onclick="sortBy()" class="btn btn-secondary">Sortieren!</a>
+                <a onclick="sortBy()" class="btn btn-secondary">Sortieren!</a>
             </div>
             <div class="col-sm-3">
                 <input class="form-control" id="gameSearch" type="text" placeholder="Spiele durchsuchen">
@@ -146,7 +146,7 @@ function sortJson($sortKey)
     $jsonData = json_encode($json, JSON_PRETTY_PRINT);
     if (file_put_contents('../data/games.json', $jsonData)) {
         echo '<script type="text/javascript">',
-        'window.open("http://localhost:63342/page/referee.php","_self");',
+        'window.open("http://dev.strutzi.de/page/referee.php","_self");',
         '</script>';
     }
 }
