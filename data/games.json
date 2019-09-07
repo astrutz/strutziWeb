@@ -10033,5 +10033,65 @@
             }
         ],
         "specialEvents": []
+    },
+	{
+        "timestamp": 1567846800,
+        "home": 775799520,
+        "away": 167013281,
+        "halftimeHome": 3,
+        "halftimeAway": 2,
+        "resultHome": 5,
+        "resultAway": 2,
+        "league": 932748675,
+        "class": "C-Junioren",
+        "role": "Schiedsrichter",
+        "team": [],
+        "gameEventsHome": [
+			{
+                "minute": 16,
+                "number": 8,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 23,
+                "number": 9,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 29,
+                "number": 20,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 37,
+                "number": 14,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 51,
+                "number": 9,
+                "event": "goal",
+                "type": "normal"
+            }
+		],
+        "gameEventsAway": [
+            {
+                "minute": 15,
+                "number": 18,
+                "event": "goal",
+                "type": "normal"
+            },
+            {
+                "minute": 22,
+                "number": 18,
+                "event": "goal",
+                "type": "normal"
+            }
+        ],
+        "specialEvents": []
     }
 ]

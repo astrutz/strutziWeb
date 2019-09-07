@@ -1534,6 +1534,18 @@
       "black",
       "yellow"
     ]
+  },
+  {
+    "id": 167013281,
+    "name": "SC Fortuna Bonn",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400006HVV0AG08LVUPGND5I",
+    "street": "Wasserland 12",
+    "town": "53129",
+    "colors": [
+      "black",
+      "red",
+      "black"
+    ]
   }
 ]
 
