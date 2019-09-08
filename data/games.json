@@ -10093,5 +10093,71 @@
             }
         ],
         "specialEvents": []
+    },
+	{
+        "timestamp": 204072264,
+        "home": 774909364,
+        "away": 868645862,
+        "halftimeHome": 0,
+        "halftimeAway": 7,
+        "resultHome": 0,
+        "resultAway": 8,
+        "league": 287786261,
+        "class": "Damen",
+        "role": "Schiedsrichter",
+        "team": [],
+        "gameEventsHome": [
+		],
+        "gameEventsAway": [
+            {
+                "minute": 17,
+                "number": 21,
+                "event": "goal",
+                "type": "normal"
+            },
+            {
+                "minute": 26,
+                "number": 21,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 28,
+                "number": 21,
+                "event": "goal",
+                "type": "normal"
+            },
+            {
+                "minute": 31,
+                "number": 21,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 33,
+                "number": 13,
+                "event": "goal",
+                "type": "normal"
+            },
+            {
+                "minute": 35,
+                "number": 10,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 45,
+                "number": 19,
+                "event": "goal",
+                "type": "own"
+            },
+            {
+                "minute": 67,
+                "number": 15,
+                "event": "goal",
+                "type": "normal"
+            }
+        ],
+        "specialEvents": []
     }
 ]
