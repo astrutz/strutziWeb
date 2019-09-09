@@ -146,7 +146,7 @@ function sortJson($sortKey)
     $jsonData = json_encode($json, JSON_PRETTY_PRINT);
     if (file_put_contents('../data/games.json', $jsonData)) {
         echo '<script type="text/javascript">',
-        'window.open("http://dev.strutzi.de/page/referee.php","_self");',
+        'window.open("http://dev.strutzi.de/page/overview.php","_self");',
         '</script>';
     }
 }
