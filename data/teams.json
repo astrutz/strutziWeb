@@ -1540,11 +1540,23 @@
     "name": "SC Fortuna Bonn",
     "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400006HVV0AG08LVUPGND5I",
     "street": "Wasserland 12",
-    "town": "53129",
+    "town": "53129 Bonn",
     "colors": [
       "black",
       "red",
       "black"
+    ]
+  },
+  {
+    "id": 995595734,
+    "name": "SV Altenberg",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C000006VV0AG08LVUPGND5I",
+    "street": "Am Schild 14",
+    "town": "51467 Bergisch Gladbach",
+    "colors": [
+      "blue",
+      "white",
+      "blue"
     ]
   }
 ]

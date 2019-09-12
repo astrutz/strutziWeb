@@ -1,11 +1,11 @@
 <?php include '../partials/header.php'; ?>
 
+<?php include '../partials/tools.php'?>
+
 
 <?php
 $json = json_decode(file_get_contents('../data/games.json'), true);
 ?>
-    <br><br>
-    <br><br>
     <h1>Where the fuck referees Alex Strutz?</h1>
     <br><br>
     <div class="container">
@@ -158,18 +158,6 @@ if (isset($_GET['sort'])) {
 function getResult($game)
 {
     return $game['resultHome'] . ":" . $game['resultAway'];
-}
-
-function findAttribute($id, $attribute, $file)
-{
-    $str = file_get_contents('../data/' . $file . '.json');
-    $json = json_decode($str, true);
-    foreach ($json as $field => $value) {
-        if ((string)$value['id'] == $id) {
-            return $value[$attribute];
-        }
-    }
-    return "ERR";
 }
 
 function renderSpecialEvents($game)
