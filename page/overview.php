@@ -17,7 +17,8 @@ $json = json_decode(file_get_contents('../data/games.json'), true);
                     <option value="cardNum">Anzahl der Karten</option>
                     <option value="league">Liga</option>
                 </select>
-                <a onclick="sortBy()" class="btn btn-secondary">Sortieren!</a>
+                <button onclick="sortBy()" class="btn btn-secondary">Sortieren!</button>
+                <a href="../data/games.json" download="games" class="btn btn-secondary">Spiele runterladen</a>
             </div>
             <div class="col-sm-3">
                 <input class="form-control" id="gameSearch" type="text" placeholder="Spiele durchsuchen">
