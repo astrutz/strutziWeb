@@ -10,8 +10,8 @@ function moveAccordion(element) {
     }
 }
 
-function sortBy() {
-    window.open("http://dev.strutzi.de/page/overview.php?sort=" + $('#sorter').val(),"_self");
+function sortBy(url) {
+    window.open(url + "?sort=" + $('#sorter').val(),"_self");
 }
 
 function addGameEventRow(button) {

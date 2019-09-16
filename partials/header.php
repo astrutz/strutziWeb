@@ -31,7 +31,7 @@
 <div class="container">
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
         <!-- Brand -->
-        <a class="navbar-brand" href="../index.php">strutzi.de</a>
+        <a class="navbar-brand" href="../index">strutzi.de</a>
 
         <!-- Links -->
         <ul class="navbar-nav">
@@ -41,9 +41,9 @@
                     Referee
                 </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="/page/overview.php">Overview</a>
-                    <a class="dropdown-item" href="/page/add.php">Add game</a>
-                    <a class="dropdown-item" href="/page/remove.php">Remove game</a>
+                    <a class="dropdown-item" href="/page/overview">Overview</a>
+                    <a class="dropdown-item" href="/page/add">Add game</a>
+                    <a class="dropdown-item" href="/page/remove">Remove game</a>
                 </div>
             </li>
         </ul>
