@@ -4,7 +4,22 @@
 
 
 <?php
+
+if(isset($_SERVER['HTTPS'])){
+    $prefix = 'https://';
+} else {
+    $prefix = 'http://';
+}
+
+$uri_parts = explode('?', $_SERVER['REQUEST_URI'], 2);
+$actual_link = $prefix . $_SERVER['HTTP_HOST'] . $uri_parts[0];
+
+if (isset($_GET['sort'])) {
+    sortJson($_GET['sort'], $actual_link);
+}
+
 $json = json_decode(file_get_contents('../data/games.json'), true);
+
 ?>
     <h1>Where the fuck referees Alex Strutz?</h1>
     <br><br>
@@ -17,7 +32,7 @@ $json = json_decode(file_get_contents('../data/games.json'), true);
                     <option value="cardNum">Anzahl der Karten</option>
                     <option value="league">Liga</option>
                 </select>
-                <button onclick="sortBy()" class="btn btn-secondary">Sortieren!</button>
+                <button onclick="sortBy('<?php echo $actual_link ?>')" class="btn btn-secondary">Sortieren!</button>
                 <a href="../data/games.json" download="games" class="btn btn-secondary">Spiele runterladen</a>
             </div>
             <div class="col-sm-3">
@@ -80,7 +95,7 @@ $json = json_decode(file_get_contents('../data/games.json'), true);
 
 <?php
 
-function sortJson($sortKey)
+function sortJson($sortKey, $actual_link)
 {
 
     $str = file_get_contents('../data/games.json');
@@ -143,17 +158,12 @@ function sortJson($sortKey)
             });
             break;
     }
-
     $jsonData = json_encode($json, JSON_PRETTY_PRINT);
     if (file_put_contents('../data/games.json', $jsonData)) {
         echo '<script type="text/javascript">',
-        'window.open("http://dev.strutzi.de/page/overview.php","_self");',
+        'window.open(' . $actual_link . ',"_self");',
         '</script>';
     }
-}
-
-if (isset($_GET['sort'])) {
-    sortJson($_GET['sort']);
 }
 
 function getResult($game)
