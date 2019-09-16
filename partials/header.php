@@ -43,7 +43,7 @@
 <div class="container">
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
         <!-- Brand -->
-        <a class="navbar-brand" href="../index">strutzi.de</a>
+        <a class="navbar-brand" href="../">strutzi.de</a>
 
         <!-- Links -->
         <ul class="navbar-nav">
