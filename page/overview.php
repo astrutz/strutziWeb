@@ -21,7 +21,7 @@ if (isset($_GET['sort'])) {
 $json = json_decode(file_get_contents('../data/games.json'), true);
 
 ?>
-    <h1>Where the fuck referees Alex Strutz?</h1>
+    <h1>Where the fuck referees Strutzi?</h1>
     <br><br>
     <div class="container">
         <div class="row">

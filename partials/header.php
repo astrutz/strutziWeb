@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="keywords" content="strutzi, strutz, referee, maps, ref, fvm, berg">
-    <meta name="description" content="This is my own website where you just find some of mine interests like traveling or refereeing">
+    <meta name="description" content="This is the website of strutzi where you just find some of mine interests like traveling or refereeing">
     <meta name="subject" content="Own experimental web developent by strutzi">
     <meta name="language" content="DE">
     <meta name="robots" content="index,follow">
