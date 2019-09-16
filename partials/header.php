@@ -21,6 +21,7 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
+    <link href="../img/favicon.ico" rel="icon" type="image/x-icon" />
 
     <!-- jQuery library -->
     <script src="../lib/jquery-3.4.1.min.js"></script>
