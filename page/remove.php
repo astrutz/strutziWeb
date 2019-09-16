@@ -7,7 +7,7 @@ $games = json_decode(file_get_contents('../data/games.json'), true);
 usort($games,function($a,$b) {if($a['timestamp'] == $b['timestamp']){ return 0 ; } return ($a['timestamp'] < $b['timestamp']) ? -1 : 1; } );
 
 ?>
-<form method="get" action="removeSuccess.php">
+<form method="post" action="removeSuccess.php">
     <div class="form-group">
         <label for="inputGuest">Zu löschendes Spiel</label>
         <select name="gameTimestamp" class="form-control" id="inputGuest">
@@ -17,12 +17,16 @@ usort($games,function($a,$b) {if($a['timestamp'] == $b['timestamp']){ return 0 ;
             <?php } ?>
         </select>
     </div>
-    <div class="form-group">
-        <label for="inputRole">Rolle in jenem Spiel</label>
-        <input id="inputRole" type="text" class="form-control" name="gameRole">
-    </div>
+    <input style="display: none;" id="inputToken" class="form-control" name="gameToken">
     <button type="submit" class="btn btn-danger">Spiel löschen</button>
 </form>
-
+<script src="https://www.google.com/recaptcha/api.js?render=6Ld-vLgUAAAAAPdyWpf066E9_X-oohEUrzlAYwGe"></script>
+<script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6Ld-vLgUAAAAAPdyWpf066E9_X-oohEUrzlAYwGe', {action: 'homepage'}).then(function(token) {
+            $('#inputToken').val(token);
+        });
+    });
+</script>
 
 <?php include '../partials/footer.php'?>

@@ -8,7 +8,7 @@ usort($teams,function($a,$b) {return strnatcasecmp($a['name'],$b['name']);});
 usort($leagues,function($a,$b) {if($a['level'] == $b['level']){ return 0 ; } return ($a['level'] < $b['level']) ? -1 : 1; } );
 
 ?>
-<form action="addSuccess.php" method="get">
+<form action="addSuccess.php" method="post">
     <div class="row form-group">
         <div class="col">
             <label for="inputDate">Datum</label>
@@ -67,6 +67,7 @@ usort($leagues,function($a,$b) {if($a['level'] == $b['level']){ return 0 ; } ret
             <label for="inputRefTeam">Gespann</label>
             <input id="inputRefTeam" class="form-control" placeholder="Gespann angeben.." name="gameTeam">
         </div>
+            <input style="display: none;" id="inputToken" class="form-control" name="gameToken">
     </div>
     <div class="row form-group" id="gameEvents">
         <div class="col-2" id="teamCol">
@@ -104,4 +105,12 @@ usort($leagues,function($a,$b) {if($a['level'] == $b['level']){ return 0 ; } ret
     <button type="submit" class="btn btn-success">Absenden</button>
 <!--    TODO: Special Events berücksichtigen und Dropdown für gameEvents -->
 </form>
+<script src="https://www.google.com/recaptcha/api.js?render=6Ld-vLgUAAAAAPdyWpf066E9_X-oohEUrzlAYwGe"></script>
+<script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6Ld-vLgUAAAAAPdyWpf066E9_X-oohEUrzlAYwGe', {action: 'homepage'}).then(function(token) {
+            $('#inputToken').val(token);
+        });
+    });
+</script>
 <?php include '../partials/footer.php'?>
