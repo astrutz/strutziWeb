@@ -111,3 +111,8 @@ section .section-title {
         margin-bottom: 10px;
     }
 }
+
+.custom-headline{
+    margin-bottom: 20px;
+    margin-top: 40px;
+}

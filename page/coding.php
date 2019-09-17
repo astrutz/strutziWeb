@@ -1,5 +1,5 @@
 <?php include '../partials/header.php'; ?>
 
-    <h1>Coding</h1>
+    <h1 class="custom-headline">Coding</h1>
 
 <?php include '../partials/footer.php'; ?>
