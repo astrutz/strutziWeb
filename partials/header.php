@@ -41,21 +41,23 @@
 
 
 <div class="container">
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+    <nav class="navbar green navbar-expand-sm navbar-dark fixed-top">
         <!-- Brand -->
         <a class="navbar-brand" href="../">strutzi.de</a>
-
         <!-- Links -->
         <ul class="navbar-nav">
+            <!--<li class="navbar-nav">
+                <a class="nav-link" href="#">About</a>
+            </li>-->
             <!-- Dropdown -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                     Referee
                 </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="/page/overview">Overview</a>
-                    <a class="dropdown-item" href="/page/add">Add game</a>
-                    <a class="dropdown-item" href="/page/remove">Remove game</a>
+                    <a class="dropdown-item" href="/page/overview">Übersicht</a>
+                    <a class="dropdown-item" href="/page/add">Spiel hinzufügen</a>
+                    <a class="dropdown-item" href="/page/remove">Spiel löschen</a>
                 </div>
             </li>
         </ul>
