@@ -46,9 +46,9 @@
         <a class="navbar-brand" href="../">strutzi.de</a>
         <!-- Links -->
         <ul class="navbar-nav">
-            <!--<li class="navbar-nav">
-                <a class="nav-link" href="#">About</a>
-            </li>-->
+            <li class="navbar-nav">
+                <a class="nav-link" href="../vita">Vita</a>
+            </li>
             <!-- Dropdown -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -59,6 +59,9 @@
                     <a class="dropdown-item" href="/page/add">Spiel hinzufügen</a>
                     <a class="dropdown-item" href="/page/remove">Spiel löschen</a>
                 </div>
+            </li>
+            <li class="navbar-nav">
+                <a class="nav-link" href="../reisen">Reisen</a>
             </li>
         </ul>
     </nav>
