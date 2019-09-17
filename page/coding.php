@@ -1,5 +1,5 @@
 <?php include '../partials/header.php'; ?>
 
-    <h1>Reisen</h1>
+    <h1>Coding</h1>
 
 <?php include '../partials/footer.php'; ?>

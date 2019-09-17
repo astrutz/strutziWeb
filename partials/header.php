@@ -47,7 +47,7 @@
         <!-- Links -->
         <ul class="navbar-nav">
             <li class="navbar-nav">
-                <a class="nav-link" href="../vita">Vita</a>
+                <a class="nav-link" href="../page/vita">Vita</a>
             </li>
             <!-- Dropdown -->
             <li class="nav-item dropdown">
@@ -61,7 +61,13 @@
                 </div>
             </li>
             <li class="navbar-nav">
-                <a class="nav-link" href="../reisen">Reisen</a>
+                <a class="nav-link" href="../page/darts">Darts</a>
+            </li>
+            <li class="navbar-nav">
+                <a class="nav-link" href="../page/coding">Coding</a>
+            </li>
+            <li class="navbar-nav">
+                <a class="nav-link" href="../page/reisen">Reisen</a>
             </li>
         </ul>
     </nav>
