@@ -32,6 +32,7 @@
                     <li><a href="../page/impressum"><i class="fa fa-angle-double-right"></i>Impressum</a></li>
                     <li><a href="../page/datenschutz"><i class="fa fa-angle-double-right"></i>Datenschutzerklärung</a></li>
                     <li><a href="../sitemap.xml"><i class="fa fa-angle-double-right"></i>Site Map</a></li>
+                    <li><a href="../page/kontakt"><i class="fa fa-angle-double-right"></i>Kontakt</li>
                 </ul>
             </div>
         </div>
