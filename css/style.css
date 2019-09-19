@@ -10,6 +10,11 @@
     float: right;
 }
 
+.coding-left{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
 .icon{
     width: 30px;
     height: auto;
