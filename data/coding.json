@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Filmfix",
+    "subtitle": "Filmvorschläge von einer künstlichen Intelligenz",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "Oktober 2017 - Januar 2018"
+      },
+      {
+        "type": "String",
+        "key": "Sprache",
+        "value": "Node.js"
+      },
+      {
+        "type": "Link",
+        "key": "Repository",
+        "value": "https://github.com/astrutz/WBA2SS17NeumannStrutzVoell",
+        "title": "WBA2SS17NeumannStrutzVoell"
+      },
+      {
+        "type": "Link",
+        "key": "APIs",
+        "value": "https://developers.themoviedb.org",
+        "title": "The Movie DB API"
+      }
+    ],
+    "descriptions": [
+      "Das Projekt Flimfix entstand im Rahmen des verkorksten Moduls <a href=\"https://www.medieninformatik.th-koeln.de/study/bachelor/moduls/ba_vertiefung-web_development/\">Web Development</a> im vierten Semester. Leider ist das Projekt nie ganz fertig geworden und liegt auch nicht mehr auf meinem heroku Dashboard. Für ein Backend ist es nicht wirklich vorzeigbar.",
+      "Prinzipiell hat man sich als Nutzer Filme ausgesucht, die man gerne sieht. Das wurde vom Backend gespeichert und anhand von Schlagworten zum Film (aus der API) mit anderen Filmen abgeglichen. Die neuen Filme werden dem Nutzer vorgeschlagen und wiederum bewertet. So verbessern sich die Vorschläge in der Theorie. Prinzipiell klappte das für 2 - 3 Iterationen gut, danach ging gar nichts mehr, leider."
+    ],
+    "image": ""
+  },
+  {
+    "title": "Lighting Up Dennis",
+    "subtitle": "Automatische Regulierung der Bildschirmhelligkeit anhand des Wetters",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "November 2017"
+      },
+      {
+        "type": "String",
+        "key": "Sprachen",
+        "value": "Java, Swing, C++"
+      },
+      {
+        "type": "Link",
+        "key": "Repository",
+        "value": "https://github.com/astrutz/LightingUpDennis",
+        "title": "Lighting Up Dennis"
+      },
+      {
+        "type": "Link",
+        "key": "APIs",
+        "value": "https://openweathermap.org/api",
+        "title": "Open Weather Map API"
+      },
+      {
+        "type": "Download",
+        "key": "Download",
+        "value": "../data/Lighting%20Up%20Dennis.rar",
+        "title": "Lighting Up Dennis.rar"
+      }
+    ],
+    "descriptions": [
+      "Mein erstes größeres Projekt startete als Füller für einen langweiligen Nachmittag im Herbst. Dennis hatte das Problem, dass er bei längeren Zock-Tagen seine Bildschirmhelligkeit mehrmals händisch ändern und dazu das Spiel unterbrechen musste. Lighting Up Dennis soll da Abhilfe verschaffen.",
+      "Dazu gibt es einen Java Client, der sich alle 15 Minuten die aktuellen Wetterinformationen holt und anhand dieser entscheidet, wie hell der Bildschirm (in Prozent) sein soll. Hinzu kommt ein kleines Swing-Frontend, welches entsprechende Werte anzeigt. Auch erstmalig kann man das Ganze mit einem Setup installieren. Angesprochen wird das Display über ein CMD-Tool der PC Welt (ja, wirklich), dass die Bildschirmhelligkeit von externen Monitoren ansprechen kann."
+    ],
+    "image": "../img/lud.PNG"
+  },
+  {
+    "title": "CologneCoins",
+    "subtitle": "Sehenswürdigkeiten in Köln entdecken und Treuepunkte sammeln",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "Dezember 2017"
+      },
+      {
+        "type": "String",
+        "key": "Sprachen",
+        "value": "Java, Android"
+      },
+      {
+        "type": "Link",
+        "key": "Repository",
+        "value": "https://github.com/astrutz/moco1718",
+        "title": "MoCo1718"
+      },
+      {
+        "type": "Link",
+        "key": "APIs",
+        "value": "https://developers.google.com/maps/documentation/?hl=de",
+        "title": "Google Maps API"
+      },
+      {
+        "type": "Link",
+        "key": "App Store",
+        "value": "https://play.google.com/store/apps/details?id=moco1718.touriapp&hl=de&ah=derhcoD6I9oIl7B8fuPo1cDsfhA",
+        "title": "Google Play"
+      },
+      {
+        "type": "Download",
+        "key": "Download",
+        "value": "../data/CologneCoins.apk",
+        "title": "CologneCoins.apk"
+      }
+    ],
+    "descriptions": [
+      "Als praktisches Projekt im Modul <a href=\"https://moxd.io/wpf-moco-ws17\">Mobile Computing</a> sollten wir eine Android App mit regionalem Bezug entwickeln. Dass der Presseverlag \"DuMont\" und verschiedene Fakultäten hinlobbiiert haben, lassen wir mal unter den Tisch fallen. Idee der App ist es Touristen durch die Stadt zu führen, so weit so standardmäßig. Allerdings bekommt ein Nutzer Treuepunkte, sogenannte \"CologneCoins\". Diese soll er dann in Bars, Restaurant und Freizeiteinrichtungen gegen Rabatte eintauschen können.",
+      "Dazu macht man Touren mit GPS-Tracking. Sobald eine Tour absolviert wurde, bekommt man entsprechende Punkte. Die wirkliche Einlösung in echten Einrichtungen wurde leider nie umgesetzt (danke da nochmal an unseren BWLer im Team). Das Schöne an der App ist, dass das Labor sie in den Google Play Store hochgeladen hat, sodass du sie gern testen kannst. Sie ist für Android v26 gebaut worden, sollte aber in beide Richtungen laufen und kann gern testet und weiterentwickelt werden. Ich sehe in dem Projekt noch viel Potential."
+    ],
+    "image": "../img/colco.webp"
+  },
+  {
+    "title": "Regiofood",
+    "subtitle": "Lebensmittellisten und regionale Einkäufe durch künstliche Intelligenz",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "Dezember 2018"
+      },
+      {
+        "type": "String",
+        "key": "Sprachen",
+        "value": "Java, Android, Node.js"
+      },
+      {
+        "type": "Link",
+        "key": "Repository",
+        "value": "https://github.com/astrutz/EISWS1819StrutzVoell",
+        "title": "EISWS1819StrutzVoell"
+      },
+      {
+        "type": "Download",
+        "key": "Dokumentation",
+        "value": "../data/eisdoku.pdf",
+        "title": "Gute Doku"
+      },
+      {
+        "type": "Download",
+        "key": "Download",
+        "value": "../data/RegioFood.apk",
+        "title": "RegioFood.apk"
+      }
+    ],
+    "descriptions": [
+      "Eine Mischung aus App und KI ist die App \"RegioFood\" geworden. Da sie leider auch im Rahmen der Uni entstand, ist sie nicht sehr ausgereift, dafür gibt es eine sehr tolle Doku. Worauf die Hochschulen eben Wert legen. Die App speichert alle Einkäufe und Lebensmittelverschwendungen. Eine künstliche Intelligenz lernt aus diesen Werten und schlägt einem Einkaufslisten vor mit regionalen Händlern, die entsprechende Lebensmittel verkaufen. Grundidee ist es die Lebensmittelverschwendung zu reduzieren und regionale Händler zu fördern.",
+      "Das Sammeln der Daten wird \"Lernphase\" genannt. Nachdem die Lernphae abgeschlossen ist, kann man eigene Einkaufslisten anfordern. diese werden durch eine KI erstellt, die nicht nur Durschnitte berechnet,  sondern auf semantische Lebensmittelersetzung trainiert wurde, zumindest rudimentär. Diese neuen Liste werden dem Nutzer vorgeschlagen und dieser kann sie bewerten, sodass das System weiter lernt. Leider wurde es nicht weiter verfolgt, da es auch keine guten datenbank zu regionalen Händlern gibt. Jedoch ist das eine Idee, die man sicher zu einem interessanten System machen kann. Genaueres zur App findet man in der Dokumentation, die ist wirklich gut ist, zumindest sagt meine angeberische 1,7 das."
+    ],
+    "image": "../img/regfoo.PNG"
+  },
+  {
+    "title": "Catfinder",
+    "subtitle": "App zur Speicherung des Standortes der Katze",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "August 2019"
+      },
+      {
+        "type": "String",
+        "key": "Sprachen",
+        "value": "Java, Android, Node.js"
+      }
+    ],
+    "descriptions": [
+      "Über dieses Projekt gibt es gar nicht so viel zu sagen, da es so schnell fertig war wie es begonnen hatte. Im Endeffekt ist es ein Androidscreen mit zwei Buttons: \"Katze drinnen\" oder \"Katze draußen\". Wenn ein Button geklickt wird, wird ein Request an einen Nodeserver gesendet, der das speichert. Wenn un jemand anderes die App öffnet, lädt die App den Katzenstandort vom Server runter - fertig. Warum das Ganze? Mitbewohner sind faule Geschöpfe und wollten nicht die hale Wohnung nach der Katze absuchen, wenn diese sich draußen rumtreibt. Hat es sich durchgesetzt? Nein, es war zu anstrengend zu bedienen - ironisch."
+    ],
+    "image": ""
+  },
+  {
+    "title": "strutziWeb",
+    "subtitle": "Eigene Website mit dynamischem Content und eigenem Editor",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "Mai 2019"
+      },
+      {
+        "type": "String",
+        "key": "Sprachen",
+        "value": "HTML, CSS, Javascript, PHP"
+      },
+      {
+        "type": "Link",
+        "key": "Repository",
+        "value": "https://github.com/astrutz/strutziWeb",
+        "title": "strutziWeb"
+      },
+      {
+        "type": "Links",
+        "key": "APIs",
+        "links": [
+          {
+            "value": "https://developers.google.com/recaptcha/intro",
+            "title": "Recaptcha"
+          },
+          {
+            "value": "https://wiki.openstreetmap.org/wiki/API",
+            "title": "OpenStreetMap"
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      "Die Idee für eine eigene Website habe ich seit mindestens 10 Jahren (ja, mit 12 habe ich HTML gelernt). Das Problem war der Inhalt. Es ist nicht so, dass ich nichts zu berichten hätte, mehr habe ich kein Interesse an einem Blog, mit irgendwelchen Newsartikeln, das ist mehr redaktionelle als technische Arbeit. Die Idee kam mir als ich vorhatte meine Schiedsrichterspiele zu digitalisieren, da mir das DFBNet zu instabil war. Daraus wurde ein Webfrontend und ein Editor, gehostet auf dieser Seite. Stück für Stück kam neuer Content hinzu und nun sind wir hier.",
+      "Besonders stolz bin ich auf den Editor, mit dem ich Spiele anpassen kann, aber kein anderer. Auch wenn diese Seite sehr Standard und schlecht designt aussieht (was sie wohl auch ist), ist das Backend ein Träumchen und dafür, dass ich kein Webdeveloper bin, bin ich damit sehr zufrieden. Für Anregungen zur Website bin ich immer sehr dankbar, nimm gern <a href=\"kontakt.php\">Kontakt</a> mit mir auf!"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Bachelorarbeit",
+    "subtitle": "Synchronisierung von analogen und digitalen Scrumboards",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "März 2019 - November 2019"
+      },
+      {
+        "type": "String",
+        "key": "Sprachen",
+        "value": "C, C#, Arduino, Node.js"
+      },
+      {
+        "type": "Link",
+        "key": "Repository",
+        "value": "https://github.com/astrutz/PPSS18Strutz",
+        "title": "PPSS18Strutz"
+      },
+      {
+        "type": "Link",
+        "key": "APIs",
+        "value": "https://developer.atlassian.com/server/jira/platform/rest-apis/",
+        "title": "JIRA"
+      },
+      {
+        "type": "Download",
+        "key": "Dokumentation",
+        "value": "../data/ppdoku.pdf",
+        "title": "Prototypdoku"
+      }
+    ],
+    "descriptions": [
+      "Wie es der Titel schon erahnen lässt, ist dieses Thema komplexer und hat einen hohen Theoriebezug. Es geht um Scrum und entsprechende Boards. Viele Firmen nutzen sowohl das \"klassische\" Whiteboard mit Zetteln für Stories. Andere nutzen System wie JIRA, um auch mit ihren Kunden zu kommunizieren. Einige Firmen nutzen beides und bekommen schnell ein Problem beide Boards synchron und aktuell zu halten. Hier greift mein Projekt. Die Zettel auf dem Whiteboard werden durch kleine Displays mit Mikrocontrollern ersetzt, die Informationen aus dem Ticketsystem wie JIRA enthalten.",
+      "Technisch nutze ich dazu kleine ESP8266-Controller mit e-Ink Displays, die sehr wenig Strom benötigen. Diese Controller kommunizieren mit dem JIRA und holen sich die aktuellsten Informationen. Mitarbeiter können mit den Contollern interagieren und so den Status oder den Bearbeiter der Story verändern mit Hilfe von verschiedenen (möglichst intuitiven) Sensoren. Meine Bachelorarbeit (und der vorangegangene Protoyp) wird in Zusammenarbeit mit dem Unternehmen <a href=\"https://www.kernpunkt.de\">kernpunkt</a> entwickelt."
+    ],
+    "image": "../img/pp.jpg"
+  },
+  {
+    "title": "Was letzte Preis?",
+    "subtitle": "Der Ebay-Händler Simulator",
+    "projectinfos": [
+      {
+        "type": "String",
+        "key": "Zeit",
+        "value": "<i>noch offen</i>"
+      },
+      {
+        "type": "String",
+        "key": "Sprachen",
+        "value": "Java, Swing"
+      },
+      {
+        "type": "Link",
+        "key": "APIs",
+        "value": "https://developer.ebay.com/",
+        "title": "Ebay"
+      }
+    ],
+    "descriptions": [
+      "Ich weiß, dass es echt bescheuert klingt. Aber ich wollte schon immer ein Spiel programmieren, bzw. entwickeln, dass es so noch nicht gibt. Auch wenn es Simulatoren wie Sand am Meer gibt, gibt es noch keinen Onlinehändler-Simulator. Bisher ist es auch nur eine Idee, aber ich hoffe sie nach meiner Bachelorarbeit angehen zu können. Man startet mit einem Budget von z.B. 10€ und kann Artikel kaufen, mit echten Preisen und echten Auktionen. Nun soll man die Artikel verkaufen können, auch zu echten Marktpreisen, orientiert am Durchschnittspreis auf Ebay. Je höher der Schwierigkeitsgrad ist, desto teurer sind Produkte zu kaufen, bzw. desto billiger muss man sie verkaufen. Ziele des Spiels können bestimmte Geldsummen, bestimmte Artikel oder ähnliches sein. Auch hier arbeite ich gern mit anderen Entwicklern zusammen!"
+    ],
+    "image": ""
+  }
+]

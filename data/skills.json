@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Java",
+    "level": 4
+  },
+  {
+    "name": "Gradle",
+    "level": 2
+  },
+  {
+    "name": "Maven",
+    "level": 3
+  },
+  {
+    "name": "Android",
+    "level": 4
+  },
+  {
+    "name": "C",
+    "level": 2
+  },
+  {
+    "name": "OpenGL",
+    "level": 1
+  },
+  {
+    "name": "HTML/CSS/Javascript",
+    "level": 4
+  },
+  {
+    "name": "CMS (Wordpress, FirstSpirit)",
+    "level": 4
+  },
+  {
+    "name": "Versionierung",
+    "level": 3
+  }
+]
