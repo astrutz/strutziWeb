@@ -1,0 +1,421 @@
+[
+  {
+    "startDate": 1221483600,
+    "endDate": 1221829200,
+    "destination": {
+      "lat": 50.05986,
+      "lng": 7.76593,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Bacharach"
+    },
+    "people": [
+      "6. Klasse"
+    ],
+    "description": "Klassenfahrt in der sechsten Klasse, bisschen Mainz, Lorelei und ZDF ansehen. Ganz putzig.",
+    "transport": "bus"
+  },
+  {
+    "startDate": 1311426000,
+    "endDate": 1313240400,
+    "destination": {
+      "lat": 44.858501,
+      "lng": 24.87063,
+      "country": "Rumänien",
+      "countryISO": "RO",
+      "city": "Pitești"
+    },
+    "people": [
+      "Familie"
+    ],
+    "description": "Das erste Mal Rumänien (als Urlauber), an das ich mich so wirklich erinnern kann.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1336395600,
+    "endDate": 1336741200,
+    "destination": {
+      "lat": 47.997190,
+      "lng": 7.853770,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Freiburg"
+    },
+    "people": [
+      "9. Klasse"
+    ],
+    "description": "Wieder eine Klassenfahrt, diesmal in der neunten Klasse. Hatte mit Straßburg und dem Europa Park für mein 14-jähriges Ich mehr zu bieten.",
+    "transport": "bus"
+  },
+  {
+    "startDate": 1341666000,
+    "endDate": 1343480400,
+    "destination": {
+      "lat": 44.858501,
+      "lng": 24.87063,
+      "country": "Rumänien",
+      "countryISO": "RO",
+      "city": "Pitești"
+    },
+    "people": [
+      "Familie"
+    ],
+    "description": "Tatsächlich das letzte Mal, dass wir vollständig und mit dem Auto hin sind und die typischen Verwandten besucht haben.",
+    "transport": "bus"
+  },
+  {
+    "startDate": 1403528400,
+    "endDate": 1403960400,
+    "destination": {
+      "lat": 44.198952,
+      "lng": 12.39536,
+      "country": "Italien",
+      "countryISO": "IT",
+      "city": "Cesenatico"
+    },
+    "people": [
+      "Stufe 12"
+    ],
+    "description": "Abschlussfahrt vorm Abi ans Meer. Viel Strand, bisschen Kultur und kaltes Bier, bzw Wein für die Lehrer am Morgen (ja, wirklich).",
+    "transport": "bus"
+  },
+  {
+    "startDate": 1432386000,
+    "endDate": 1432558800,
+    "destination": {
+      "lat": 51.028351,
+      "lng": 7.56543,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Aggertalsperre"
+    },
+    "people": [
+      "Stecherbande"
+    ],
+    "description": "Mit unseren Rollern nahmen wir die damals galaktische Strecke von 30km auf uns auf, um ein paar Tage zu zelten nach dem Motto: Grillen und Bierchen.",
+    "transport": "scooter"
+  },
+  {
+    "startDate": 1458136800,
+    "endDate": 1458309600,
+    "destination": {
+      "lat": 52.370216,
+      "lng": 4.895168,
+      "country": "Niederlande",
+      "countryISO": "NL",
+      "city": "Amsterdam"
+    },
+    "people": [
+      "Markus Alterauge",
+      "Lena Wirtz",
+      "Cathrin Pape",
+      "Dennis Neumann"
+    ],
+    "description": "Erster Ausflug mit Kommolitonen. Viel zu warme Hauptstadt und viel zu kaltes Meer.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1460638800,
+    "endDate": 1460725200,
+    "destination": {
+      "lat": 51.732769,
+      "lng": 3.77501,
+      "country": "Niederlande",
+      "countryISO": "NL",
+      "city": "Renesse"
+    },
+    "people": [
+      "Timo Fuchs",
+      "Torben Meyer",
+      "Florian Scharrenbroich"
+    ],
+    "description": "Zwei Wochen später wieder nach Holland, diesmal mit den Jungs, Übernachtung im Auto und Karamellbier inklusive.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1463230800,
+    "endDate": 1463403600,
+    "destination": {
+      "lat": 51.028351,
+      "lng": 7.56543,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Aggertalsperre"
+    },
+    "people": [
+      "Stecherbande"
+    ],
+    "description": "Erneut zelten an der Agger, diesmal in gemischter Truppe, dafür aber leider mit stinkigem Zeltplatznachtwächter, der uns das Lagerfeuer mit der Gießkanne ausgoss.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1468846800,
+    "endDate": 1469970000,
+    "destination": {
+      "lat": 44.858501,
+      "lng": 24.87063,
+      "country": "Rumänien",
+      "countryISO": "RO",
+      "city": "Pitești"
+    },
+    "people": [
+      "Familie"
+    ],
+    "description": "Meine erste Flugreise. Es fühlt sich schon suspekt an jahrelang 40 Stunden im Auto zu sitzen und plötzlich in drei Stunden da zu sein.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1473253200,
+    "endDate": 1473426000,
+    "destination": {
+      "lat": 47.497913,
+      "lng": 19.040236,
+      "country": "Ungarn",
+      "countryISO": "HU",
+      "city": "Budapest"
+    },
+    "people": [
+      "Markus Alterauge",
+      "Lena Wirtz",
+      "Cathrin Pape",
+      "Dennis Neumann",
+      "Torben Wolf"
+    ],
+    "description": "Eine Geburtstagsüberraschung für Cathrin, die so gut gelang, dass sie bis Abflug nicht wusste wo es hin geht. Kleiner Städtetrip mit einer Übernachtung auf der Straße und Partys in versteckten Innenhöfen.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1486130400,
+    "endDate": 1486303200,
+    "destination": {
+      "lat": 44.198952,
+      "lng": 12.39536,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Hachenburg"
+    },
+    "people": [
+      "Mitarbeiter Denklingen"
+    ],
+    "description": "Mitarbeiterwochenende mit der Kirche. Relativ unspannend, aber wir hatten eine Sporthalle für uns allein, Pluspunkt.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1494939600,
+    "endDate": 1495285200,
+    "destination": {
+      "lat": 44.866623,
+      "lng": 13.849579,
+      "country": "Kroatien",
+      "countryISO": "HR",
+      "city": "Pula"
+    },
+    "people": [
+      "Markus Alterauge",
+      "Lena Wirtz",
+      "Cathrin Pape",
+      "Julia Voell"
+    ],
+    "description": "Erste Besichtigung des neuen EU-Mitglieds mit der \"Steinbeachcrew\", gutes Wetter, harter Strand, aber schöne Insel.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1496494800,
+    "endDate": 1496667600,
+    "destination": {
+      "lat": 50.873798,
+      "lng": 8.02341,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Siegen"
+    },
+    "people": [
+      "Jugendkreis"
+    ],
+    "description": "Besuch der jährlichen Pfingstjugendkonferenz, schlafen in Turnhallen und feiern in Festhallen.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1501506000,
+    "endDate": 1501851600,
+    "destination": {
+      "lat": 52.509789,
+      "lng": 13.314420,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Berlin"
+    },
+    "people": [
+      "Torben Meyer",
+      "Florian Scharrenbroich",
+      "Julian Henn"
+    ],
+    "description": "Erstes Mal in Berlin mit den Jungs und den ersten Döner meines Lebens probiert. Morgens Kater, nachmittags Kultur. Zudem durften wir über Jodel an einer Hausparty teilnehmen, einfach so.",
+    "transport": "train"
+  },
+  {
+    "startDate": 1503061200,
+    "endDate": 1503406800,
+    "destination": {
+      "lat": 59.913868,
+      "lng": 10.752245,
+      "country": "Norwegen",
+      "countryISO": "NO",
+      "city": "Oslo"
+    },
+    "people": [],
+    "description": "Erste Reise nach Skandinavien in Kombination mit dem Versuch einen verhassten Mitbewohner dazu zu bewegen nicht wieder zu kommen. Beides gelang.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1521122400,
+    "endDate": 1521122400,
+    "destination": {
+      "lat": 46.83656,
+      "lng": 9.28448,
+      "country": "Schweiz",
+      "countryISO": "CH",
+      "city": "Flims"
+    },
+    "people": [],
+    "description": "Was mich hier geritten hat, weiß ich nicht so ganz. Zusammenfassung: Ich war fast 20 Stunden unterwegs, um Julia für drei Stunden zu besuchen.",
+    "transport": "train"
+  },
+  {
+    "startDate": 1526302800,
+    "endDate": 1526734800,
+    "destination": {
+      "lat": 39.383919,
+      "lng": 20.115219,
+      "country": "Griechenland",
+      "countryISO": "GR",
+      "city": "Korfu"
+    },
+    "people": [
+      "Julia Voell"
+    ],
+    "description": "Wieder mit Julia, diesmal länger und geplanter. Hübsche griechische Insel vor dem Ansturm der Touristen. Empfehlung des Hauses: Sich einen Roller leihen und die Insel erkunden.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1535720400,
+    "endDate": 1535893200,
+    "destination": {
+      "lat": 52.10207,
+      "lng": 6.6481,
+      "country": "Niederlande",
+      "countryISO": "NL",
+      "city": "Eibergen"
+    },
+    "people": [
+      "Fachschaft"
+    ],
+    "description": "Erste Klausurtagung mti der Fachschaft. Gute Mischung aus produktivem Wissenstransfer und guten Mischungen. Abgelegen, aber mit gutem Lärmpotential.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1537275600,
+    "endDate": 1537534800,
+    "destination": {
+      "lat": 44.858501,
+      "lng": 24.87063,
+      "country": "Rumänien",
+      "countryISO": "RO",
+      "city": "Pitești"
+    },
+    "people": [
+      "Julia Voell"
+    ],
+    "description": "Julia mal Rumänien zeigen und nebenbei für die letzten Klausuren lernen.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1550844000,
+    "endDate": 1551103200,
+    "destination": {
+      "lat": 49.980549,
+      "lng": 5.25611,
+      "country": "Belgien",
+      "countryISO": "BE",
+      "city": "Libin"
+    },
+    "description": "Zweite Klausurtagung, diesmal in Belgien. Dafür aber mit einem Whirlpool, nur zu empfehlen!",
+    "transport": "car",
+    "people": [
+      "Fachschaft"
+    ]
+  },
+  {
+    "startDate": 1554814800,
+    "endDate": 1554814800,
+    "destination": {
+      "lat": 51.507351,
+      "lng": -0.127758,
+      "country": "England",
+      "countryISO": "UK",
+      "city": "London"
+    },
+    "people": [
+      "Julia Voell"
+    ],
+    "description": "Wieder ein Tagestrip dank günstiger Flugpreise. Erstes Mal UK, viele Sehenswürdigkeiten und Fish 'n Chips in unter 16 Stunden.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1555678800,
+    "endDate": 1555938000,
+    "destination": {
+      "lat": 52.82621,
+      "lng": 6.22533,
+      "country": "Niederlande",
+      "countryISO": "NL",
+      "city": "Wapserveen"
+    },
+    "people": [
+      "Timo Fuchs",
+      "Torben Meyer",
+      "Niklas Kind",
+      "Henrik Berndt",
+      "Moritz Prinz",
+      "Julian Henn"
+    ],
+    "description": "Quasi wie Zelten an der Aggertalsperre. Nur in einer guten Unterkunft, mit mehr Ruhe und besserem Bier. Wir steigern uns.",
+    "transport": "car"
+  },
+  {
+    "startDate": 1557493200,
+    "endDate": 1557925200,
+    "destination": {
+      "lat": 39.695263,
+      "lng": 3.017571,
+      "country": "Spanien",
+      "countryISO": "ES",
+      "city": "Mallorca"
+    },
+    "people": [
+      "Markus Alterauge",
+      "Lena Wirtz",
+      "Cathrin Pape",
+      "Dennis Neumann",
+      "Julia Voell"
+    ],
+    "description": "Klingt sehr nach Ballermann. Tatsächlich waren wir aber in einer netten Finca mit eigenem Pool, gutem Wetter und Wandertag.",
+    "transport": "plane"
+  },
+  {
+    "startDate": 1566910800,
+    "endDate": 1567083600,
+    "destination": {
+      "lat": 52.520008,
+      "lng": 13.404954,
+      "country": "Deutschland",
+      "countryISO": "DE",
+      "city": "Berlin"
+    },
+    "people": [
+      "Julia Voell"
+    ],
+    "description": "Nochmal Berlin? Eurowings Blind Booking machte es möglich. Durch Zufall bekamen wir einen Flug und er ging eben nach Berlin.",
+    "transport": "plane"
+  }
+]

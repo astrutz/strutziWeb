@@ -96,7 +96,7 @@
                 <div class="row">
                     <div class="col-6">Hübsche Websiten</div>
                     <div class="col-6">
-                        - <img src="../img/icons8-stern-24.png"><img src="../img/icons8-stern-24.png"><img
+                        <b>-</b> <img src="../img/icons8-stern-24.png"><img src="../img/icons8-stern-24.png"><img
                                 src="../img/icons8-stern-24.png">
                     </div>
                 </div>
