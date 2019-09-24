@@ -1,15 +1,15 @@
 <?php include '../partials/header.php'; ?>
 
 
-<h1>Datenschutzerklärung</h1><br>
-<h2 id="m14">Einleitung</h2>
+<h1 class="custom-headline">Datenschutzerklärung</h1>
+<h2 id="m14" class="custom-headline">Einleitung</h2>
 <p>Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten
     (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die
     Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen
     der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie
     innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet
     als "Onlineangebot“).</p>
-<ul class="m-elements"></ul><p>Stand: 17. September 2019<h2>Inhaltsübersicht</h2>
+<ul class="m-elements"></ul><p>Stand: 17. September 2019<h2 class="custom-headline">Inhaltsübersicht</h2>
 <ul class="index">
     <li><a class="index-link" href="#m14"> Einleitung</a></li>
     <li><a class="index-link" href="#m3"> Verantwortlicher</a></li>
@@ -22,23 +22,26 @@
     <li><a class="index-link" href="#m15"> Änderung und Aktualisierung der Datenschutzerklärung</a></li>
     <li><a class="index-link" href="#m10"> Rechte der betroffenen Personen</a></li>
     <li><a class="index-link" href="#m42"> Begriffsdefinitionen</a></li>
-</ul><h2 id="m3">Verantwortlicher</h2> <p>Alexander Strutz<br>Hohe Straße<br>51643 Gummersbach</p>
+</ul><h2 id="m3" class="custom-headline">Verantwortlicher</h2> <p>Alexander Strutz<br>Hohe Straße<br>51643 Gummersbach
+</p>
 <p><strong>E-Mail-Adresse</strong>: <a href="mailto:info@strutzi.de">info@strutzi.de</a></p>
-<ul class="m-elements"></ul><h2 id="mOverview">Übersicht der Verarbeitungen</h2><p>Die nachfolgende Übersicht fasst die
+<ul class="m-elements"></ul><h2 id="mOverview" class="custom-headline">Übersicht der Verarbeitungen</h2><p>Die
+    nachfolgende Übersicht fasst die
     Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen
-    Personen.</p><h3>Arten der verarbeiteten Daten</h3>
+    Personen.</p><h3 class="custom-headline">Arten der verarbeiteten Daten</h3>
 <ul>
     <li><p>Inhaltsdaten (z.B. Texteingaben, Fotografien, Videos).</p></li>
     <li><p>Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).</p></li>
     <li><p>Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).</p></li>
-</ul><h3>Kategorien betroffener Personen</h3>
+</ul><h3 class="custom-headline">Kategorien betroffener Personen</h3>
 <ul>
     <li><p>Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).</p></li>
-</ul><h3>Zwecke der Verarbeitung</h3>
+</ul><h3 class="custom-headline">Zwecke der Verarbeitung</h3>
 <ul>
     <li><p>Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.</p></li>
     <li><p>Vertragliche Leistungen und Service.</p></li>
-</ul><h2></h2><h3 id="m13">Maßgebliche Rechtsgrundlagen</h3><p>Im Folgenden teilen wir die Rechtsgrundlagen der
+</ul><h3 class="custom-headline" id="m13">Maßgebliche Rechtsgrundlagen</h3><p>Im Folgenden teilen wir die
+    Rechtsgrundlagen der
     Datenschutzgrundverordnung (DSGVO), auf deren Basis wir die personenbezogenen Daten verarbeiten, mit. Bitte beachten
     Sie, dass zusätzlich zu den Regelungen der DSGVO die nationalen Datenschutzvorgaben in Ihrem bzw. unserem Wohn- und
     Sitzland gelten können.</p>
@@ -56,7 +59,8 @@
     Weiteren regelt es die Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses (§ 26 BDSG), insbesondere im
     Hinblick auf die Begründung, Durchführung oder Beendigung von Beschäftigungsverhältnissen sowie die Einwilligung von
     Beschäftigten. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung gelangen.</p>
-<ul class="m-elements"></ul> <h2 id="m27">Sicherheitsmaßnahmen</h2><p>Wir treffen nach Maßgabe der gesetzlichen Vorgaben
+<ul class="m-elements"></ul> <h2 class="custom-headline" id="m27">Sicherheitsmaßnahmen</h2><p>Wir treffen nach Maßgabe
+    der gesetzlichen Vorgaben
     unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und
     der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung
     der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem
@@ -71,7 +75,8 @@
 <p><strong>SSL-Verschlüsselung (https)</strong>: Um Ihre via unser Online-Angebot übermittelten Daten zu schützen,
     nutzen wir eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der
     Adresszeile Ihres Browsers.</p>
-<h2 id="m225">Bereitstellung des Onlineangebotes und Webhosting</h2><p>Um unser Onlineangebot sicher und effizient
+<h2 class="custom-headline" id="m225">Bereitstellung des Onlineangebotes und Webhosting</h2><p>Um unser Onlineangebot
+    sicher und effizient
     bereitstellen zu können, nehmen wir die Leistungen von einem oder mehreren Webhosting-Anbietern in Anspruch, von
     deren Servern (bzw. von ihnen verwalteten Servern) das Onlineangebot abgerufen werden kann. Zu diesen Zwecken können
     wir Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste sowie
@@ -110,7 +115,8 @@
             Elgendorfer Str. 57, 56410 Montabaur, Deutschland; Website: <a href="https://www.ionos.de" target="_blank">https://www.ionos.de</a>;
             Datenschutzerklärung: <a href="https://www.ionos.de/terms-gtc/terms-privacy" target="_blank">https://www.ionos.de/terms-gtc/terms-privacy</a>.
         </p></li>
-</ul><h2 id="m328">Plugins und eingebettete Funktionen sowie Inhalte</h2><p>Wir binden in unser Onlineangebot Funktions-
+</ul><h2 class="custom-headline" id="m328">Plugins und eingebettete Funktionen sowie Inhalte</h2><p>Wir binden in unser
+    Onlineangebot Funktions-
     und Inhaltselemente ein, die von den Servern ihrer jeweiligen Anbieter (nachfolgend bezeichnet als "Drittanbieter”)
     bezogen werden. Dabei kann es sich zum Beispiel um Grafiken, Videos oder Social-Media-Schaltflächen sowie Beiträge
     handeln (nachfolgend einheitlich bezeichnet als "Inhalte”).</p>
@@ -162,7 +168,8 @@
             Einstellungen für die Darstellung von Werbeeinblendungen: <a
                     href="https://adssettings.google.com/authenticated" target="_blank">https://adssettings.google.com/authenticated</a>.
         </p></li>
-</ul><h2 id="m12">Löschung von Daten</h2><p>Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen
+</ul><h2 class="custom-headline" id="m12">Löschung von Daten</h2><p>Die von uns verarbeiteten Daten werden nach Maßgabe
+    der gesetzlichen
     Vorgaben gelöscht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige
     Erlaubnisse entfallen (z.B., wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie für den Zweck nicht
     erforderlich sind).</p>
@@ -213,7 +220,8 @@
         Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
     </li>
 </ul>
-<h2 id="m42">Begriffsdefinitionen</h2><p>In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser
+<h2 class="custom-headline" id="m42">Begriffsdefinitionen</h2><p>In diesem Abschnitt erhalten Sie eine Übersicht über
+    die in dieser
     Datenschutzerklärung verwendeten Begrifflichkeiten. Viele der Begriffe sind dem Gesetz entnommen und vor allem im
     Art. 4 DSGVO definiert. Die gesetzlichen Definitionen sind verbindlich. Die nachfolgenden Erläuterungen sollen
     dagegen vor allem dem Verständnis dienen. Die Begriffe sind alphabetisch sortiert.</p>

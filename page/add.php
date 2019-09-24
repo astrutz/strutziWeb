@@ -8,6 +8,7 @@ usort($teams,function($a,$b) {return strnatcasecmp($a['name'],$b['name']);});
 usort($leagues,function($a,$b) {if($a['level'] == $b['level']){ return 0 ; } return ($a['level'] < $b['level']) ? -1 : 1; } );
 
 ?>
+<h1 class="custom-headline">Spiel hinzufügen</h1>
 <form action="addSuccess.php" method="post">
     <div class="row form-group">
         <div class="col">

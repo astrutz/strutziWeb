@@ -7,6 +7,7 @@ $games = json_decode(file_get_contents('../data/games.json'), true);
 usort($games,function($a,$b) {if($a['timestamp'] == $b['timestamp']){ return 0 ; } return ($a['timestamp'] < $b['timestamp']) ? -1 : 1; } );
 
 ?>
+<h1 class="custom-headline">Spiel löschen</h1>
 <form method="post" action="removeSuccess.php">
     <div class="form-group">
         <label for="inputGuest">Zu löschendes Spiel</label>

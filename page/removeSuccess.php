@@ -39,6 +39,7 @@ if (isset($_POST['gameToken'])) {
 
 
 ?>
+<h1 class="custom-headline">Spiel löschen</h1>
 
 <?php if ($gameIsDeleted) { ?>
     <div class="alert alert-success" role="alert">

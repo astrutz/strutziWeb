@@ -1,7 +1,7 @@
 <?php include '../partials/header.php'; ?>
 
 
-<div class='impressum'><h1>Impressum</h1><p>Angaben gemäß § 5 TMG</p><p>Alexander Strutz <br>
+<div class='impressum'><h1 class="custom-headline">Impressum</h1><p>Angaben gemäß § 5 TMG</p><p>Alexander Strutz <br>
         Hohe Straße<br>
         51643 Gummersbach <br>
     </p><p> <strong>Vertreten durch: </strong><br>

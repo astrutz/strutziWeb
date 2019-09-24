@@ -2,11 +2,13 @@
 <html lang="DE">
 <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="keywords" content="strutzi, strutz, referee, maps, ref, fvm, berg">
-    <meta name="description" content="This is the website of strutzi where you just find some of mine interests like traveling or refereeing">
+    <meta name="description"
+          content="This is the website of strutzi where you just find some of mine interests like traveling or refereeing">
     <meta name="subject" content="Own experimental web developent by strutzi">
     <meta name="language" content="DE">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="robots" content="index,follow">
     <meta name="author" content="Alex Strutz, info@strutzi.de">
     <meta name="url" content="https://www.strutzi.de">
@@ -21,7 +23,7 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
-    <link href="../img/favicon.ico" rel="icon" type="image/x-icon" />
+    <link href="../img/favicon.ico" rel="icon" type="image/x-icon"/>
 
     <!-- jQuery library -->
     <script src="../lib/jquery-3.4.1.min.js"></script>
@@ -46,9 +48,9 @@
         <a class="navbar-brand" href="../">strutzi.de</a>
         <!-- Links -->
         <ul class="navbar-nav">
-            <!--<li class="navbar-nav">
-                <a class="nav-link" href="#">About</a>
-            </li>-->
+            <li class="navbar-nav">
+                <a class="nav-link" href="../page/vita">Vita</a>
+            </li>
             <!-- Dropdown -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -60,7 +62,15 @@
                     <a class="dropdown-item" href="/page/remove">Spiel löschen</a>
                 </div>
             </li>
+            <li class="navbar-nav">
+                <a class="nav-link" href="../page/darts">Darts</a>
+            </li>
+            <li class="navbar-nav">
+                <a class="nav-link" href="../page/coding">Coding</a>
+            </li>
+            <li class="navbar-nav">
+                <a class="nav-link" href="../page/reisen">Reisen</a>
+            </li>
         </ul>
     </nav>
-    <br><br>
     <br><br>

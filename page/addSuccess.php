@@ -93,6 +93,8 @@ function buildGame()
 
 
 ?>
+<h1 class="custom-headline">Spiel hinzufügen</h1>
+
 <?php if(isset($response) && $response['success'] == true){ ?>
 <div class="alert alert-success" role="alert">
     Das

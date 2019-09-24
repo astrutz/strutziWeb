@@ -9,11 +9,11 @@
             <div class="col-xs-12 col-sm-4 col-md-4">
                 <h5>Das Wichtigste</h5>
                 <ul class="list-unstyled quick-links">
-                    <li><a href="../"><i class="fa fa-angle-double-right"></i>Home</a></li>
-                    <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>About</a></li>
+                    <li><a href="../page/vita"><i class="fa fa-angle-double-right"></i>Vita</a></li>
                     <li><a href="../page/overview"><i class="fa fa-angle-double-right"></i>Referee</a></li>
-                    <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Travel and maps</a></li>
-                    <li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Funny Placeholder</a></li>
+                    <li><a href="../page/darts"><i class="fa fa-angle-double-right"></i>Darts</a></li>
+                    <li><a href="../page/coding"><i class="fa fa-angle-double-right"></i>Coding</a></li>
+                    <li><a href="../page/reisen"><i class="fa fa-angle-double-right"></i>Reisen</a></li>
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-4">
@@ -32,6 +32,7 @@
                     <li><a href="../page/impressum"><i class="fa fa-angle-double-right"></i>Impressum</a></li>
                     <li><a href="../page/datenschutz"><i class="fa fa-angle-double-right"></i>Datenschutzerklärung</a></li>
                     <li><a href="../sitemap.xml"><i class="fa fa-angle-double-right"></i>Site Map</a></li>
+                    <li><a href="../page/kontakt"><i class="fa fa-angle-double-right"></i>Kontakt</li>
                 </ul>
             </div>
         </div>
