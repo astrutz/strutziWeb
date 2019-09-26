@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Bezirksklasse Nordrhein-Süd 2 2019/2020",
+    "short": "BKNS21920",
+    "playerType": "team",
+    "description": null,
+    "tournamentType": "ligue",
+    "position": null,
+    "tableheads": ["Platz", "", "Mannschaft", "S", "U", "N", "Punkte", "Spiele", "Legs"],
+    "results": null
+  },
+  {
+    "name": "Bezirksklasse Nordrhein-Süd 2 2018/2019",
+    "short": "BKNS21819",
+    "playerType": "team",
+    "description": null,
+    "tournamentType": "ligue",
+    "position": 5,
+    "tableheads": ["Platz", "", "Mannschaft", "S", "U", "N", "Punkte", "Spiele", "Legs"],
+    "results": [
+      [1, "../../img/dart/köl.jpg", "Dart Team Köln III", 11, 2, 1, "24 : 4", "183 : 97", "410 : 261"],
+      [2, "../../img/dart/köl.jpg", "Dart Team Köln II", 10, 2, 2, "22 : 6", "167 : 113", "385 : 286"],
+      [3, "../../img/dart/images.jpg", "Gentlemen George II", 10, 1, 3, "21 : 7", "163 : 117", "374 : 302"],
+      [4, "", "Dart Team Deutz", 8, 1, 5, "17 : 11", "145 : 135", "350 : 330"],
+      [5, "../../img/dart/Dart-Logo-klein.png", "<i>1. SDC Gummersbach</i>", 4, 2, 8, "10 : 18", "131 : 149", "328 : 364"],
+      [6, "../../img/dart/SCFliesteden.png", "SC Fliesteden", 3, 1, 10, "7 : 21", "115 : 165", "301 : 386"],
+      [7, "../../img/dart/lev.png", "DC Leverkusen II", 2, 2, 10, "6 : 22", "113 : 167", "295 : 385"],
+      [8, "", "SSV Swisttal-Buschoven", 2, 1, 11, "5 : 23", "103 : 177", "272 : 401"]
+    ]
+  },
+  {
+    "name": "Bezirksklasse Nordrhein-Süd 2 2017/2018",
+    "short": "BKNS21718",
+    "playerType": "team",
+    "description": null,
+    "tournamentType": "league",
+    "position": 7,
+    "tableheads": ["Platz", "", "Mannschaft", "S", "U", "N", "Punkte", "Spiele", "Legs"],
+    "results": [
+      [1, "../../img/dart/tomburg.png", "Tomburg DT Meckenheim", 16, 1, 1, "33 : 3", "238 : 122", "533 : 324"],
+      [2, "../../img/dart/nd.jpg", "1. SDV Niederkassel", 13, 2, 3, "28 : 8", "223 : 137", "505 : 354"],
+      [3, "", "SSV Swisttal-Buschoven", 11, 1, 6, "23 : 13", "208 : 152", "478 : 383"],
+      [4, "../../img/dart/köl.jpg", "Dart Team Köln II", 10, 2, 6, "22 : 14", "204 : 156", "478 : 378"],
+      [5, "../../img/dart/köl.jpg", "Dart Team Köln III", 9, 3, 6, "21 : 15", "207 : 153", "479 : 393"],
+      [6, "", "Dart Team Deutz", 9, 1, 8, "19 : 17", "189 : 171", "449 : 414"],
+      [7, "../../img/dart/Dart-Logo-klein.png", "<i>1. SDC Gummersbach</i>", 9, 1, 8, "19 : 17", "184 : 176", "447 : 422"],
+      [8, "../../img/dart/SCFliesteden.png", "SC Fliesteden", 3, 2, 13, "8 : 28", "135 : 225", "347 : 510"],
+      [9, "../../img/dart/lev.png", "DC Leverkusen II", 1, 2, 15, "4 : 32", "126 : 234", "334 : 529"],
+      [10, "../../img/dart/00ES8GN91400004IVV0AG08LVUPGND5I.png", "SpVg. Rheinkassel-Langel", 1, 1, 16, "3 : 33", "86 : 274", "246 : 589"]
+    ]
+  },
+  {
+    "name": "Vereinsmeisterschaften 2019",
+    "playerType": "sdc",
+    "tournamentType": "ko",
+    "short": "Meisterschaften2019",
+    "description": "Das traditionell längste Turnier sind die Meisterschaften mit einer Vorrunde als Liga, bevor es in ein K.O.-System geht.",
+    "position": 3,
+    "results": [
+      {
+        "roundName": "Gruppenphase",
+        "games": [
+          "1. Holger Wessolowski",
+          "2. Frank Bauermeister",
+          "3. Marcel Bauermeister",
+          "4. Dirk Renneberg",
+          "5. <i>Alex Strutz</i>",
+          "6. Marco Martin",
+          "7. Jürgen Martin"
+        ]
+      },
+      {
+        "roundName": "Viertelfinale",
+        "games": [
+          "Holger Wessolowski 5 : 0 freilos",
+          "Frank Bauermeister 5 : 0 Jürgen Martin",
+          "Marcel Bauermeister 5 : 4 Marco Martin",
+          "<i>Alex Strutz 5 : 3 Dirk Renneberg</i>"
+        ]
+      },
+      {
+        "roundName": "Halbfinale",
+        "games": [
+          "Frank Bauermeister 5 : 4 Marcel Bauermeister",
+          "<i>Alex Strutz 5 : 3 Holger Wessolowski</i>"
+        ]
+      },
+      {
+        "roundName": "Finale",
+        "games": [
+          "Frank Bauermeister 6 : 1 Holger Wessolowski"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vereinsmeisterschaften 2018",
+    "playerType": "sdc",
+    "tournamentType": "ko",
+    "short": "Meisterschaften2018",
+    "description": "Bei diesen Vereinsmeisterschaften konnte ich mir neben dem dritten Platz erstmalig den Pokal für das höchste Finish mit einer 96 holen.",
+    "position": 3,
+    "results": [
+      {
+        "roundName": "Gruppenphase",
+        "games": [
+          "1. <i>Alex Strutz</i>",
+          "2. Holger Wessolowski",
+          "3. Robbi Freytag",
+          "4. Frank Bauermeister",
+          "5. Jürgen Martin",
+          "6. Marcel Bauermeister",
+          "7. Christian Grothusen",
+          "8. Marco Martin"
+        ]
+      },
+      {
+        "roundName": "Viertelfinale",
+        "games": [
+          "<i>Alex Strutz 5 : 0 Marco Martin</i>",
+          "Holger Wessolowski 5 : 3 Christian Grothusen",
+          "Robbi Freytag 5 : 2 Marcel Bauermeister",
+          "Frank Bauermeister 5 : 3 Marco Martin"
+        ]
+      },
+      {
+        "roundName": "Halbfinale",
+        "games": [
+          "<i>Alex Strutz 2 : 5 Frank Bauermeister</i>",
+          "Holger Wessolowski 5 : 4 Robbi Freytag"
+        ]
+      },
+      {
+        "roundName": "Finale",
+        "games": [
+          "Frank Bauermeister 6 : 2 Holger Wessolowski"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vereinspokal 2018",
+    "playerType": "sdc",
+    "tournamentType": "ko",
+    "short": "Pokal2018",
+    "description": "Der Vereinspokal wird jährlich im Doppel K.O. Modus mit Best of 9 Legs gespielt, wodurch der dritte und vierte Platz eindeutig ermittelt werden kann.",
+    "position": 3,
+    "results": [
+      {
+        "roundName": "1. Runde",
+        "games": [
+          "Frank Lommel 5 : 0 Frank Bauermeister",
+          "Uwe Hardt 5 : 1 Marco Martin",
+          "Jürgen Martin 5 : 3 Manuel Müller",
+          "<i>Alex Strutz 5 : 2 Holger Wessolowski</i>"
+
+        ]
+      },
+      {
+        "roundName": "2. Runde",
+        "games": [
+          "Frank Lommel 5 : 4 Uwe Hardt",
+          "<i>Alex Strutz 5 : 3 Marco Martin</i>"
+        ]
+      },
+      {
+        "roundName": "Einzug Finale",
+        "games": [
+          "<i>Alex Strutz 2 : 5 Frank Lommel</i>"
+        ]
+      },
+      {
+        "roundName": "1. Runde Verliererseite",
+        "games": [
+          "Holger Wessolowski 5 : 2 Manuel Müller",
+          "Frank Bauermeister 5 : 1 Marco Martin"
+        ]
+      },
+      {
+        "roundName": "2. Runde Verliererseite",
+        "games": [
+          "Uwe Hardt 5 : 4 Holger Wessolowski",
+          "Frank Bauermeister 5 : 0 Jürgen Martin"
+        ]
+      },
+      {
+        "roundName": "3. Runde Verliererseite",
+        "games": [
+          "Frank Bauermeister 5 : 0 Uwe Hardt"
+        ]
+      },
+      {
+        "roundName": "Einzug Finale Verliererseite",
+        "games": [
+          "<i>Alex Strutz 1 : 5 Frank Bauermeister</i>"
+        ]
+      },
+      {
+        "roundName": "Finale",
+        "games": [
+          "Frank Lommel 5 : 3 Frank Bauermeister"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vereinspokal 2017",
+    "playerType": "sdc",
+    "tournamentType": "ko",
+    "short": "Pokal2017",
+    "description": "Leider gibt es hierzu weder Ergebnisse, noch Platzierungen. Nur der Pokal in meinem Schrank sagt, dass ich hier Dritter geworden bin.",
+    "position": 3,
+    "results": null
+  },
+  {
+    "name": "Vereinsmasters 2018",
+    "playerType": "sdc",
+    "tournamentType": "ko",
+    "short": "Masters2018",
+    "description": "Bei den Masters kann es schnell vorbei sein, denn sie werden im Single K.O-Modus gespielt, bei Best of 11 Legs und im Finale Best of 13 Legs.",
+    "position": 3,
+    "results": [
+      {
+        "roundName": "Vorrunde",
+        "games": [
+          "Robbi Freytag 0 : 6 Frank Lommel"
+        ]
+      },
+      {
+        "roundName": "Viertelfinale",
+        "games": [
+          "<i>Alex Strutz 6 : 2 Marco Martin</i>",
+          "Frank Lommel 6 : 0 Jürgen Martin",
+          "Holger Wessolowski 6 : 1 Manuel Müller",
+          "Marcel Bauermeister 6 : 4 Frank Bauermeister"
+        ]
+      },
+      {
+        "roundName": "Halbfinale",
+        "games": [
+          "<i>Alex Strutz 2 : 6 Marcel Bauermeister</i>",
+          "Frank Lommel 6 : 0 Holger Wessolowski"
+        ]
+      },
+      {
+        "roundName": "Finale",
+        "games": [
+          "Frank Lommel 7 : 0 Marcel Bauermeister"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vereinsmasters 2017",
+    "playerType": "sdc",
+    "tournamentType": "ko",
+    "short": "Masters2017",
+    "description": "Die Masters 2017 waren mein erstes Vereinsturnier und stareten direkt mit einem überraschenden Turniersieg.",
+    "position": 1,
+    "results": [
+      {
+        "roundName": "Vorrunde",
+        "games": [
+          "<i>Robbi Freytag 4 : 6 Alex Strutz</i>"
+        ]
+      },
+      {
+        "roundName": "Viertelfinale",
+        "games": [
+          "<i>Alex Strutz 6 : 5 Marcel Bauermeister</i>",
+          "Holger Wessolowski 6 : 5 Marco Martin",
+          "Jürgen Martin 4 : 6 Christan Grothusen",
+          "Frank Bauermeister 5 : 6 Peter Radermacher"
+        ]
+      },
+      {
+        "roundName": "Halbfinale",
+        "games": [
+          "<i>Alex Strutz 6 : 5 Holger Wessolowski</i>",
+          "Christan Grothusen 6 : 4 Peter Radermacher"
+        ]
+      },
+      {
+        "roundName": "Finale",
+        "games": [
+          "<i>Alex Strutz 7 : 2 Christian Grothusen</i>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Trainingscup 2018",
+    "playerType": "sdc",
+    "tournamentType": "ko",
+    "short": "Trainingscup2018",
+    "description": "Zu diesem Trainingscup gibt es leider keine Tabellen. Lediglich die ersten drei Plätze (auf der Weihnachtsfeier genannt) sind bekannt.",
+    "position": 3,
+    "results": [
+      {
+        "roundName": "Platzierungen",
+        "games": [
+          "1. Frank Bauermeister",
+          "2. Jürgen Martin",
+          "3. <i>Alex Strutz</i>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Trainingscup 2017",
+    "playerType": "sdc",
+    "tournamentType": "league",
+    "short": "Trainingscup2017",
+    "description": "Der Trainingscup wird über das ganze Jahr jeden Mittwoch in einzelnen Turnieren gespielt. Am Ende des Jahres werden die drei Gesamtbesten ausgezeichnet.",
+    "tableheads": ["Platz", "Spieler", "Teilnahmen", "Turniersiege", "Punkte", "∅ Punkte"],
+    "position": 7,
+    "results": [
+      [1, "Frank Bauermeister", 28, 21, 345, "13,27"],
+      [2, "Robbi Freytag", 25, 8, 225, "9"],
+      [3, "Jürgen Martin", 30, 0, 149, "4,96"],
+      [4, "Marcel Bauermeister", 28, 0, 113, "4,04"],
+      [5, "Manuel Müller", 23, 3, 97, "4,21"],
+      [6, "Holger Wessolowski", 15, 0, 89, "5,93"],
+      [7, "<i>Alex Strutz</i>", 6, 1, 52, "8,66"],
+      [8, "Marco Martin", 7, 0, 26, "3,71"],
+      [9, "Christian Grothusen", 1, 0, 9, "9"],
+      [10, "Peter Radermacher", 2, 0, 8, "4"],
+      [11, "Thomas Wessolowski", 1, 0, 6, "6"]
+    ]
+  },
+  {
+    "name": "Berghausener Meisterschaften 2019",
+    "playerType": "other",
+    "tournamentType": "ko",
+    "short": "Berghausen2019",
+    "description": "Leider gibt es bei den Berghausener Turnieren keine Mitschriften, somit kann ich nur vom Finale berichten.",
+    "position": 2,
+    "results": [
+      {
+        "roundName": "Finale",
+        "games": [
+        "<i>Frank Lommel 7 : 3 Alex Strutz</i>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Berghausener Meisterschaften 2018",
+    "playerType": "other",
+    "tournamentType": "ko",
+    "short": "Berghausen2018",
+    "description": "Leider gibt es bei den Berghausener Turnieren keine Mitschriften, somit kann ich nur ab dem Halbfinale berichten.",
+    "position": 1,
+    "results": [
+      {
+        "roundName": "Halbfinale",
+        "games": [
+          "<i>Adrian Burmeister 5 : 6 Alex Strutz</i>",
+          "Raphael Müller 3 : 6 Peter Kinateder"
+        ]
+      },
+      {
+        "roundName": "Finale",
+        "games": [
+          "<i>Alex Strutz 7 : 2 Peter Kinateder</i>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "4 Clubs Cup 2018",
+    "playerType": "other",
+    "tournamentType": "ko",
+    "short": "4ClubsCup",
+    "description": "Der 4 Clubs Cup setzt sich aus Spielern der Vereine Heier Surround Stars, Stülinghausen 26ers, Heier Ducks und VfL Berghausen zusammen. Gespielt wurde über mehrere Monate an verschiedenen Orten, Modus war Single K.O.",
+    "position": 1,
+    "results": [
+      {
+        "roundName": "Runde 1",
+        "games": [
+          "Karsten Söhnchen 0 : 6 Jürgen Krobbach"
+        ]
+      },
+      {
+        "roundName": "Runde 2",
+        "games": [
+          "Thomas Warkentin 3 : 6 Marius Ritschel",
+          "Daniel Bittner 6 : 5 Christopher Lieblang",
+          "Dennis Laqua 6 : 5 Rüdiger Döhl",
+          "Daniel Runge 6 : 4 Steffen Renz",
+          "Tim Mertel 6 : 2 Andy Selbach",
+          "Victor Bogdan 3 : 6 Michell Meckel",
+          "Jessica Lubina 2 : 6 Sven Mertel",
+          "Christian Schwirten 5 : 6 Sebastian Geilhaupt",
+          "Raphael Müller 6 : 0 Marcel Kuss",
+          "Marc Giebel 1 : 6 Stefan Brinkmann",
+          "Jürgen Krobbach 5 : 6 Oliver Achenbach"
+        ]
+      },
+      {
+        "roundName": "Runde 3",
+        "games": [
+          "Daniel Heller 6 : 4 Oliver Achenbach",
+          "Marius Ritschel 6 : 0 Dennis Laqua",
+          "Daniel Bittner 6 : 5 Peter Nebling",
+          "Daniel Runge 5 : 6 Tim Mertel",
+          "Michell Meckel 6 : 3 Leon Hagen",
+          "Sven Mertel 6 : 3 Daniel Lorenz",
+          "Jojo Schlegel 0 : 6 Sebastian Geilhaupt",
+          "Roman Ehring 3 : 6 Peter Kinateder",
+          "Raphael Müller 6 : 1 Torsten Zur",
+          "Adalbert Schaffron 6 : 1 Patrick Nebling",
+          "Viktor Penner 5 : 6 Christopher Müller",
+          "Timm Müller 1 : 6 Thorben Riedel",
+          "<i>Stefan Brinkmann 2 : 6 Alex Strutz</i>",
+          "Tobias Schulte 6 : 2 Marcus Schneider",
+          "Marvin Geppert 6 : 1 Andre Büscher",
+          "Dominik Heller 6 : 0 Philipp Höller"
+        ]
+      },
+      {
+        "roundName": "Achtelfinale",
+        "games": [
+          "Adalbert Schaffron 5 : 7 Marvin Geppert",
+          "Daniel Bittner 7 : 6 Marius Ritschel",
+          "Tim Mertel 7 : 5 Michell Meckel",
+          "<i>Daniel Heller 2 : 7 Alex Strutz</i>",
+          "Christopher Müller 6 : 7 Sven Mertel",
+          "Sebastian Geilhaupt 4 : 7 Raphael Müller",
+          "Peter Kinateder 4 : 7 Thorben Riedel",
+          "Dominik Heller 3 : 7 Tobias Schulte"
+        ]
+      },
+      {
+        "roundName": "Viertelfinale",
+        "games": [
+          "Raphael Müller 8 : 3 Tobias Schulte",
+          "<i>Daniel Bittner 1 : 8 Alex Strutz</i>",
+          "Thorben Riedel 1 : 8 Tim Mertel",
+          "Marvin Geppert 8 : 3 Sven Mertel"
+        ]
+      },
+      {
+        "roundName": "Halbfinale",
+        "games": [
+          "<i>Raphael Müller 2 : 9 Alex Strutz</i>",
+          "Marvin Geppert 9 : 7 Tim Mertel"
+        ]
+      },
+      {
+        "roundName": "Finale",
+        "games": [
+          "<i>Alex Strutz 10 : 7 Marvin Geppert</i>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gemischte Liga 2018 / 2019",
+    "playerType": "other",
+    "tournamentType": "league",
+    "short": "MixedLiga",
+    "tableheads": ["Platz", "Spieler", "Spiele", "Diff.", "Lega", "Punkte", "∅ Punkte"],
+    "description": "*Nach Abschluss des 4 Clubs Cup wurde von den vier Vereinen eine neue Liga geschaffen, um sich auch weiter messen zu können. Leider wurde sie abgebrochen, da einige Spieler es nicht schafften ihre Matches rechtzeitig zu absolvieren. Somit ist diese Tabelle das vorläufige Endergebnis.",
+    "position": 2,
+    "results": [
+      [1, "Raphael Müller", 15, 64, "90 : 26", 30, 2],
+      [2, "<i>Alex Strutz</i>", 12, 46, "59 : 23", 20, "1,67"],
+      [3, "Daniel Bittner", 13, 12, "61 : 49", 16, "1,23"],
+      [4, "Marvin Geppert", 10, 27, "56 : 29", 14, "1,5"],
+      [5, "Marius Ritschel", 11, 14, "55 : 41", 14, "1,27"],
+      [6, "Timm Müller", 12, -10, "48 : 58", 14, "1,17"],
+      [7, "Peter Kinateder", 10, 13, "48 : 35", 12, "1,2"],
+      [8, "Christan Schwirten", 13, -7, "51 : 58", 12, "0,92"],
+      [9, "Daniel Runge", 10, -1, "46 : 47", 10, "1"],
+      [10, "Patrick Renz", 12, -12, "43 : 55", 10, "1,2"],
+      [11, "Peter Nebling", 13, -23, "42 : 65", 8, "0,61"],
+      [12, "Adel Schaffron", 10, -15, "38 : 53", 6, "0,6"],
+      [13, "Viktor Penner", 12, -25, "37 : 62", 6, "0,5"],
+      [14, "Marc Giebel", 8, -21, "20 : 41", 4, "0,5"],
+      [15, "Jojo Schlegel", 12, -33, "33 : 66", 4, "0,34"],
+      [16, "Jessica Lubina", 9, -29, "22 : 51", 2, "0,22"]
+    ]
+  },
+  {
+    "name": "Achim-Wessolowski-Gedenkturnier 2017",
+    "playerType": "other",
+    "tournamentType": null,
+    "short": "Gedenkturnier2017",
+    "description": "Leider gibt es hierzu keine Aufzeichnung mehr. Der Modus war eine Gruppenphase mit 5 Spielern pro Gruppe. In dieser Gruppe wurde ich Letzter und somit 41. von 47, zusammen mit den anderen Gruppenletzten.",
+    "position": 41,
+    "results": null
+  }
+]

@@ -39,3 +39,21 @@ function translateEvent($event){
     }
     return $event;
 }
+
+function getAllPlaces($array, $isSpecialPlacement)
+{
+    $resultString = "";
+    if ($isSpecialPlacement) {
+        usort($array, function ($a, $b) {
+            return $a['position'] <=> $b['position'];
+        });
+        foreach ($array as $key => $value) {
+            $resultString = $resultString . '<li><a href="#' . $value['short'] . '">' . $value['position'] . '. Platz: ' . $value['name'] . '</a></li>';
+        }
+    } else {
+        foreach ($array as $key => $value) {
+            $resultString = $resultString . '<li><a href="#' . $value['short'] . '">' . $value['name'] . '</a></li>';
+        }
+    }
+    return $resultString;
+}
