@@ -329,6 +329,43 @@
     ]
   },
   {
+    "name": "Heier Halloweenturnier 2019",
+    "playerType": "other",
+    "tournamentType": "ko",
+    "short": "Halloween2019",
+    "description": "Eigentlich als Just for Fun Turnier gedacht, gewann es ein wenig an Seriösität, da ich Pokale mitbrachte.",
+    "position": 3,
+    "results": [
+      {
+        "roundName": "Gruppenphase",
+        "games": [
+          "1. <i>Alex Strutz</i>",
+          "2. Raphael Müller",
+          "3. Daniel Laqua",
+          "4. Peter Kinateder"
+        ]
+      },
+      {
+        "roundName": "Viertelfinale",
+        "games": [
+          "<i>Alex Strutz 4 : 2 Holger Wessolowski</i>"
+        ]
+      },
+      {
+        "roundName": "Halbfinale",
+        "games": [
+          "<i>Alex Strutz 3 : 5 Eugen Timko</i>"
+        ]
+      },
+	  {
+        "roundName": "Spiel um Platz 3",
+        "games": [
+          "<i>Alex Strutz 5 : 1 Raphael Müller</i>"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Berghausener Meisterschaften 2019",
     "playerType": "other",
     "tournamentType": "ko",

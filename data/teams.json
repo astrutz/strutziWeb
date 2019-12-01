@@ -1558,6 +1558,114 @@
       "white",
       "blue"
     ]
+  },
+  {
+    "id": 372410991,
+    "name": "Vorwärts Spoho Köln",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400005GVV0AG08LVUPGND5I",
+    "street": "Salzburger Weg 2",
+    "town": "50858 Köln",
+    "colors": [
+      "green",
+      "white",
+      "green"
+    ]
+  },
+  {
+    "id": 644238910,
+    "name": "1. FC Köln II",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400002BVV0AG08LVUPGND5I",
+    "street": "Neue Sandkaul 1",
+    "town": "50859 Köln",
+    "colors": [
+      "red",
+      "red",
+      "red"
+    ]
+  },
+  {
+    "id": 935782973,
+    "name": "SSV Wildbergerhütte-Odenspiel II",
+    "picture": "https://www.fussball.de/export.media/-/action/getLogo/format/2/id/01AE507ICC000000VV0AG80NVTSK6B05",
+    "street": "In der Heide 1",
+    "town": "51580 Reichshof",
+    "colors": [
+      "white",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "id": 987424746,
+    "name": "Bröltaler SC",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00IT1UJ4TO000000VTVG0001VV65MLA5",
+    "street": "Zur Bröltal-Arena 1",
+    "town": "53809 Ruppichteroth",
+    "colors": [
+      "blue",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "id": 469537083,
+    "name": "TuS Mondorf",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN91400009KVV0AG08LVUPGND5I",
+    "street": "Platz 1",
+    "town": "53859 Niederkassel",
+    "colors": [
+      "white",
+      "white",
+      "black"
+    ]
+  },
+  {
+    "id": 23048112,
+    "name": "SV Deutz 05",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN914000021VV0AG08LVUPGND5I",
+    "street": "Dr.-Simons-Str. 10",
+    "town": "50679 Köln",
+    "colors": [
+      "yellow",
+      "black",
+      "yellow"
+    ]
+  },
+  {
+    "id": 453594449,
+    "name": "TSV Ründeroth II",
+    "picture": "https://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002AVV0AG08LVUPGND5I",
+    "street": "Gartenstr. 46",
+    "town": "51766 Engelskirchen",
+    "colors": [
+      "white",
+      "green",
+      "white"
+    ]
+  },
+  {
+    "id": 190118014,
+    "name": "SV Thier",
+    "picture": "http://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00002GVV0AG08LVUPGND5I",
+    "street": "Heidchen 1",
+    "town": "51688 Wipperfürth",
+    "colors": [
+      "green",
+      "green",
+      "green"
+    ]
+  },
+  {
+    "id": 719254793,
+    "name": "SSV Marienheide II",
+    "picture": "https://www.fussball.de/export.media/-/action/getLogo/format/2/id/00ES8GN92C00001SVV0AG08LVUPGND5I",
+    "street": "Jahnstr. 1",
+    "town": "51709 Marienheide",
+    "colors": [
+      "red",
+      "red",
+      "white"
+    ]
   }
 ]
 
