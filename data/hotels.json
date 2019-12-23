@@ -1,0 +1,393 @@
+[
+  {
+    "name": "A&O Nørrebro",
+    "type": "Hostel",
+    "location": {
+      "region": "Dänemark",
+      "city": "Kopenhagen",
+      "lat": 55.7055328,
+      "lng": 12.5430173
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Flug"
+    ]
+  },
+  {
+    "name": "Hotel alle Piramidi",
+    "type": "Hotel",
+    "location": {
+      "region": "Italien",
+      "city": "Dolomiten",
+      "lat": 46.1871976,
+      "lng": 11.2585186
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": []
+  },
+  {
+    "name": "Hotel Villa Gasparini",
+    "type": "Hotel",
+    "location": {
+      "region": "Italien",
+      "city": "Venetien",
+      "lat": 45.427042,
+      "lng": 12.103793
+    },
+    "attributes": [
+      "Natur",
+      "Stadt"
+    ],
+    "transport": []
+  },
+  {
+    "name": "Club Hotel Mestre",
+    "type": "Hotel",
+    "location": {
+      "region": "Italien",
+      "city": "Venedig",
+      "lat": 45.5047507,
+      "lng": 12.2372537
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": []
+  },
+  {
+    "name": "Hotel Apogia Sirio",
+    "type": "Hotel",
+    "location": {
+      "region": "Italien",
+      "city": "Venedig",
+      "lat": 45.4971658,
+      "lng": 12.23412
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": []
+  },
+  {
+    "name": "A&O Mestre",
+    "type": "Hostel",
+    "location": {
+      "region": "Italien",
+      "city": "Venedig",
+      "lat": 45.4814432,
+      "lng": 12.2367799
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": []
+  },
+  {
+    "name": "Hotel Courage Waalkade",
+    "type": "Hotel",
+    "location": {
+      "region": "Niederlande",
+      "city": "Nijmegen",
+      "lat": 51.8459065,
+      "lng": 5.8578472
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "City Hotel",
+    "type": "Hotel",
+    "location": {
+      "region": "Niederlande",
+      "city": "Stadskanaal",
+      "lat": 51.9006825,
+      "lng": 4.9677845
+    },
+    "attributes": [
+      "Natur", "Meer"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Hotel Boss",
+    "type": "Hotel",
+    "location": {
+      "region": "Polen",
+      "city": "Warschau",
+      "lat": 52.1713549,
+      "lng": 21.2046699
+    },
+    "attributes": [
+      "Natur", "Stadt"
+    ],
+    "transport": [
+      "Zug", "Flug"
+    ]
+  },
+  {
+    "name": "A&O Wola",
+    "type": "Hostel",
+    "location": {
+      "region": "Polen",
+      "city": "Warschau",
+      "lat": 52.2293348,
+      "lng": 20.9704825
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Zug", "Flug"
+    ]
+  },
+  {
+    "name": "Hotel Galicja",
+    "type": "Hotel",
+    "location": {
+      "region": "Polen",
+      "city": "Krakau",
+      "lat": 49.984979,
+      "lng": 20.0514964
+    },
+    "attributes": [
+      "Stadt", "Natur"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Best Western Plus Hotel Podklasztorze",
+    "type": "Hotel",
+    "location": {
+      "region": "Polen",
+      "city": "Sulejow",
+      "lat": 51.3646152,
+      "lng": 19.8777417
+    },
+    "attributes": [
+      "Wellness", "Natur"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "ASTORIA Hotel & Medical Spa",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Karlovy Vary",
+      "lat": 50.225403,
+      "lng": 12.8803753
+    },
+    "attributes": [
+      "Wellness", "Natur"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "ASTORIA Hotel & Medical Spa, Dependency Walker",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Karlovy Vary",
+      "lat": 50.2230022,
+      "lng": 12.8807006
+    },
+    "attributes": [
+      "Wellness", "Natur"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Clarion Hotel",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Ceske Budejovice",
+      "lat": 48.9817086,
+      "lng": 14.47036
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Schloss Lifestyle Resort",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Loucen",
+      "lat": 50.286875,
+      "lng": 15.0224463
+    },
+    "attributes": [
+      "Natur", "Wellness"
+    ],
+    "transport": [
+
+    ]
+  },
+  {
+    "name": "Amantis Vital Sport Hotel",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Desna",
+      "lat": 50.7730378,
+      "lng": 15.309486
+    },
+    "attributes": [
+      "Natur", "Wellness"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Hotel Novy Dum",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Hejnice",
+      "lat": 50.8888926,
+      "lng": 15.1834102
+    },
+    "attributes": [
+      "Natur", "Wellness"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Wellness Hotel Luzan",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Rumburk",
+      "lat": 50.9510839,
+      "lng": 14.5559716
+    },
+    "attributes": [
+      "Natur", "Wellness"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Clarion Grandhotel Zlaty Lev",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Liberec",
+      "lat": 50.7687355,
+      "lng": 15.0592544
+    },
+    "attributes": [
+      "Natur", "Stadt", "Wellness"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Pytloun Grand Hotel Imperial",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Liberec",
+      "lat": 50.7636202,
+      "lng": 15.0460793
+    },
+    "attributes": [
+      "Natur", "Stadt"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Hotel International",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Prag",
+      "lat": 50.1093869,
+      "lng": 14.3913969
+    },
+    "attributes": [
+      "Natur", "Stadt"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "AIDA Hotel",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Prag",
+      "lat": 50.120756,
+      "lng": 14.4527684
+    },
+    "attributes": [
+      "Natur", "Stadt"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Hotel Seifert",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Prag",
+      "lat": 50.0871613,
+      "lng": 14.4520307
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  },
+  {
+    "name": "Hotel Taurus",
+    "type": "Hotel",
+    "location": {
+      "region": "Tschechien",
+      "city": "Prag",
+      "lat": 50.0775361,
+      "lng": 14.4508907
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Zug"
+    ]
+  }
+]

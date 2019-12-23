@@ -10620,5 +10620,65 @@
                 "value": "Beleidung: Wichser"
             }
 		]
+    },
+	{
+        "timestamp": 1575732600,
+        "home": 28963480,
+        "away": 439915091,
+        "halftimeHome": 0,
+        "halftimeAway": 2,
+        "resultHome": 0,
+        "resultAway": 6,
+        "league": 553808848,
+        "class": "A-Junioren",
+        "role": "Schiedsrichter",
+        "team": [],
+        "gameEventsHome": [],
+        "gameEventsAway": [
+            {
+                "minute": 42,
+                "number": 13,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 45,
+                "number": 11,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 63,
+                "number": 7,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 69,
+                "number": 11,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 73,
+                "number": 7,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 87,
+                "number": 6,
+                "event": "goal",
+                "type": "normal"
+            },
+			{
+                "minute": 79,
+                "number": 1,
+                "event": "yellow",
+                "type": "foul"
+            }
+        ],
+        "specialEvents": [
+		]
     }
 ]
