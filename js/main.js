@@ -67,5 +67,4 @@ function renderMap(travels, times) {
         let marker = L.marker([travel['destination']['lat'], travel['destination']['lng']]).addTo(mymap);
         marker.bindPopup("<b>" + travel['destination']['city'] + "</b><br>" + times[i] + "");
     }
-    console.log(travels);
 }

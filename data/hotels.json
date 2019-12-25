@@ -1,393 +1,2128 @@
 [
   {
     "name": "A&O Nørrebro",
-    "type": "Hostel",
+    "hostel": true,
     "location": {
       "region": "Dänemark",
       "city": "Kopenhagen",
       "lat": 55.7055328,
-      "lng": 12.5430173
+      "lng": 12.5430173,
+      "distance": 731
     },
     "attributes": [
       "Stadt"
     ],
     "transport": [
+      "Auto",
       "Flug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Kopenhagen+N%C3%B8rrebro/@55.7055328,12.5430173,15z/data=!4m8!3m7!1s0x0:0xe9a93e3a83cc2f3a!5m2!4m1!1i2!8m2!3d55.7055328!4d12.5430173",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/955/95557389.jpg",
+    "rating": 4.0,
+    "stars": 2
   },
   {
     "name": "Hotel alle Piramidi",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Italien",
       "city": "Dolomiten",
       "lat": 46.1871976,
-      "lng": 11.2585186
+      "lng": 11.2585186,
+      "distance": 870
     },
     "attributes": [
       "Natur"
     ],
-    "transport": []
+    "transport": [
+      "Auto"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+alle+Piramidi/@46.1872328,11.2563257,17z/data=!3m1!4b1!4m8!3m7!1s0x47827f57f1cc3195:0x39355966ca99c725!5m2!4m1!1i2!8m2!3d46.1872291!4d11.2585144",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/230/2301902.jpg",
+    "rating": 4.1,
+    "stars": 3
   },
   {
     "name": "Hotel Villa Gasparini",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Italien",
       "city": "Venetien",
       "lat": 45.427042,
-      "lng": 12.103793
+      "lng": 12.103793,
+      "distance": 1062
     },
     "attributes": [
       "Natur",
       "Stadt"
     ],
-    "transport": []
+    "transport": [
+      "Auto"
+    ],
+    "url": "https://www.google.com/maps/place/Villa+Gasparini/@45.4276549,12.0997347,16.29z/data=!4m8!3m7!1s0x477ec865e0fdb8b3:0xe7d2cd3ec3d959d1!5m2!4m1!1i2!8m2!3d45.4270607!4d12.1037632",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/677/67791853.jpg",
+    "rating": 4.2,
+    "stars": 3
   },
   {
     "name": "Club Hotel Mestre",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Italien",
       "city": "Venedig",
       "lat": 45.5047507,
-      "lng": 12.2372537
+      "lng": 12.2372537,
+      "distance": 1066
     },
     "attributes": [
       "Stadt"
     ],
-    "transport": []
+    "transport": [
+      "Auto"
+    ],
+    "url": "https://www.google.com/maps/place/Club+Hotel/@45.5047544,12.235065,17z/data=!3m1!4b1!4m8!3m7!1s0x477eb45a9ba98371:0x50a7b9c8f120c78f!5m2!4m1!1i2!8m2!3d45.5047507!4d12.2372537",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/261/26135978.jpg",
+    "rating": 3.8,
+    "stars": 3
   },
   {
     "name": "Hotel Apogia Sirio",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Italien",
       "city": "Venedig",
       "lat": 45.4971658,
-      "lng": 12.23412
+      "lng": 12.23412,
+      "distance": 1066
     },
     "attributes": [
       "Stadt"
     ],
-    "transport": []
+    "transport": [
+      "Auto"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Apogia+Sirio+Venice+-+Mestre/@45.4971695,12.23412,17z/data=!3m1!4b1!4m8!3m7!1s0x477eb44656f46595:0xd1834e053e78fe94!5m2!4m1!1i2!8m2!3d45.4971658!4d12.2363087",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/224/224296820.jpg",
+    "rating": 4.0,
+    "stars": 4
   },
   {
     "name": "A&O Mestre",
-    "type": "Hostel",
+    "hostel": true,
     "location": {
       "region": "Italien",
       "city": "Venedig",
       "lat": 45.4814432,
-      "lng": 12.2367799
+      "lng": 12.2367799,
+      "distance": 1061
     },
     "attributes": [
       "Stadt"
     ],
-    "transport": []
+    "transport": [
+      "Auto"
+    ],
+    "url": "https://www.google.com/maps/place/AO+Hotel+Venedig+Mestre/@45.4814469,12.2367799,17z/data=!3m1!4b1!4m8!3m7!1s0x477eb4187138e26b:0x72df534143803883!5m2!4m1!1i2!8m2!3d45.4814432!4d12.2389686",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/221/221030403.jpg",
+    "rating": 4.1,
+    "stars": 2
   },
   {
     "name": "Hotel Courage Waalkade",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Niederlande",
       "city": "Nijmegen",
       "lat": 51.8459065,
-      "lng": 5.8578472
+      "lng": 5.8578472,
+      "distance": 197
     },
     "attributes": [
       "Stadt"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Courage+Waalkade/@51.8473044,5.8648,15.67z/data=!4m8!3m7!1s0x47c70845ff651af1:0x6a0b17335ba1c928!5m2!4m1!1i2!8m2!3d51.8486092!4d5.8702074",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/740/74029660.jpg",
+    "rating": 3.9,
+    "stars": 3
   },
   {
     "name": "City Hotel",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Niederlande",
       "city": "Stadskanaal",
       "lat": 51.9006825,
-      "lng": 4.9677845
+      "lng": 4.9677845,
+      "distance": 277
     },
     "attributes": [
-      "Natur", "Meer"
+      "Natur",
+      "Meer"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/City+Hotel+Stadskanaal/@52.9892969,6.9511591,17z/data=!3m1!4b1!4m8!3m7!1s0x47b7dac64181836d:0x8975831f0fd24f46!5m2!4m1!1i2!8m2!3d52.9892937!4d6.9533478",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/210/210843432.jpg",
+    "rating": 4.0,
+    "stars": 4
   },
   {
     "name": "Hotel Boss",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Polen",
       "city": "Warschau",
       "lat": 52.1713549,
-      "lng": 21.2046699
+      "lng": 21.2046699,
+      "distance": 1106
     },
     "attributes": [
-      "Natur", "Stadt"
+      "Natur",
+      "Stadt"
     ],
     "transport": [
-      "Zug", "Flug"
-    ]
+      "Auto",
+      "Zug",
+      "Flug"
+    ],
+    "url": "https://www.google.com/maps/place/Boss/@52.1713582,21.2046699,17z/data=!3m1!4b1!4m8!3m7!1s0x471ed4a76f406d3d:0x67fad86de1a5634f!5m2!4m1!1i2!8m2!3d52.1713549!4d21.2068586",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/107/107538733.jpg",
+    "rating": 4.3,
+    "stars": 3
   },
   {
     "name": "A&O Wola",
-    "type": "Hostel",
+    "hostel": true,
     "location": {
       "region": "Polen",
       "city": "Warschau",
       "lat": 52.2293348,
-      "lng": 20.9704825
+      "lng": 20.9704825,
+      "distance": 1089
     },
     "attributes": [
       "Stadt"
     ],
     "transport": [
-      "Zug", "Flug"
-    ]
+      "Auto",
+      "Zug",
+      "Flug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Warschau+Wola/@52.2293381,20.9704825,17z/data=!3m1!4b1!4m8!3m7!1s0x471ecc9df4f29e87:0x4eaf9e0f305fc403!5m2!4m1!1i2!8m2!3d52.2293348!4d20.9726712",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/173/173623163.jpg",
+    "rating": 3.2,
+    "stars": 2
   },
   {
     "name": "Hotel Galicja",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Polen",
       "city": "Krakau",
       "lat": 49.984979,
-      "lng": 20.0514964
+      "lng": 20.0514964,
+      "distance": 1059
     },
     "attributes": [
-      "Stadt", "Natur"
+      "Stadt",
+      "Natur"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Galicja/@49.9849824,20.0514964,17z/data=!3m1!4b1!4m8!3m7!1s0x47165b5aa4331733:0x107e591270e16c04!5m2!4m1!1i2!8m2!3d49.984979!4d20.0536851",
+    "image": "http://hotelgalicja.pl/wp-content/uploads/2017/11/gallery-1-3.jpg",
+    "rating": 3.7,
+    "stars": 3
   },
   {
     "name": "Best Western Plus Hotel Podklasztorze",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Polen",
       "city": "Sulejow",
       "lat": 51.3646152,
-      "lng": 19.8777417
+      "lng": 19.8777417,
+      "distance": 1055
     },
     "attributes": [
-      "Wellness", "Natur"
+      "Wellness",
+      "Natur"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Best+Western+Plus+Hotel+Podklasztorze/@51.3646185,19.8777417,17z/data=!3m1!4b1!4m8!3m7!1s0x47198d67f95a28bd:0x606a32521ad3da76!5m2!4m1!1i2!8m2!3d51.3646152!4d19.8799304",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/220/220455793.jpg",
+    "rating": 4.4,
+    "stars": 3
   },
   {
     "name": "ASTORIA Hotel & Medical Spa",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Karlovy Vary",
       "lat": 50.225403,
-      "lng": 12.8803753
+      "lng": 12.8803753,
+      "distance": 545
     },
     "attributes": [
-      "Wellness", "Natur"
+      "Wellness",
+      "Natur"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/ASTORIA+Hotel+%26+Medical+Spa/@50.2254064,12.8803753,17z/data=!3m1!4b1!4m8!3m7!1s0x47a09944602986db:0x418cef779610b6c8!5m2!4m1!1i2!8m2!3d50.225403!4d12.882564",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/219/219280731.jpg",
+    "rating": 4.1,
+    "stars": 4
   },
   {
     "name": "ASTORIA Hotel & Medical Spa, Dependency Walker",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Karlovy Vary",
       "lat": 50.2230022,
-      "lng": 12.8807006
+      "lng": 12.8807006,
+      "distance": 545
     },
     "attributes": [
-      "Wellness", "Natur"
+      "Wellness",
+      "Natur"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/ASTORIA+Hotel+%26+Medical+Spa,+Dependency+Walker/@50.2230056,12.8807006,17z/data=!3m1!4b1!4m8!3m7!1s0x47a09944d37c98ed:0x2d2b0482706f6fde!5m2!4m1!1i2!8m2!3d50.2230022!4d12.8828893",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/118/118814224.jpg",
+    "rating": 4.2,
+    "stars": 3
   },
   {
     "name": "Clarion Hotel",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Ceske Budejovice",
       "lat": 48.9817086,
-      "lng": 14.47036
+      "lng": 14.47036,
+      "distance": 714
     },
     "attributes": [
       "Stadt"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Clarion+Congress+Hotel/@48.9817121,14.47036,17z/data=!3m1!4b1!4m8!3m7!1s0x47734fd2ea81cf0b:0x5f480f43adb3be29!5m2!4m1!1i2!8m2!3d48.9817086!4d14.4725487",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/206/20658437.jpg",
+    "rating": 4.2,
+    "stars": 4
   },
   {
-    "name": "Schloss Lifestyle Resort",
-    "type": "Hotel",
+    "name": "Maxmilian Lifestyle Resort",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Loucen",
       "lat": 50.286875,
-      "lng": 15.0224463
+      "lng": 15.0224463,
+      "distance": 719
     },
     "attributes": [
-      "Natur", "Wellness"
+      "Natur",
+      "Wellness"
     ],
     "transport": [
-
-    ]
+      "Auto"
+    ],
+    "url": "https://www.google.com/maps/place/Maxmilian+Lifestyle+Resort/@50.2868784,15.0224463,17z/data=!3m1!4b1!4m8!3m7!1s0x470c014d27389b87:0x572afc6eb2e7db76!5m2!4m1!1i2!8m2!3d50.286875!4d15.024635",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/234/234813705.jpg",
+    "rating": 4.2,
+    "stars": 4
   },
   {
     "name": "Amantis Vital Sport Hotel",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Desna",
       "lat": 50.7730378,
-      "lng": 15.309486
+      "lng": 15.309486,
+      "distance": 703
     },
     "attributes": [
-      "Natur", "Wellness"
+      "Natur",
+      "Wellness"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Amantis+Vital+Sport+Hotel/@50.7730412,15.309486,17z/data=!3m1!4b1!4m8!3m7!1s0x470ecea72d4e53eb:0x502cc3836035a1b6!5m2!4m1!1i2!8m2!3d50.7730378!4d15.3116747",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/573/57349794.jpg",
+    "rating": 4.3,
+    "stars": 4
   },
   {
     "name": "Hotel Novy Dum",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Hejnice",
       "lat": 50.8888926,
-      "lng": 15.1834102
+      "lng": 15.1834102,
+      "distance": 598
     },
     "attributes": [
-      "Natur", "Wellness"
+      "Natur",
+      "Wellness"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Spa+Resort+Libverda+-+Hotel+Nov%C3%BD+D%C5%AFm/@50.888896,15.1834102,17z/data=!3m1!4b1!4m8!3m7!1s0x47092d1b3ba69c4d:0x793a09513f8bdc9b!5m2!4m1!1i2!8m2!3d50.8888926!4d15.1855989",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/131/131235536.jpg",
+    "rating": 4.3,
+    "stars": 3
   },
   {
     "name": "Wellness Hotel Luzan",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Rumburk",
       "lat": 50.9510839,
-      "lng": 14.5559716
+      "lng": 14.5559716,
+      "distance": 620
     },
     "attributes": [
-      "Natur", "Wellness"
+      "Natur",
+      "Wellness"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Wellness+Hotel+Lu%C5%BEan/@50.9510873,14.5559716,17z/data=!3m1!4b1!4m8!3m7!1s0x47091aad54e6e20b:0x35fe1cbffe930d3f!5m2!4m1!1i2!8m2!3d50.9510839!4d14.5581603",
+    "image": "https://foto.hrsstatic.com/fotos/0/3/256/256/80/000000/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F5%2F4%2F4%2F6%2F544623%2F544623_a_2447760.jpg/6OcwN7HtqTmmE74Fw1SpsA%3D%3D/128%2C128/6/Luzan-Rumburg-Aussenansicht-2-544623.jpg",
+    "rating": 4.1,
+    "stars": 4
   },
   {
     "name": "Clarion Grandhotel Zlaty Lev",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Liberec",
       "lat": 50.7687355,
-      "lng": 15.0592544
+      "lng": 15.0592544,
+      "distance": 670
     },
     "attributes": [
-      "Natur", "Stadt", "Wellness"
+      "Natur",
+      "Stadt",
+      "Wellness"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Goldener+L%C3%B6we+%2F+Zlat%C3%BD+Lev+-+Clarion+Grandhotel/@50.7687389,15.0592544,17z/data=!3m1!4b1!4m8!3m7!1s0x4709369f8bf617fd:0x3733c9eb52c3bf6e!5m2!4m1!1i2!8m2!3d50.7687355!4d15.0614432",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/869/86985365.jpg",
+    "rating": 4.4,
+    "stars": 4
   },
   {
     "name": "Pytloun Grand Hotel Imperial",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Liberec",
       "lat": 50.7636202,
-      "lng": 15.0460793
+      "lng": 15.0460793,
+      "distance": 670
     },
     "attributes": [
-      "Natur", "Stadt"
+      "Natur",
+      "Stadt"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Pytloun+Grand+Hotel+Imperial/@50.7640326,15.0482848,17z/data=!3m1!4b1!4m8!3m7!1s0x4709369a56432313:0xc5d5b83f5ea216e6!5m2!4m1!1i2!8m2!3d50.7640292!4d15.0504735",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/716/71647189.jpg",
+    "rating": 4.4,
+    "stars": 4
   },
   {
     "name": "Hotel International",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Prag",
       "lat": 50.1093869,
-      "lng": 14.3913969
+      "lng": 14.3913969,
+      "distance": 678
     },
     "attributes": [
-      "Natur", "Stadt"
+      "Natur",
+      "Stadt"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+International+Prague/@50.1093903,14.3913969,17z/data=!3m1!4b1!4m8!3m7!1s0x470b95310b7a1b47:0xe0a0dd81047a07e4!5m2!4m1!1i2!8m2!3d50.1093869!4d14.3935856",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/612/6128037.jpg",
+    "rating": 4.1,
+    "stars": 4
   },
   {
     "name": "AIDA Hotel",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Prag",
       "lat": 50.120756,
-      "lng": 14.4527684
+      "lng": 14.4527684,
+      "distance": 675
     },
     "attributes": [
-      "Natur", "Stadt"
+      "Natur",
+      "Stadt"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Aida/@50.1207594,14.4527684,17z/data=!3m1!4b1!4m8!3m7!1s0x470beb467858451b:0x29d4bbf09dd0c6ce!5m2!4m1!1i2!8m2!3d50.120756!4d14.454957",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/141/14152230.jpg",
+    "rating": 4.1,
+    "stars": 4
   },
   {
     "name": "Hotel Seifert",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Prag",
       "lat": 50.0871613,
-      "lng": 14.4520307
+      "lng": 14.4520307,
+      "distance": 682
     },
     "attributes": [
       "Stadt"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Seifert/@50.0871647,14.4520307,17z/data=!3m1!4b1!4m8!3m7!1s0x470b949f603788eb:0xb96f63299b8ef30f!5m2!4m1!1i2!8m2!3d50.0871613!4d14.4542194",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/141/14108040.jpg",
+    "rating": 4.3,
+    "stars": 4
   },
   {
     "name": "Hotel Taurus",
-    "type": "Hotel",
+    "hostel": false,
     "location": {
       "region": "Tschechien",
       "city": "Prag",
       "lat": 50.0775361,
-      "lng": 14.4508907
+      "lng": 14.4508907,
+      "distance": 677
     },
     "attributes": [
       "Stadt"
     ],
     "transport": [
+      "Auto",
       "Zug"
-    ]
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Taurus/@50.0775395,14.4508907,17z/data=!3m1!4b1!4m8!3m7!1s0x470b949d48ceb825:0xa3dd502da0cb84f!5m2!4m1!1i2!8m2!3d50.0775361!4d14.4530794",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/216/216301230.jpg",
+    "rating": 4.0,
+    "stars": 4
+  },
+  {
+    "name": "Park Inn by Radisson",
+    "hostel": false,
+    "location": {
+      "region": "Ungarn",
+      "city": "Budapest",
+      "lat": 47.5534576,
+      "lng": 19.0764606,
+      "distance": 1131
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Flug",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Park+Inn+By+Radisson+Budapest/@47.5534612,19.0764606,17z/data=!3m1!4b1!4m8!3m7!1s0x4741dbccfefe0c0d:0xb78911046d2ec1c7!5m2!4m1!1i2!8m2!3d47.5534576!4d19.0786493",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/120/120209503.jpg",
+    "rating": 4.2,
+    "stars": 4
+  },
+  {
+    "name": "A&O Hauptbahnhof",
+    "hostel": true,
+    "location": {
+      "region": "Österreich",
+      "city": "Wien",
+      "lat": 48.1828489,
+      "lng": 16.3764498,
+      "distance": 882
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Flug",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Wien+Hauptbahnhof/@48.1828525,16.3764498,17z/data=!3m1!4b1!4m8!3m7!1s0x476da9da73b023b9:0xe8530acfad051cf7!5m2!4m1!1i2!8m2!3d48.1828489!4d16.3786385",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/216/216551676.jpg",
+    "rating": 3.3,
+    "stars": 2
+  },
+  {
+    "name": "Orange Hotel",
+    "hostel": false,
+    "location": {
+      "region": "Baden-Württemberg",
+      "city": "Ulm",
+      "lat": 48.3854969,
+      "lng": 9.998665,
+      "distance": 456
+    },
+    "attributes": [
+      "Stadt",
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Orange+Hotel+und+Apartments/@48.3855004,9.998665,17z/data=!3m1!4b1!4m8!3m7!1s0x4799669546b80081:0x8acc71d7bca78f8c!5m2!4m1!1i2!8m2!3d48.3854969!4d10.0008537",
+    "image": "https://q-cf.bstatic.com/images/hotel/max500/195/195817521.jpg",
+    "rating": 3.6,
+    "stars": 2
+  },
+  {
+    "name": "Hotel Kräuter Chalet",
+    "hostel": false,
+    "location": {
+      "region": "Baden-Württemberg",
+      "city": "Schwarzwald",
+      "lat": 48.0483283,
+      "lng": 8.0780432,
+      "distance": 444
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Kr%C3%A4uterChalet+-+Berghotel+%26+Restaurant/@48.0793015,8.2004106,17z/data=!3m1!4b1!4m8!3m7!1s0x4790e84f0332617b:0xc8e4dc77bfdcad73!5m2!4m1!1i2!8m2!3d48.0792979!4d8.2025993",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/129/129274729.jpg",
+    "rating": 3.5,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Marienfried",
+    "hostel": false,
+    "location": {
+      "region": "Baden-Württemberg",
+      "city": "Marienfried",
+      "lat": 48.5304339,
+      "lng": 7.985894,
+      "distance": 380
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Seminar-+und+Bewegungshaus+Sch%C3%B6nstatt-Zentrum+Marienfried/@48.5254104,8.0675922,17z/data=!3m1!4b1!4m8!3m7!1s0x4796d60d0d0a440d:0x46216f86e05cb9d9!5m2!4m1!1i2!8m2!3d48.5254069!4d8.0697809",
+    "image": "http://www.schoenstatt-oberkirch.de/files/aok/pics/haus-und-lage.jpg",
+    "rating": 4.3,
+    "stars": 2
+  },
+  {
+    "name": "Hotel Residenz",
+    "hostel": false,
+    "location": {
+      "region": "Baden-Württemberg",
+      "city": "Pforzheim",
+      "lat": 48.9034959,
+      "lng": 8.6533508,
+      "distance": 328
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Residenz+Pforzheim/@48.9034994,8.6533508,17z/data=!3m1!4b1!4m8!3m7!1s0x479772f4478a2f6f:0x16d59111156bc19f!5m2!4m1!1i2!8m2!3d48.9034959!4d8.6555395",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/809/80946352.jpg",
+    "rating": 3.7,
+    "stars": 3
+  },
+  {
+    "name": "DoblerGreen Hotel",
+    "hostel": false,
+    "location": {
+      "region": "Baden-Württemberg",
+      "city": "Stuttgart",
+      "lat": 48.8065057,
+      "lng": 9.0691771,
+      "distance": 378
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/DoblerGreen+Hotel/@48.8065092,9.0691771,17z/data=!3m1!4b1!4m8!3m7!1s0x4799d99deb43e9bb:0xcc7d0321dc3a15da!5m2!4m1!1i2!8m2!3d48.8065057!4d9.0713658",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/177/17706060.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "A&O City",
+    "hostel": true,
+    "location": {
+      "region": "Baden-Württemberg",
+      "city": "Stuttgart",
+      "lat": 48.8065057,
+      "lng": 9.0691771,
+      "distance": 375
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Stuttgart+City/@48.7930735,9.1888013,17z/data=!3m1!4b1!4m8!3m7!1s0x4799c4d4f8bc2769:0x2de8825491b50e9a!5m2!4m1!1i2!8m2!3d48.79307!4d9.19099",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/199/199512839.jpg",
+    "rating": 3.8,
+    "stars": 2
+  },
+  {
+    "name": "A&O Laim",
+    "hostel": true,
+    "location": {
+      "region": "Bayern",
+      "city": "München",
+      "lat": 48.1441041,
+      "lng": 11.4926984,
+      "distance": 560
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+M%C3%BCnchen+Laim/@48.1441,11.4926882,17z/data=!3m1!4b1!4m8!3m7!1s0x479e77d598ac813d:0x86dfd4e8ab042f33!5m2!4m1!1i2!8m2!3d48.1440964!4d11.4948769",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/199/199506965.jpg",
+    "rating": 3.4,
+    "stars": 2
+  },
+  {
+    "name": "Hotel am Markt",
+    "hostel": false,
+    "location": {
+      "region": "Bayern",
+      "city": "Greding",
+      "lat": 49.045253,
+      "lng": 11.3499943,
+      "distance": 448
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+am+Markt+in+Greding+Altm%C3%BChltal/@49.0452565,11.3499943,17z/data=!3m1!4b1!4m8!3m7!1s0x479f118951eaea0b:0xffab70c3e6b1a33b!5m2!4m1!1i2!8m2!3d49.045253!4d11.352183",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/953/95380205.jpg",
+    "rating": 4.2,
+    "stars": 3
+  },
+  {
+    "name": "A&O Hauptbahnhof",
+    "hostel": true,
+    "location": {
+      "region": "Bayern",
+      "city": "Nürnberg",
+      "lat": 49.447383,
+      "lng": 11.0839853,
+      "distance": 392
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+N%C3%BCrnberg+Hauptbahnhof/@49.4473865,11.0839853,17z/data=!3m1!4b1!4m8!3m7!1s0x479f57a04e247b3d:0xa2608aa525b7cf21!5m2!4m1!1i2!8m2!3d49.447383!4d11.086174",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/212/212076040.jpg",
+    "rating": 3.3,
+    "stars": 2
+  },
+  {
+    "name": "Waldpension Jägerstüberl",
+    "hostel": false,
+    "location": {
+      "region": "Bayern",
+      "city": "Niederbayern",
+      "lat": 48.450037,
+      "lng": 13.2067082,
+      "distance": 614
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Waldpension+J%C3%A4gerst%C3%BCberl/@48.4500405,13.2067082,17z/data=!3m1!4b1!4m8!3m7!1s0x4774518c0d39539b:0x8c684f09385f0b0b!5m2!4m1!1i2!8m2!3d48.450037!4d13.208897",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/140/14008965.jpg",
+    "rating": 4.5,
+    "stars": 3
+  },
+  {
+    "name": "Hotel-Gasthof zum Freigericht",
+    "hostel": false,
+    "location": {
+      "region": "Bayern",
+      "city": "Alzenau",
+      "lat": 50.0826932,
+      "lng": 9.067614,
+      "distance": 189
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+%26+Restaurant+Zum+Freigericht+Alzenau/@50.0826966,9.067614,17z/data=!3m1!4b1!4m8!3m7!1s0x47bd3c1b31729d1b:0xd67933e994da2dc5!5m2!4m1!1i2!8m2!3d50.0826932!4d9.0698027",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/693/69304663.jpg",
+    "rating": 4.3,
+    "stars": 3
+  },
+  {
+    "name": "Sporthotel",
+    "hostel": false,
+    "location": {
+      "region": "Bayern",
+      "city": "Grosswallstadt",
+      "lat": 49.880202,
+      "lng": 9.1469393,
+      "distance": 216
+    },
+    "attributes": [
+      "Natur",
+      "Wellness"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Business-Sporthotel/@49.8802298,9.1470471,17z/data=!3m1!4b1!4m8!3m7!1s0x47bd4f6b685b5c5b:0x9a5530d6d92fe03e!5m2!4m1!1i2!8m2!3d49.8802264!4d9.1492358",
+    "image": "https://r-cf.bstatic.com/images/hotel/max500/584/5844227.jpg",
+    "rating": 4.2,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Gondel",
+    "hostel": false,
+    "location": {
+      "region": "Bayern",
+      "city": "Oberfranken",
+      "lat": 50.1248615,
+      "lng": 11.2474471,
+      "distance": 416
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Gondel+-+Hotel+%26+Restaurant/@50.1248649,11.2474471,17z/data=!3m1!4b1!4m8!3m7!1s0x47a181e787b56e1f:0xa05f01c3286e8eec!5m2!4m1!1i2!8m2!3d50.1248615!4d11.2496357",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/207/20798462.jpg",
+    "rating": 4.4,
+    "stars": 3
+  },
+  {
+    "name": "Bad Stebener Hof",
+    "hostel": false,
+    "location": {
+      "region": "Bayern",
+      "city": "Frankenwald",
+      "lat": 50.3669658,
+      "lng": 11.6367674,
+      "distance": 453
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Bad+Stebener+Hof/@50.3669478,11.6367002,17z/data=!3m1!4b1!4m8!3m7!1s0x47a16bbd838412db:0xa528db3a0c0350dc!5m2!4m1!1i2!8m2!3d50.3669658!4d11.6389562",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/737/73753908.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "Wagners Hotel und Restaurant",
+    "hostel": false,
+    "location": {
+      "region": "Bayern",
+      "city": "Frankenwald",
+      "lat": 50.290432,
+      "lng": 11.4475123,
+      "distance": 454
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/WAGNERS+Hotel+%2B+Restaurant+im+Fichtelgebirge/@50.0108077,11.8029111,17z/data=!3m1!4b1!4m8!3m7!1s0x47a1a8bc884103f5:0xa021502fe7e44e59!5m2!4m1!1i2!8m2!3d50.0108043!4d11.8050998",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/228/228810400.jpg",
+    "rating": 4.3,
+    "stars": 3
+  },
+  {
+    "name": "A&O Hauptbahnhof",
+    "hostel": true,
+    "location": {
+      "region": "Berlin",
+      "city": "Berlin",
+      "lat": 52.5290491,
+      "lng": 13.3614878,
+      "distance": 552
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug",
+      "Flug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Berlin+Hauptbahnhof/@52.5290523,13.3614878,17z/data=!3m1!4b1!4m8!3m7!1s0x479ebd4cdc0644e1:0x94631598358ce32c!5m2!4m1!1i2!8m2!3d52.5290491!4d13.3636765",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/205/205975691.jpg",
+    "rating": 3.5,
+    "stars": 2
+  },
+  {
+    "name": "H24 Hoteltow",
+    "hostel": false,
+    "location": {
+      "region": "Brandenburg",
+      "city": "Potsdam",
+      "lat": 52.4018254,
+      "lng": 13.2569453,
+      "distance": 552
+    },
+    "attributes": [
+      "Natur",
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/H24+HOTELTOW/@52.4018287,13.2569453,17z/data=!3m1!4b1!4m8!3m7!1s0x47a85b9378330b59:0xcd83e1398eb08488!5m2!4m1!1i2!8m2!3d52.4018254!4d13.2591341",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/923/92396665.jpg",
+    "rating": 3.9,
+    "stars": 2
+  },
+  {
+    "name": "TRYP by Wyndham",
+    "hostel": false,
+    "location": {
+      "region": "Bremen",
+      "city": "Bremen",
+      "lat": 53.0630273,
+      "lng": 8.7850276,
+      "distance": 295
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/TRYP+by+Wyndham+Bremen+Airport/@53.0630588,8.7850335,17z/data=!3m1!4b1!4m8!3m7!1s0x47b0d7ded399b3db:0xa29edad37bb400be!5m2!4m1!1i2!8m2!3d53.0630273!4d8.7872163",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/370/37017030.jpg",
+    "rating": 3.2,
+    "stars": 3
+  },
+  {
+    "name": "A&O City",
+    "hostel": true,
+    "location": {
+      "region": "Hamburg",
+      "city": "Hamburg",
+      "lat": 53.5507218,
+      "lng": 10.0210683,
+      "distance": 405
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug",
+      "Flug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Hamburg+City/@53.550725,10.0210683,17z/data=!3m1!4b1!4m8!3m7!1s0x47b18ee9558fb2d9:0x4227ed106ca73050!5m2!4m1!1i2!8m2!3d53.5507218!4d10.023257",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/225/225904804.jpg",
+    "rating": 3.2,
+    "stars": 2
+  },
+  {
+    "name": "A&O Reeperbahn",
+    "hostel": true,
+    "location": {
+      "region": "Hamburg",
+      "city": "Hamburg",
+      "lat": 53.5948661,
+      "lng": 9.899258,
+      "distance": 404
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug",
+      "Flug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Hamburg+Reeperbahn/@53.5497143,9.9565048,17z/data=!3m1!4b1!4m8!3m7!1s0x47b18f6d7affe4dd:0x8e4aeb3c919a6bad!5m2!4m1!1i2!8m2!3d53.5497111!4d9.9586935",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/225/225905488.jpg",
+    "rating": 2.9,
+    "stars": 2
+  },
+  {
+    "name": "Montana Hotel",
+    "hostel": false,
+    "location": {
+      "region": "Hessen",
+      "city": "Diemelstadt",
+      "lat": 51.487451,
+      "lng": 9.007515,
+      "distance": 175
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Montana+Diemelstadt/@51.4874543,9.0053263,17z/data=!3m1!4b1!4m8!3m7!1s0x47bb08184c0d26fd:0xc1fdcdda12390c2d!5m2!4m1!1i2!8m2!3d51.487451!4d9.007515",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/892/89225611.jpg",
+    "rating": 4.3,
+    "stars": 3
+  },
+  {
+    "name": "Landhotel Weinrich",
+    "hostel": false,
+    "location": {
+      "region": "Hessen",
+      "city": "Naumburg",
+      "lat": 51.2498839,
+      "lng": 9.1635406,
+      "distance": 220
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto"
+    ],
+    "url": "https://www.google.com/maps/place/Landhotel+Weinrich/@51.2498839,9.1635406,17z/data=!3m1!4b1!4m8!3m7!1s0x4171b91ea9436685:0x3236d4590e8b1faa!5m2!4m1!1i2!8m2!3d51.2498806!4d9.1657293",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/267/267916.jpg",
+    "rating": 4.0,
+    "stars": 3
+  },
+  {
+    "name": "Residenz Hotel",
+    "hostel": false,
+    "location": {
+      "region": "Hessen",
+      "city": "Gießen",
+      "lat": 50.59585,
+      "lng": 8.6823813,
+      "distance": 122
+    },
+    "attributes": [
+      "Natur",
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Residenz+Hotel+Gie%C3%9Fen/@50.5958534,8.6823813,17z/data=!3m1!4b1!4m8!3m7!1s0x47bc58c86dd73d3f:0xa9e66a3caa590e45!5m2!4m1!1i2!8m2!3d50.59585!4d8.68457",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/610/61078052.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "Best Western Amedia",
+    "hostel": false,
+    "location": {
+      "region": "Hessen",
+      "city": "Frankfurt",
+      "lat": 50.0123618,
+      "lng": 8.439846,
+      "distance": 175
+    },
+    "attributes": [
+      "Natur",
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Best+Western+Amedia+Frankfurt+Airport/@50.0124012,8.4397297,17z/data=!3m1!4b1!4m8!3m7!1s0x47bd9f3afd0d3fa3:0x3bc69ad1663665ea!5m2!4m1!1i2!8m2!3d50.0123618!4d8.4420347",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/135/135067193.jpg",
+    "rating": 3.8,
+    "stars": 2
+  },
+  {
+    "name": "A&O Galluswarte",
+    "hostel": true,
+    "location": {
+      "region": "Hessen",
+      "city": "Frankfurt",
+      "lat": 50.1038376,
+      "lng": 8.643439,
+      "distance": 181
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Frankfurt+Galluswarte/@50.1038502,8.6434889,17z/data=!3m1!4b1!4m8!3m7!1s0x47bd0be400841c57:0x2df416aa16becd07!5m2!4m1!1i2!8m2!3d50.1038468!4d8.6456776",
+    "image": "https://q-cf.bstatic.com/images/hotel/max500/189/189322993.jpg",
+    "rating": 3.7,
+    "stars": 2
+  },
+  {
+    "name": "Ortshotel",
+    "hostel": false,
+    "location": {
+      "region": "Hessen",
+      "city": "Gassbachtal",
+      "lat": 49.6288349,
+      "lng": 8.8503836,
+      "distance": 253
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Gassbachtal+-+NibelungenCaf%C3%A9/@49.6288384,8.8503836,17z/data=!3m1!4b1!4m5!3m4!1s0x4797e092021ec17d:0xa5ece11050827ee!8m2!3d49.6288349!4d8.8525723",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/901/90165975.jpg",
+    "rating": 4.2,
+    "stars": 3
+  },
+  {
+    "name": "Familienferienstätte Dorfweil im Taunus",
+    "hostel": false,
+    "location": {
+      "region": "Hessen",
+      "city": "Taunus",
+      "lat": 50.28343,
+      "lng": 8.4509013,
+      "distance": 182
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Familienferienst%C3%A4tte+Dorfweil/@50.2834334,8.4509013,17z/data=!3m1!4b1!4m8!3m7!1s0x47bdae7ddb749789:0xe0615a561ee07da!5m2!4m1!1i2!8m2!3d50.28343!4d8.45309",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/531/53192479.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Residenz Heringsdorf",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Usedom",
+      "lat": 54.026199,
+      "lng": 13.588941,
+      "distance": 724
+    },
+    "attributes": [
+      "Natur",
+      "Meer"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Residenz/@53.9591698,14.1450335,17z/data=!3m1!4b1!4m8!3m7!1s0x47aaf7f9b7218be1:0x4ec1c0a5c8a9d520!5m2!4m1!1i2!8m2!3d53.9592806!4d14.14721",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/114/114627562.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Staphel",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Rügen",
+      "lat": 54.4824301,
+      "lng": 13.5655365,
+      "distance": 693
+    },
+    "attributes": [
+      "Natur",
+      "Meer"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Staphel/@54.4824898,13.5654831,17z/data=!3m1!4b1!4m8!3m7!1s0x47ab40d1dbf151cb:0x56d6d3f03bb1a368!5m2!4m1!1i2!8m2!3d54.4824301!4d13.5677251",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/201/201047142.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Garni Meeresblick",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Rügen",
+      "lat": 54.5687857,
+      "lng": 13.4561828,
+      "distance": 695
+    },
+    "attributes": [
+      "Natur",
+      "Meer"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Meeresblick/@54.5687888,13.4561828,17z/data=!3m1!4b1!4m8!3m7!1s0x47ab46154da79725:0xd016448c497dba65!5m2!4m1!1i2!8m2!3d54.5687857!4d13.4583715",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/159/159870155.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "arcona HOTEL BALTIC",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Stralsund",
+      "lat": 54.309939,
+      "lng": 13.0958777,
+      "distance": 670
+    },
+    "attributes": [
+      "Natur",
+      "Meer",
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Baltic+Stralsund/@54.3100031,13.0958669,17z/data=!3m1!4b1!4m8!3m7!1s0x47ab63b9e34634b7:0x562759f8aa3edb61!5m2!4m1!1i2!8m2!3d54.309939!4d13.0980664",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/414/4146059.jpg",
+    "rating": 4.1,
+    "stars": 4
+  },
+  {
+    "name": "Hotel Haffidyll",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Ostseebad Rerik",
+      "lat": 54.10352,
+      "lng": 11.6123912,
+      "distance": 559
+    },
+    "attributes": [
+      "Natur",
+      "Meer"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Pension+Haffidyll/@54.1036142,11.6122557,17z/data=!3m1!4b1!4m8!3m7!1s0x47ada597646591cf:0x5119d79ef3cf1290!5m2!4m1!1i2!8m2!3d54.10352!4d11.61458",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/324/32450647.jpg",
+    "rating": 4.3,
+    "stars": 3
+  },
+  {
+    "name": "IntercityHotel",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Schwerin",
+      "lat": 53.6304666,
+      "lng": 11.3955131,
+      "distance": 508
+    },
+    "attributes": [
+      "Natur",
+      "Meer",
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/IntercityHotel+Schwerin/@53.633506,11.4064807,17z/data=!3m1!4b1!4m8!3m7!1s0x47adda22006b8a0b:0x52686f7fb672aafa!5m2!4m1!1i2!8m2!3d53.6335025!4d11.4086441",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/726/72616884.jpg",
+    "rating": 3.6,
+    "stars": 3
+  },
+  {
+    "name": "Ringhotel Altstadt",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Güstrow",
+      "lat": 53.7945867,
+      "lng": 12.1759145,
+      "distance": 603
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Ringhotel+Altstadt/@53.7945898,12.1759145,17z/data=!3m1!4b1!4m8!3m7!1s0x47ac3f6ce1dd3887:0x53f22f23f7f501d3!5m2!4m1!1i2!8m2!3d53.7945867!4d12.1781032",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/147/147676845.jpg",
+    "rating": 4.2,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Altes Pfarrhaus",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Seenplatte",
+      "lat": 53.51232,
+      "lng": 12.3424413,
+      "distance": 635
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Altes+Pfarrhaus/@53.5123094,12.342432,17z/data=!3m1!4b1!4m8!3m7!1s0x47ac1c94a8a5b7e5:0x7b0d33c5827ab0c7!5m2!4m1!1i2!8m2!3d53.51232!4d12.34463",
+    "image": "https://www.landhotel-altes-pfarrhaus.de/mediapool/142/1421827/resources/big_32160901_0_400-300.jpg",
+    "rating": 4.0,
+    "stars": 3
+  },
+  {
+    "name": "Gut Gremmelin",
+    "hostel": false,
+    "location": {
+      "region": "Mecklenburg-Vorpommern",
+      "city": "Seenplatte",
+      "lat": 53.7902459,
+      "lng": 12.3141823,
+      "distance": 644
+    },
+    "attributes": [
+      "Natur",
+      "Wellness"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Gut+Gremmelin/@53.7902318,12.3140795,17z/data=!3m1!4b1!4m8!3m7!1s0x47ac1528be996b1b:0x3af6b23c2bd06a8b!5m2!4m1!1i2!8m2!3d53.7902459!4d12.316371",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/219/21964051.jpg",
+    "rating": 4.4,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Ammerland",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Wilhelmshaven",
+      "lat": 53.588253,
+      "lng": 8.0988443,
+      "distance": 334
+    },
+    "attributes": [
+      "Meer",
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Ammerland/@53.5882562,8.0988443,17z/data=!3m1!4b1!4m8!3m7!1s0x47b691ac244d12f3:0xa710c2d96f87afdd!5m2!4m1!1i2!8m2!3d53.588253!4d8.101033",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/675/67541367.jpg",
+    "rating": 4.3,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Peters",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Wingst",
+      "lat": 53.7410277,
+      "lng": 9.0886949,
+      "distance": 415
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Peters+-+Das+Genusshotel+in+der+Wingst/@53.744573,9.0953687,17z/data=!3m1!4b1!4m8!3m7!1s0x47b3e283f2947f8d:0x2c9e5272bead5cce!5m2!4m1!1i2!8m2!3d53.7445698!4d9.0975574",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/110/110049566.jpg",
+    "rating": 4.4,
+    "stars": 3
+  },
+  {
+    "name": "Das kleine Landhaus",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Bispingen",
+      "lat": 53.14348,
+      "lng": 9.9231613,
+      "distance": 356
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Pension+'Das+kleine+Landhaus'/@53.1434832,9.9231613,17z/data=!3m1!4b1!4m8!3m7!1s0x47b1b75a09f26083:0x9e07aa3c6e18fa1!5m2!4m1!1i2!8m2!3d53.14348!4d9.92535",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/171/17156757.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "Heidehotel Bockelmann",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Bispingen",
+      "lat": 53.0800947,
+      "lng": 10.0003967,
+      "distance": 351
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Heidehotel+Bockelmann/@53.080121,10.0004997,17z/data=!3m1!4b1!4m8!3m7!1s0x47b1b621b2ce780b:0xb226f1f8e2b6063c!5m2!4m1!1i2!8m2!3d53.0800947!4d10.0025854",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/173/17384268.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "Best Western Hotel Seminarius",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Braunschweig",
+      "lat": 52.331443,
+      "lng": 10.517664,
+      "distance": 334
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Best+Western+Hotel+Braunschweig+Seminarius/@52.3314463,10.517664,17z/data=!3m1!4b1!4m8!3m7!1s0x47aff1384550f6a9:0xff37fcf5dc121143!5m2!4m1!1i2!8m2!3d52.331443!4d10.5198527",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/473/47336925.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "Land-gut-Hotel Räuber Lippoldskrug",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Alfeld",
+      "lat": 51.9891664,
+      "lng": 9.7635564,
+      "distance": 290
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Restaurant+R%C3%A4uber+Lippoldskrug/@51.98917,9.7636446,17z/data=!3m1!4b1!4m8!3m7!1s0x47bab8e5e3b9bf87:0xb13710358a019ef!5m2!4m1!1i2!8m2!3d51.9891667!4d9.7658333",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/156/1569847.jpg",
+    "rating": 4.3,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Ambiente Langenhagen",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Hannover",
+      "lat": 52.439671,
+      "lng": 9.7326713,
+      "distance": 272
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Ambiente+Langenhagen+Hannover+by+Tulip+Inn/@52.4396742,9.7326713,17z/data=!3m1!4b1!4m8!3m7!1s0x47b072e5a1d26739:0xb46c5d2deada95d3!5m2!4m1!1i2!8m2!3d52.439671!4d9.73486",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/896/89615821.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "GHOTEL hotel & living",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Hannover",
+      "lat": 52.3792116,
+      "lng": 9.7933464,
+      "distance": 275
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/GHOTEL+hotel+%26+living+Hannover/@52.3792149,9.7933464,17z/data=!3m1!4b1!4m8!3m7!1s0x47b00b63232d7aaf:0x358bd56ccc374ff7!5m2!4m1!1i2!8m2!3d52.3792116!4d9.7955351",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/166/166382421.jpg",
+    "rating": 4.1,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Near By",
+    "hostel": false,
+    "location": {
+      "region": "Niedersachsen",
+      "city": "Hannover",
+      "lat": 52.3090825,
+      "lng": 9.8055543,
+      "distance": 276
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Near+By/@52.3090858,9.8055543,17z/data=!3m1!4b1!4m8!3m7!1s0x47b00a6c2a1fb80f:0x32521f754cc8e431!5m2!4m1!1i2!8m2!3d52.3090825!4d9.807743",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/173/173405341.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "Sport- und Tagungshotel De Poort",
+    "hostel": false,
+    "location": {
+      "region": "Nordrhein-Westfalen",
+      "city": "Niederrhein",
+      "lat": 51.6705874,
+      "lng": 6.1549858,
+      "distance": 164
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Sport-+und+Tagungshotel+De+Poort/@51.6705907,6.1549858,17z/data=!3m1!4b1!4m8!3m7!1s0x47c76e3608247b8d:0x2b7e628fb9730cf!5m2!4m1!1i2!8m2!3d51.6705874!4d6.1571745",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/135/135680271.jpg",
+    "rating": 3.9,
+    "stars": 4
+  },
+  {
+    "name": "Zuhause bei Hoffmann",
+    "hostel": false,
+    "location": {
+      "region": "Nordrhein-Westfalen",
+      "city": "Niederrhein",
+      "lat": 51.7680648,
+      "lng": 6.6091324,
+      "distance": 121
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Zuhause+bei+Hoffmann/@51.7680681,6.6091324,17z/data=!3m1!4b1!4m8!3m7!1s0x47b8868a31702465:0xd28cb8427efb9de3!5m2!4m1!1i2!8m2!3d51.7680648!4d6.6113211",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/175/175329370.jpg",
+    "rating": 4.0,
+    "stars": 3
+  },
+  {
+    "name": "ibis Styles Arnsberg Sauerland",
+    "hostel": false,
+    "location": {
+      "region": "Nordrhein-Westfalen",
+      "city": "Sauerland",
+      "lat": 51.4545421,
+      "lng": 7.9649247,
+      "distance": 114
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+ibis+Styles+Arnsberg+Sauerland/@51.4545454,7.9649247,17z/data=!3m1!4b1!4m8!3m7!1s0x47b9672002b27dd5:0x61f8f8a79302677c!5m2!4m1!1i2!8m2!3d51.4545421!4d7.9671134",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/105/105298886.jpg",
+    "rating": 4.2,
+    "stars": 3
+  },
+  {
+    "name": "Berghotel Tromp",
+    "hostel": false,
+    "location": {
+      "region": "Nordrhein-Westfalen",
+      "city": "Winterberg",
+      "lat": 51.15664,
+      "lng": 8.5666213,
+      "distance": 96
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Berghotel+Tromp/@51.1566433,8.5666213,17z/data=!3m1!4b1!4m8!3m7!1s0x47bb8e872021735b:0xd68bd3ee97bd2bc1!5m2!4m1!1i2!8m2!3d51.15664!4d8.56881",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/323/3230498.jpg",
+    "rating": 3.7,
+    "stars": 3
+  },
+  {
+    "name": "Hotel am Schloss Rockenhausen",
+    "hostel": false,
+    "location": {
+      "region": "Rheinland-Pfalz",
+      "city": "Südpfalz",
+      "lat": 49.62918,
+      "lng": 7.8180113,
+      "distance": 245
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+am+Schloss+Rockenhausen/@49.6291702,7.8180891,17z/data=!3m1!4b1!4m8!3m7!1s0x47961ade352d69e5:0x21817cc3674a6fa2!5m2!4m1!1i2!8m2!3d49.62918!4d7.8202",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/204/204472923.jpg",
+    "rating": 4.0,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Alexandra",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen",
+      "city": "Plauen",
+      "lat": 50.49871,
+      "lng": 12.1341616,
+      "distance": 447
+    },
+    "attributes": [
+      "Natur",
+      "Wellness"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Alexandra/@50.4987134,12.1341616,17z/data=!3m1!4b1!4m8!3m7!1s0x47a1268b7af0b6d5:0x15aedae1a2bb006b!5m2!4m1!1i2!8m2!3d50.49871!4d12.1363503",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/230/23082196.jpg",
+    "rating": 4.1,
+    "stars": 4
+  },
+  {
+    "name": "ACHAT Comfort Messe",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen",
+      "city": "Chemnitz",
+      "lat": 50.8126936,
+      "lng": 12.8742467,
+      "distance": 461
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/ACHAT+Comfort+Messe-Chemnitz/@50.812697,12.8742467,17z/data=!3m1!4b1!4m8!3m7!1s0x47a747d1f34cef37:0x14f633c1e19e5491!5m2!4m1!1i2!8m2!3d50.8126936!4d12.8764354",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/170/17080045.jpg",
+    "rating": 3.8,
+    "stars": 3
+  },
+  {
+    "name": "Traditionshotel Wilder Mann",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen",
+      "city": "Erzgebirge",
+      "lat": 50.5807256,
+      "lng": 13.0000682,
+      "distance": 494
+    },
+    "attributes": [
+      "Natur",
+      "Wellness"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Traditions+hotel+Wilder+Mann/@50.580729,13.0000682,17z/data=!3m1!4b1!4m8!3m7!1s0x47a0ad06c2c362af:0xe721dc88cc7f31b1!5m2!4m1!1i2!8m2!3d50.5807256!4d13.0022569",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/813/81358020.jpg",
+    "rating": 4.2,
+    "stars": 4
+  },
+  {
+    "name": "Quality Hotel West",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen",
+      "city": "Dresden",
+      "lat": 51.0395995,
+      "lng": 13.5985127,
+      "distance": 528
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Quality+Hotel+Dresden+West/@51.0396029,13.5985127,17z/data=!3m1!4b1!4m8!3m7!1s0x4709da927eaf2557:0x368db87b038a762!5m2!4m1!1i2!8m2!3d51.0395995!4d13.6007014",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/146/14632533.jpg",
+    "rating": 3.8,
+    "stars": 3
+  },
+  {
+    "name": "AMEDIA Hotel Elbpromenade",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen",
+      "city": "Dresden",
+      "lat": 51.0625095,
+      "lng": 13.6835951,
+      "distance": 529
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Amedia+Hotel+Dresden+Elbpromenade/@51.0625129,13.6835951,17z/data=!3m1!4b1!4m8!3m7!1s0x4709cfeccbb04e3f:0x1a814949bfb42b54!5m2!4m1!1i2!8m2!3d51.0625095!4d13.6857838",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/207/207404705.jpg",
+    "rating": 4.0,
+    "stars": 3
+  },
+  {
+    "name": "A&O Hauptbahnhof",
+    "hostel": true,
+    "location": {
+      "region": "Sachsen",
+      "city": "Dresden",
+      "lat": 51.0366564,
+      "lng": 13.7372393,
+      "distance": 524
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Dresden+Hauptbahnhof/@51.0365739,13.7372316,17z/data=!3m1!4b1!4m8!3m7!1s0x4709c5f405eeb9bf:0xd7db481b7554072a!5m2!4m1!1i2!8m2!3d51.0365705!4d13.7394203",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/199/199505297.jpg",
+    "rating": 3.6,
+    "stars": 2
+  },
+  {
+    "name": "ACHAT Comfort Messe",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen",
+      "city": "Leipzig",
+      "lat": 51.4040843,
+      "lng": 12.36652,
+      "distance": 458
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/ACHAT+Comfort+Messe-Leipzig/@51.4040876,12.36652,17z/data=!3m1!4b1!4m8!3m7!1s0x47a658360abb2185:0x74dea413f4d81a5e!5m2!4m1!1i2!8m2!3d51.4040843!4d12.3687087",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/125/125177344.jpg",
+    "rating": 4.0,
+    "stars": 3
+  },
+  {
+    "name": "A&O Hauptbahnhof",
+    "hostel": true,
+    "location": {
+      "region": "Sachsen",
+      "city": "Leipzig",
+      "lat": 51.3445339,
+      "lng": 12.3834117,
+      "distance": 456
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/a%26o+Hostel+Leipzig+Hauptbahnhof/@51.3445658,12.3833713,17z/data=!3m1!4b1!4m8!3m7!1s0x47a6f817e4aba31b:0xff080242c097a676!5m2!4m1!1i2!8m2!3d51.3445625!4d12.38556",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/159/159808795.jpg",
+    "rating": 4.0,
+    "stars": 2
+  },
+  {
+    "name": "Classik Hotel",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen-Anhalt",
+      "city": "Magdeburg",
+      "lat": 52.06756,
+      "lng": 11.6137014,
+      "distance": 416
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Classik+Hotel+Magdeburg/@52.0675633,11.6137014,17z/data=!3m1!4b1!4m8!3m7!1s0x47a5f4222d764971:0xa6075a372b893a0d!5m2!4m1!1i2!8m2!3d52.06756!4d11.6158901",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/232/232757969.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "Kurpark-Hotel an den historischen Kuranlagen",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen-Anhalt",
+      "city": "Bad Lauchstädt",
+      "lat": 51.3863726,
+      "lng": 11.8605792,
+      "distance": 415
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Kurpark-+Hotel/@51.3863759,11.8605792,17z/data=!3m1!4b1!4m8!3m7!1s0x47a687a83c4f5d6d:0x134abc41e81af65d!5m2!4m1!1i2!8m2!3d51.3863726!4d11.8627679",
+    "image": "https://r-cf.bstatic.com/images/hotel/max500/789/789837.jpg",
+    "rating": 3.8,
+    "stars": 3
+  },
+  {
+    "name": "Hotel auf der Hohe",
+    "hostel": true,
+    "location": {
+      "region": "Sachsen-Anhalt",
+      "city": "Harz",
+      "lat": 51.737164,
+      "lng": 11.2043016,
+      "distance": 330
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+auf+der+Hohe/@51.7273443,11.2578634,17z/data=!3m1!4b1!4m8!3m7!1s0x47a5b95037a0a35b:0x9b691a717e2e3588!5m2!4m1!1i2!8m2!3d51.727341!4d11.260052",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/122/12235579.jpg",
+    "rating": 2.7,
+    "stars": 1
+  },
+  {
+    "name": "Hotel zum Kanzler",
+    "hostel": false,
+    "location": {
+      "region": "Sachsen-Anhalt",
+      "city": "Harz",
+      "lat": 52.1053587,
+      "lng": 9.5203599,
+      "distance": 336
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Zum+Kanzler/@51.5732799,10.9522734,17z/data=!3m1!4b1!4m8!3m7!1s0x47a5ac754a8eaaab:0x67d03784a12d6551!5m2!4m1!1i2!8m2!3d51.5732766!4d10.9544621",
+    "image": "https://q-cf.bstatic.com/images/hotel/max500/110/11086354.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "Hotel Plöner See",
+    "hostel": false,
+    "location": {
+      "region": "Schleswig-Holstein",
+      "city": "Plön",
+      "lat": 54.15696,
+      "lng": 10.4478312,
+      "distance": 496
+    },
+    "attributes": [
+      "Natur"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Hotel+Pl%C3%B6ner+See+Tulip+Inn/@54.1564483,10.4456913,17z/data=!3m1!4b1!4m8!3m7!1s0x47b2671ab105b6a3:0xc69440d551d45b65!5m2!4m1!1i2!8m2!3d54.1564452!4d10.44788",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/110/110162679.jpg",
+    "rating": 3.3,
+    "stars": 2
+  },
+  {
+    "name": "Comfort Hotel",
+    "hostel": false,
+    "location": {
+      "region": "Thüringen",
+      "city": "Weimar",
+      "lat": 51.0108912,
+      "lng": 11.3294517,
+      "distance": 340
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Comfort+Hotel+Weimar/@51.0108946,11.3294517,17z/data=!3m1!4b1!4m8!3m7!1s0x47a41a5ef57d142b:0x6d6c4e00141ae1aa!5m2!4m1!1i2!8m2!3d51.0108912!4d11.3316404",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/221/221542270.jpg",
+    "rating": 3.7,
+    "stars": 3
+  },
+  {
+    "name": "The Royal Inn Regent",
+    "hostel": false,
+    "location": {
+      "region": "Thüringen",
+      "city": "Gera",
+      "lat": 50.8721117,
+      "lng": 12.0780873,
+      "distance": 396
+    },
+    "attributes": [
+      "Stadt"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/The+Royal+Inn+Regent+Gera/@50.8721098,12.0781469,17z/data=!3m1!4b1!4m8!3m7!1s0x47a6cf6c07eca241:0x5b6df55595079c2f!5m2!4m1!1i2!8m2!3d50.8721117!4d12.080276",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/232/232733269.jpg",
+    "rating": 3.8,
+    "stars": 3
+  },
+  {
+    "name": "Aparthotel",
+    "hostel": false,
+    "location": {
+      "region": "Thüringen",
+      "city": "Oberhof",
+      "lat": 50.7037838,
+      "lng": 10.7277148,
+      "distance": 317
+    },
+    "attributes": [
+      "Natur",
+      "Wellness"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Aparthotel+Oberhof/@50.7037761,10.727611,17z/data=!3m1!4b1!4m8!3m7!1s0x47a38ff4f7365433:0x9e8f98f2c5ec49f!5m2!4m1!1i2!8m2!3d50.7037838!4d10.7299035",
+    "image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/24/332461582.jpeg",
+    "rating": 4.2,
+    "stars": 3
+  },
+  {
+    "name": "Werrapark Resort Hotel Frankenblick",
+    "hostel": false,
+    "location": {
+      "region": "Thüringen",
+      "city": "Thüringer Wald",
+      "lat": 50.4994974,
+      "lng": 10.8990571,
+      "distance": 365
+    },
+    "attributes": [
+      "Natur",
+      "Wellness"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Werrapark+Resort+Hotel+Frankenblick/@50.4995008,10.8990571,17z/data=!3m1!4b1!4m8!3m7!1s0x47a3c0206062e9fb:0x16902b4e93bf5611!5m2!4m1!1i2!8m2!3d50.4994974!4d10.9012458",
+    "image": "https://q-cf.bstatic.com/images/hotel/max1024x768/156/156384463.jpg",
+    "rating": 3.9,
+    "stars": 3
+  },
+  {
+    "name": "Werrapark Resort Hotel Heubacher Höhe",
+    "hostel": false,
+    "location": {
+      "region": "Thüringen",
+      "city": "Thüringer Wald",
+      "lat": 50.50705,
+      "lng": 10.9290313,
+      "distance": 363
+    },
+    "attributes": [
+      "Natur",
+      "Wellness"
+    ],
+    "transport": [
+      "Auto",
+      "Zug"
+    ],
+    "url": "https://www.google.com/maps/place/Werrapark+Resort+Hotel+Heubacher+H%C3%B6he/@50.4995008,10.8990571,17z/data=!4m8!3m7!1s0x47a3ea7d10e9036b:0xced37f02d9e7a7cb!5m2!4m1!1i2!8m2!3d50.50705!4d10.93122",
+    "image": "https://r-cf.bstatic.com/images/hotel/max1024x768/349/34908559.jpg",
+    "rating": 3.9,
+    "stars": 3
   }
 ]
