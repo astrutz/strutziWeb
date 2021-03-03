@@ -27,5 +27,5 @@ jobs:
           # The pr number
           pr: ${{ github.event.pull_request.number }}
           # The output deployed url
-          url: https://google.de ${{ github.event.pull_request.number }}
+          url: http://cranach-pr-${{ github.event.pull_request.number }}.s3-website.eu-central-1.amazonaws.com/
 
