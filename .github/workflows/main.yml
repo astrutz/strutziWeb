@@ -19,7 +19,7 @@ jobs:
         uses: chabroA/action-append-pr-description@1.0.0
         with:
           # The github auth token
-          auth: 54049b53126c56a3cd252233ca441cdb3b73575f
+          auth: ${{ secrets.S3URL }}
           # The github repo name
           repo: strutziWeb
           # The github repo owner
