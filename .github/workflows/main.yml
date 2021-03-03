@@ -1,4 +1,3 @@
-default: &default_path "you should not use paths in config"
 name: Set Deployment URL
 
 on:
