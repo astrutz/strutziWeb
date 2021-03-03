@@ -1,0 +1,31 @@
+name: Set Deployment URL
+
+on:
+  pull_request:
+    branches: [ master ]
+    types: [opened, reopened]
+
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  set_deployment_url:
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Append Github PR description
+        # uses: chabroA/action-append-pr-description@66353b5d2be2240652a21849a137958e5d921faf
+        uses: chabroA/action-append-pr-description@1.0.0
+        with:
+          # The github auth token
+          auth: 54049b53126c56a3cd252233ca441cdb3b73575f
+          # The github repo name
+          repo: strutziWeb
+          # The github repo owner
+          owner: astrutz
+          # The pr number
+          pr: ${{ github.event.pull_request.number }}
+          # The output deployed url
+          url: https://google.de
+
