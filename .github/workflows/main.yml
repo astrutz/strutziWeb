@@ -1,3 +1,4 @@
+default: &default_path "you should not use paths in config"
 name: Set Deployment URL
 
 on:
@@ -27,5 +28,5 @@ jobs:
           # The pr number
           pr: ${{ github.event.pull_request.number }}
           # The output deployed url
-          url: https://google.de
+          url: https://google.de ${{ github.event.pull_request.number }}
 
